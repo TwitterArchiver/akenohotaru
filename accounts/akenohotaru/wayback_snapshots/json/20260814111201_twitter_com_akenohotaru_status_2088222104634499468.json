@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088104377907396608"
+      ],
+      "media_source_tweet_id": [
+        "2088104436728311835"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2088222104634499468",
+    "created_at": "2026-08-14T11:12:01.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088222104634499468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/orwtI48mbA",
+          "end": 47,
+          "expanded_url": "https://x.com/smiroyama/status/2088104436728311835/photo/1",
+          "media_key": "3_2088104377907396608",
+          "start": 24,
+          "url": "https://t.co/orwtI48mbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088222104634499468",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088104377907396608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088104436728311835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 四大模型人物介绍 https://t.co/orwtI48mbA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2088104377907396608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpv3lMbwAAMeaD.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104377907396608"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2088104436728311835",
+        "created_at": "2026-08-14T03:24:27.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088104436728311835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orwtI48mbA",
+              "end": 32,
+              "expanded_url": "https://x.com/smiroyama/status/2088104436728311835/photo/1",
+              "media_key": "3_2088104377907396608",
+              "start": 9,
+              "url": "https://t.co/orwtI48mbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088104436728311835",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104377907396608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 53005,
+          "like_count": 881,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "四大模型人物介绍 https://t.co/orwtI48mbA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104377907396608"
+          ],
+          "media_source_tweet_id": [
+            "2088104436728311835"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088222104634499468",
+        "created_at": "2026-08-14T11:12:01.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088222104634499468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/orwtI48mbA",
+              "end": 47,
+              "expanded_url": "https://x.com/smiroyama/status/2088104436728311835/photo/1",
+              "media_key": "3_2088104377907396608",
+              "start": 24,
+              "url": "https://t.co/orwtI48mbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088222104634499468",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104377907396608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088104436728311835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 四大模型人物介绍 https://t.co/orwtI48mbA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类，pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088222104634499468",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 155,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n妹妹:@tangeorange @StarryNocts\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tangeorange"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 107,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 84,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088202683648004520",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7720,
+          "following_count": 2738,
+          "like_count": 14887,
+          "listed_count": 16,
+          "media_count": 2567,
+          "tweet_count": 9546
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

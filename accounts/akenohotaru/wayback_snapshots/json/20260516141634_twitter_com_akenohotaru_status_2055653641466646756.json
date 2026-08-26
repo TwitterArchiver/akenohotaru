@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2055603272120222092",
+    "created_at": "2026-05-16T14:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055653641466646756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039188116443947009",
+          "start": 0,
+          "username": "xichangan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055653641466646756",
+    "in_reply_to_user_id": "2039188116443947009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055649406318440624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichangan8964 那得坐飞机带去日本sega本部咯（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2055603272120222092",
+        "created_at": "2026-05-16T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055653641466646756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039188116443947009",
+              "start": 0,
+              "username": "xichangan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055653641466646756",
+        "in_reply_to_user_id": "2039188116443947009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055649406318440624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichangan8964 那得坐飞机带去日本sega本部咯（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039188116443947009",
+        "conversation_id": "2055603272120222092",
+        "created_at": "2026-05-16T13:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055649406318440624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055649406318440624",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055603272120222092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 带出去维修店x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 115,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 320
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T03:49:46.000Z",
+        "description": "左右没有什么绝对，所以绝对超越左右。\n爱人永远留在1995年夏。https://t.co/k4XAsdVZAY\n本号含王沪宁元素极多，似推似梦似公似嬷都无所谓，学术研究也有，史料考究也有，只爱你哦沪宁😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/works/78047201",
+                "end": 55,
+                "expanded_url": "https://archiveofourown.org/works/78047201",
+                "start": 32,
+                "url": "https://t.co/k4XAsdVZAY"
+              }
+            ]
+          }
+        },
+        "id": "2039188116443947009",
+        "location": "中南海某处垃圾桶中",
+        "name": "西长安街右转",
+        "pinned_tweet_id": "2039403921307787527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039310867985313792/ZXUZ_0Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 235,
+          "like_count": 3269,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 1601
+        },
+        "username": "xichangan8964",
+        "verified": false
+      }
+    ]
+  }
+}

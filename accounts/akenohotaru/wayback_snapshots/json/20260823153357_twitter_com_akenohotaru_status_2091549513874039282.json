@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2091549513874039282",
+    "created_at": "2026-08-23T15:33:57.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091549513874039282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8888internet/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/8888internet/status/2090807245336617446",
+          "start": 6,
+          "url": "https://t.co/Xyz9lGjsW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091549513874039282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090807245336617446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱过头了 https://t.co/Xyz9lGjsW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5700,
+        "height": 720,
+        "media_key": "13_2090807234033012736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090807234033012736/img/kyunKl5bB_1tf6wE.jpg",
+        "public_metrics": {
+          "view_count": 53635
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090807234033012736/vid/avc1/296x270/iWZjjvb9MFhIMT2t.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090807234033012736/vid/avc1/394x360/hgB_TCm_Krlu_XOx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090807234033012736/vid/avc1/790x720/q8NyY6CfOXShj5GN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090807234033012736/pl/eFcOhFxqnMSgiHlC.m3u8"
+          }
+        ],
+        "width": 790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2091549513874039282",
+        "created_at": "2026-08-23T15:33:57.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091549513874039282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8888internet/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/8888internet/status/2090807245336617446",
+              "start": 6,
+              "url": "https://t.co/Xyz9lGjsW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091549513874039282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090807245336617446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱过头了 https://t.co/Xyz9lGjsW2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090807234033012736"
+          ]
+        },
+        "author_id": "1383981982359560196",
+        "conversation_id": "2090807245336617446",
+        "created_at": "2026-08-21T14:24:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090807245336617446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uTQDRmGkn",
+              "end": 23,
+              "expanded_url": "https://x.com/8888internet/status/2090807245336617446/video/1",
+              "media_key": "13_2090807234033012736",
+              "start": 0,
+              "url": "https://t.co/7uTQDRmGkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090807245336617446",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2090807234033012736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 912,
+          "impression_count": 119047,
+          "like_count": 5147,
+          "quote_count": 31,
+          "reply_count": 19,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7uTQDRmGkn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/dxm大天使😇😇/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091549513874039282",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 167,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-19T03:13:18.000Z",
+        "description": "Attention Dialed To a Higher Dimension🪲 -.+*#cult ˚₊꒰ა ☆ ໒꒱ ‧ʚ /ᐠ_ _ᐟ\\ ɞ˚‧｡⋆☸️♡૮₍ • ˕ - ₎ა♡☸️₊˚ 眼淚的天使  #milady⠀vyvansetrance⠀ #𝔅ℜ𝔊 ⠀⠀ ⠀⠀⠀ iloveuverymuch5ever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "cult"
+              },
+              {
+                "end": 110,
+                "start": 103,
+                "tag": "milady"
+              },
+              {
+                "end": 130,
+                "start": 126,
+                "tag": "𝔅ℜ𝔊"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/a1629aa",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/a1629aa",
+                "start": 0,
+                "url": "https://t.co/xvgUen5ppT"
+              }
+            ]
+          }
+        },
+        "id": "1383981982359560196",
+        "is_identity_verified": false,
+        "location": " ₍⑅ᐢ..ᐢ₎  ˖⁺‧₊˚♡˚₊‧ ",
+        "most_recent_tweet_id": "2091083034087051511",
+        "name": "internet 🪽",
+        "pinned_tweet_id": "2085176562597450065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383981982359560196/1719639704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913034066791653376/zHnzSTu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 1549,
+          "like_count": 21486,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/xvgUen5ppT",
+        "username": "8888internet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
