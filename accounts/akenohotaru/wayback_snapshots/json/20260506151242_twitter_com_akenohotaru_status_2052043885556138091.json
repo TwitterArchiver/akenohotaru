@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2052043885556138091",
+    "created_at": "2026-05-06T15:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052043885556138091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yottan20001202…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yottan20001202/status/2051953808943841723",
+          "start": 15,
+          "url": "https://t.co/6M7xRGjJHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052043885556138091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051953808943841723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超级期待kop8绝对王者回归 https://t.co/6M7xRGjJHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2051953714915872768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoBCDEakAAcCKX.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 18610,
+        "height": 720,
+        "media_key": "13_2051953715066875904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051953715066875904/img/CO22tfcFTb15gwYi.jpg",
+        "public_metrics": {
+          "view_count": 4210
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051953715066875904/vid/avc1/480x270/XADyDP5ire1VkLsY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051953715066875904/vid/avc1/640x360/w6c0FOQ35nIjNMdw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051953715066875904/vid/avc1/1280x720/Uf84ul3UCHC5Ej3-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051953715066875904/pl/990wVHQoVHHVHMOA.m3u8?v=268"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2052043885556138091",
+        "created_at": "2026-05-06T15:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052043885556138091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yottan20001202…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yottan20001202/status/2051953808943841723",
+              "start": 15,
+              "url": "https://t.co/6M7xRGjJHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052043885556138091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051953808943841723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级期待kop8绝对王者回归 https://t.co/6M7xRGjJHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051953714915872768",
+            "13_2051953715066875904"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2051953808943841723",
+        "created_at": "2026-05-06T09:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051953808943841723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 111,
+              "id": "982493514",
+              "start": 96,
+              "username": "tokoyaminomori"
+            }
+          ],
+          "urls": [
+            {
+              "description": "今回なんと！常闇（＠tokoyami）さんにVlog動画を編集していただきました！！ありがとうございます！！！人生初の香港めっちゃ楽しかった〜！！ご飯もどれも美味しかったし、またいつか機会があれば行きたい…！！今回はサイン会が長引いて大会参加できなかったけど、次行く時大会とかあれば参加したい！現地でもゆっくり遊び...",
+              "display_url": "youtu.be/y_7S3uJ5-Oo?si…",
+              "end": 91,
+              "expanded_url": "https://youtu.be/y_7S3uJ5-Oo?si=xjIXJcqNo6lOwT8q",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2051953813171601408/RGp8bNcw?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051953813171601408/RGp8bNcw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "【Vlog in香港】 maimaiが世界一多いゲーセンによしき驚愕！人生初の香港で大満喫旅♪",
+              "unwound_url": "https://www.youtube.com/watch?si=xjIXJcqNo6lOwT8q&v=y_7S3uJ5-Oo&feature=youtu.be",
+              "url": "https://t.co/KEbX5JsKCi"
+            },
+            {
+              "display_url": "pic.x.com/wHD1xvR75A",
+              "end": 188,
+              "expanded_url": "https://x.com/yottan20001202/status/2051953808943841723/video/1",
+              "media_key": "3_2051953714915872768",
+              "start": 165,
+              "url": "https://t.co/wHD1xvR75A"
+            },
+            {
+              "display_url": "pic.x.com/wHD1xvR75A",
+              "end": 188,
+              "expanded_url": "https://x.com/yottan20001202/status/2051953808943841723/video/1",
+              "media_key": "13_2051953715066875904",
+              "start": 165,
+              "url": "https://t.co/wHD1xvR75A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051953808943841723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19715,
+          "like_count": 188,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "YouTubeに動画を投稿したよ！！\n\n【Vlog in香港】 maimaiが世界一多いゲーセンによしき驚愕！人生初の香港で大満喫旅♪\nhttps://t.co/KEbX5JsKCi\n\n常闇(@tokoyaminomori )さんに編集していただきました🤩🤩ｱﾘｶﾞﾄｳｺﾞｻﾞｲﾏｽ!!!\n香港旅まとめ！みんなみてねー！！！！ https://t.co/wHD1xvR75A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 103,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 261
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／全国大会優勝7回🏆(2020~6th 5連覇)／KoP4th.5thスコアタ1位(4th単独303%)／フジテレビ2時間生放送出演+優勝／地上波テレビ出演／公式生放送出演／元紫白全理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55501,
+          "following_count": 829,
+          "like_count": 24854,
+          "listed_count": 91,
+          "media_count": 13968,
+          "tweet_count": 65630
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

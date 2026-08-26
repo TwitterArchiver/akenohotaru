@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051022488545460224"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2051022516580163611",
+    "created_at": "2026-05-03T19:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051022516580163611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7zgD0dsHtw",
+          "end": 129,
+          "expanded_url": "https://x.com/akenohotaru/status/2051022516580163611/photo/1",
+          "media_key": "3_2051022488545460224",
+          "start": 106,
+          "url": "https://t.co/7zgD0dsHtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051022516580163611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真是草了你的吗了的广州禁毒劳拉西泮零滥用价值的东西也能给我拿出来说一下你为什么不把整个bzd所有药都拿出来说一遍然后再把喹硫平米氮平奥氮平氯丙嗪丙咪嗪阿立哌唑酒精所有抑制剂都拿出来说一遍我真他妈刷个抖音气晕了 https://t.co/7zgD0dsHtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051022488545460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHayFigXAAAmqVl.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051022488545460224"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2051022516580163611",
+        "created_at": "2026-05-03T19:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051022516580163611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zgD0dsHtw",
+              "end": 129,
+              "expanded_url": "https://x.com/akenohotaru/status/2051022516580163611/photo/1",
+              "media_key": "3_2051022488545460224",
+              "start": 106,
+              "url": "https://t.co/7zgD0dsHtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051022516580163611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是草了你的吗了的广州禁毒劳拉西泮零滥用价值的东西也能给我拿出来说一下你为什么不把整个bzd所有药都拿出来说一遍然后再把喹硫平米氮平奥氮平氯丙嗪丙咪嗪阿立哌唑酒精所有抑制剂都拿出来说一遍我真他妈刷个抖音气晕了 https://t.co/7zgD0dsHtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 101,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 230
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

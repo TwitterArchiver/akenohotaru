@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2057391639480730105",
+    "created_at": "2026-05-21T09:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057391639480730105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034276767331221504",
+          "start": 3,
+          "username": "SAIKAIaly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057391639480730105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057022892001599706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SAIKAIaly: 加巴喷丁批量吃到底该怎么吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2057391639480730105",
+        "created_at": "2026-05-21T09:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057391639480730105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034276767331221504",
+              "start": 3,
+              "username": "SAIKAIaly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057391639480730105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057022892001599706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SAIKAIaly: 加巴喷丁批量吃到底该怎么吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034276767331221504",
+        "conversation_id": "2057022892001599706",
+        "created_at": "2026-05-20T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057022892001599706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057022892001599706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2998,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁批量吃到底该怎么吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 117,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 359
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T14:32:44.000Z",
+        "description": "大号妈妈:@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/LdLf6HBhDq"
+              }
+            ]
+          }
+        },
+        "id": "2034276767331221504",
+        "name": "夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056772799436611596/QiSmMFAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 129,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/LdLf6HBhDq",
+        "username": "SAIKAIaly",
+        "verified": false
+      }
+    ]
+  }
+}

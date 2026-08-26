@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2087843086965813588",
+    "created_at": "2026-08-14T15:57:27.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088293935684981075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1498840351188340736",
+          "start": 0,
+          "username": "qibaoovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088293935684981075",
+    "in_reply_to_user_id": "1498840351188340736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088288157112615212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qibaoovo1 这样子啊，sorry~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2087843086965813588",
+        "created_at": "2026-08-14T15:57:27.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293935684981075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1498840351188340736",
+              "start": 0,
+              "username": "qibaoovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293935684981075",
+        "in_reply_to_user_id": "1498840351188340736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088288157112615212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qibaoovo1 这样子啊，sorry~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498840351188340736",
+        "conversation_id": "2087843086965813588",
+        "created_at": "2026-08-14T15:34:29.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088288157112615212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088288157112615212",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088270745852117065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 我是国际服玩家呀……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类，pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088293935684981075",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 158,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-02T01:59:29.000Z",
+        "description": "՞-ㅅ-՞｜🇸🇬🇨🇳｜maimai 16300ʚɞ｜关注感兴趣的人｜@zho1886420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "zho1886420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/NafBtqUsOB",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/NafBtqUsOB",
+                "start": 0,
+                "url": "https://t.co/BUytRZ2KT4"
+              }
+            ]
+          }
+        },
+        "id": "1498840351188340736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088288157112615212",
+        "name": "しずく",
+        "pinned_tweet_id": "2031601780921106611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498840351188340736/1758301843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969088034911268864/BJvsCygh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 624,
+          "like_count": 33054,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/BUytRZ2KT4",
+        "username": "qibaoovo1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

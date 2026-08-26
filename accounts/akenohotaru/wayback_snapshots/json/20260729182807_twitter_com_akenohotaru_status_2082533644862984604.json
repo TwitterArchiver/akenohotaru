@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2082041801851212163",
+    "created_at": "2026-07-29T18:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082533644862984604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859876030728765441",
+          "start": 0,
+          "username": "Guitar_hero87"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082533644862984604",
+    "in_reply_to_user_id": "1859876030728765441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082041801851212163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guitar_hero87 波奇酱可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2082041796922843136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTl-7EaIAACpun.jpg",
+        "width": 736
+      },
+      {
+        "height": 586,
+        "media_key": "3_2082041796952215552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTl-7LaUAA4fTF.jpg",
+        "width": 586
+      },
+      {
+        "height": 736,
+        "media_key": "3_2082041796931239936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTl-7GaQAAeeun.jpg",
+        "width": 736
+      },
+      {
+        "height": 736,
+        "media_key": "3_2082041796998373376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTl-7WaoAAq2FF.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2082041801851212163",
+        "created_at": "2026-07-29T18:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082533644862984604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859876030728765441",
+              "start": 0,
+              "username": "Guitar_hero87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082533644862984604",
+        "in_reply_to_user_id": "1859876030728765441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082041801851212163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guitar_hero87 波奇酱可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082041796922843136",
+            "3_2082041796952215552",
+            "3_2082041796931239936",
+            "3_2082041796998373376"
+          ]
+        },
+        "author_id": "1859876030728765441",
+        "conversation_id": "2082041801851212163",
+        "created_at": "2026-07-28T09:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082041801851212163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS76TCPcDi",
+              "end": 31,
+              "expanded_url": "https://x.com/Guitar_hero87/status/2082041801851212163/photo/1",
+              "media_key": "3_2082041796922843136",
+              "start": 8,
+              "url": "https://t.co/sS76TCPcDi"
+            },
+            {
+              "display_url": "pic.x.com/sS76TCPcDi",
+              "end": 31,
+              "expanded_url": "https://x.com/Guitar_hero87/status/2082041801851212163/photo/1",
+              "media_key": "3_2082041796952215552",
+              "start": 8,
+              "url": "https://t.co/sS76TCPcDi"
+            },
+            {
+              "display_url": "pic.x.com/sS76TCPcDi",
+              "end": 31,
+              "expanded_url": "https://x.com/Guitar_hero87/status/2082041801851212163/photo/1",
+              "media_key": "3_2082041796931239936",
+              "start": 8,
+              "url": "https://t.co/sS76TCPcDi"
+            },
+            {
+              "display_url": "pic.x.com/sS76TCPcDi",
+              "end": 31,
+              "expanded_url": "https://x.com/Guitar_hero87/status/2082041801851212163/photo/1",
+              "media_key": "3_2082041796998373376",
+              "start": 8,
+              "url": "https://t.co/sS76TCPcDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082041801851212163",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1697,
+          "like_count": 214,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "귀여움 ㅋㅋㅋ https://t.co/sS76TCPcDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 140,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T08:26:35.000Z",
+        "description": "기타리스트, ぼっち・ざ・ろっく, ひとり推し, ひとりちゃんに向かう探査船",
+        "id": "1859876030728765441",
+        "location": "ひとりちゃんのいる世界線",
+        "name": "보이저 221호",
+        "pinned_tweet_id": "1910279859093528725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001510114306691072/i1hK3OQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 240,
+          "like_count": 12971,
+          "listed_count": 1,
+          "media_count": 4553,
+          "tweet_count": 8372
+        },
+        "url": "",
+        "username": "Guitar_hero87",
+        "verified": false
+      }
+    ]
+  }
+}

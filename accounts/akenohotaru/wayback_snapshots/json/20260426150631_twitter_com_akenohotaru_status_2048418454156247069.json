@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2048408764441636900",
+    "created_at": "2026-04-26T15:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048418454156247069"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048418454156247069",
+    "in_reply_to_user_id": "1592697440343162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048408764441636900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "强烈呕吐感传来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2048408764441636900",
+        "created_at": "2026-04-26T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048418454156247069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048418454156247069",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048408764441636900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "强烈呕吐感传来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2048408764441636900",
+        "created_at": "2026-04-26T14:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048408764441636900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048408764441636900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20：10 20t玉米+可乐，忘记买西柚汁了，赶紧先下个单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 81,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 113
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

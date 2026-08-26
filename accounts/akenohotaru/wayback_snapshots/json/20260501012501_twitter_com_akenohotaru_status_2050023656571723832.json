@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049827577007886336"
+      ],
+      "media_source_tweet_id": [
+        "2049827702593769922"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050023656571723832",
+    "created_at": "2026-05-01T01:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050023656571723832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1927618351733657600",
+          "start": 3,
+          "username": "BaiChuan202505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MgQbPbQJiV",
+          "end": 53,
+          "expanded_url": "https://x.com/BaiChuan202505/status/2049827702593769922/photo/1",
+          "media_key": "3_2049827577007886336",
+          "start": 30,
+          "url": "https://t.co/MgQbPbQJiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050023656571723832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049827702593769922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaiChuan202505: 赛博诊断一测一个准 https://t.co/MgQbPbQJiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2049827577007886336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJzUiJa0AArKTa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049827577007886336"
+          ],
+          "media_source_tweet_id": [
+            "2049827702593769922"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050023656571723832",
+        "created_at": "2026-05-01T01:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050023656571723832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1927618351733657600",
+              "start": 3,
+              "username": "BaiChuan202505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgQbPbQJiV",
+              "end": 53,
+              "expanded_url": "https://x.com/BaiChuan202505/status/2049827702593769922/photo/1",
+              "media_key": "3_2049827577007886336",
+              "start": 30,
+              "url": "https://t.co/MgQbPbQJiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050023656571723832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049827702593769922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaiChuan202505: 赛博诊断一测一个准 https://t.co/MgQbPbQJiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049827577007886336"
+          ]
+        },
+        "author_id": "1927618351733657600",
+        "conversation_id": "2049827702593769922",
+        "created_at": "2026-04-30T12:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049827702593769922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgQbPbQJiV",
+              "end": 33,
+              "expanded_url": "https://x.com/BaiChuan202505/status/2049827702593769922/photo/1",
+              "media_key": "3_2049827577007886336",
+              "start": 10,
+              "url": "https://t.co/MgQbPbQJiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049827702593769922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2903,
+          "like_count": 23,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "赛博诊断一测一个准 https://t.co/MgQbPbQJiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 91,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 130
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "2021877312044900630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2620,
+          "like_count": 425,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 355
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

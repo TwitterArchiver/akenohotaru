@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087797408021544960"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087797423372734972",
+    "created_at": "2026-08-13T07:04:29.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087797423372734972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2001675650994999296",
+          "start": 1,
+          "username": "Pluralitysubsys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TPrTYOM9bY",
+          "end": 41,
+          "expanded_url": "https://x.com/akenohotaru/status/2087797423372734972/photo/1",
+          "media_key": "3_2087797408021544960",
+          "start": 18,
+          "url": "https://t.co/TPrTYOM9bY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087797423372734972",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087797408021544960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟@Pluralitysubsys https://t.co/TPrTYOM9bY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2087797408021544960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlYrlQbAAAw7Pz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087797408021544960"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087797423372734972",
+        "created_at": "2026-08-13T07:04:29.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087797423372734972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2001675650994999296",
+              "start": 1,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPrTYOM9bY",
+              "end": 41,
+              "expanded_url": "https://x.com/akenohotaru/status/2087797423372734972/photo/1",
+              "media_key": "3_2087797408021544960",
+              "start": 18,
+              "url": "https://t.co/TPrTYOM9bY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087797423372734972",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087797408021544960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟@Pluralitysubsys https://t.co/TPrTYOM9bY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087797423372734972",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 154,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "is_identity_verified": false,
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "most_recent_tweet_id": "2087758239404613669",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2078683512438464528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001675650994999296/1778736401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 154,
+          "like_count": 2224,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 3662
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

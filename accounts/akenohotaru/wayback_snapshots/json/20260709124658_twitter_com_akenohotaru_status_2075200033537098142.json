@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2075200033537098142",
+    "created_at": "2026-07-09T12:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075200033537098142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2074834263535743463",
+          "start": 3,
+          "url": "https://t.co/mweenbbbDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075200033537098142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074834263535743463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逆天 https://t.co/mweenbbbDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_2074833950175092736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKfBgbYAAhxFO.jpg",
+        "width": 640
+      },
+      {
+        "height": 1380,
+        "media_key": "3_2074833950183452673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKfBia8AEUPkD.jpg",
+        "width": 640
+      },
+      {
+        "height": 1380,
+        "media_key": "3_2074833950196092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKfBlb0AAXmnq.jpg",
+        "width": 640
+      },
+      {
+        "height": 1380,
+        "media_key": "3_2074833950216978432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtKfBqagAAGgTZ.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2075200033537098142",
+        "created_at": "2026-07-09T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075200033537098142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2074834263535743463",
+              "start": 3,
+              "url": "https://t.co/mweenbbbDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075200033537098142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074834263535743463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天 https://t.co/mweenbbbDB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074833950175092736",
+            "3_2074833950183452673",
+            "3_2074833950196092928",
+            "3_2074833950216978432"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074834263535743463",
+        "created_at": "2026-07-08T12:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074834263535743463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtFjfCvIlg",
+              "end": 62,
+              "expanded_url": "https://x.com/MomoseReina/status/2074834263535743463/photo/1",
+              "media_key": "3_2074833950175092736",
+              "start": 39,
+              "url": "https://t.co/rtFjfCvIlg"
+            },
+            {
+              "display_url": "pic.x.com/rtFjfCvIlg",
+              "end": 62,
+              "expanded_url": "https://x.com/MomoseReina/status/2074834263535743463/photo/1",
+              "media_key": "3_2074833950183452673",
+              "start": 39,
+              "url": "https://t.co/rtFjfCvIlg"
+            },
+            {
+              "display_url": "pic.x.com/rtFjfCvIlg",
+              "end": 62,
+              "expanded_url": "https://x.com/MomoseReina/status/2074834263535743463/photo/1",
+              "media_key": "3_2074833950196092928",
+              "start": 39,
+              "url": "https://t.co/rtFjfCvIlg"
+            },
+            {
+              "display_url": "pic.x.com/rtFjfCvIlg",
+              "end": 62,
+              "expanded_url": "https://x.com/MomoseReina/status/2074834263535743463/photo/1",
+              "media_key": "3_2074833950216978432",
+              "start": 39,
+              "url": "https://t.co/rtFjfCvIlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074834263535743463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4147,
+          "like_count": 43,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了，天津全女舞萌群后续来了\n一上来男的一股味我不行了\n魔理沙怎么你了😡 https://t.co/rtFjfCvIlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 125,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 336,
+          "like_count": 9223,
+          "listed_count": 6,
+          "media_count": 419,
+          "tweet_count": 6570
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

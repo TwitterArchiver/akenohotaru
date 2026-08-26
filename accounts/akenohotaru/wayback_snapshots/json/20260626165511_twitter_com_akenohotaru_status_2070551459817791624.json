@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2070195260693889221",
+    "created_at": "2026-06-26T16:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070551459817791624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993098158495395840",
+          "start": 0,
+          "username": "kfqnszVKWv91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070551459817791624",
+    "in_reply_to_user_id": "1993098158495395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070195260693889221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfqnszVKWv91426 包的，终于有人也体会到我的神明大人的魅力了吗，跟氯硝合同能让你爽到躺在床上飞起来完全不想动哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2070195260693889221",
+        "created_at": "2026-06-26T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070551459817791624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993098158495395840",
+              "start": 0,
+              "username": "kfqnszVKWv91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070551459817791624",
+        "in_reply_to_user_id": "1993098158495395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070195260693889221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfqnszVKWv91426 包的，终于有人也体会到我的神明大人的魅力了吗，跟氯硝合同能让你爽到躺在床上飞起来完全不想动哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993098158495395840",
+        "conversation_id": "2070195260693889221",
+        "created_at": "2026-06-25T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070195260693889221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070195260693889221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1040,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了佐匹克隆好高兴啊，这个药还有欣快作用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 125,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:23:44.000Z",
+        "description": "焦虑抑郁/泛性恋/💊\n我想追求幸福",
+        "id": "1993098158495395840",
+        "name": "air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046692710976040960/G3P1mnT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 121,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "kfqnszVKWv91426",
+        "verified": false
+      }
+    ]
+  }
+}

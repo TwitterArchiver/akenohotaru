@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2065989547650162978",
+    "created_at": "2026-06-14T02:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065989547650162978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811843582229381123",
+          "start": 3,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065989547650162978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036112737320002020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainduRhinns: MDMA确实是人类创造过最伟大的毒品  真正做到了集兴奋剂共情剂致幻剂于一身 刷新了人类精神史获得幸福的界限 比土嗨的兴奋剂多了太多爱与觉悟 很多人不喜欢苯丙胺或LSD但极少有人能拒绝MDMA的爱与感动 半个世纪无法取代 APB纵有强度但仍缺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2065989547650162978",
+        "created_at": "2026-06-14T02:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065989547650162978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811843582229381123",
+              "start": 3,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065989547650162978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036112737320002020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainduRhinns: MDMA确实是人类创造过最伟大的毒品  真正做到了集兴奋剂共情剂致幻剂于一身 刷新了人类精神史获得幸福的界限 比土嗨的兴奋剂多了太多爱与觉悟 很多人不喜欢苯丙胺或LSD但极少有人能拒绝MDMA的爱与感动 半个世纪无法取代 APB纵有强度但仍缺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2036112737320002020",
+        "created_at": "2026-03-23T16:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036112737320002020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036112737320002020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14406,
+          "like_count": 125,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "MDMA确实是人类创造过最伟大的毒品  真正做到了集兴奋剂共情剂致幻剂于一身 刷新了人类精神史获得幸福的界限 比土嗨的兴奋剂多了太多爱与觉悟 很多人不喜欢苯丙胺或LSD但极少有人能拒绝MDMA的爱与感动 半个世纪无法取代 APB纵有强度但仍缺少幻觉深刻度 7-AMT幻觉虽强缺少共情\n天不生MDMA 万古如长夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 129,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 501
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 904,
+          "like_count": 4500,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

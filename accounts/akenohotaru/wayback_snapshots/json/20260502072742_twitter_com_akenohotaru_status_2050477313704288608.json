@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049787530409865216"
+      ],
+      "media_source_tweet_id": [
+        "2049787582662492654"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050477313704288608",
+    "created_at": "2026-05-02T07:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050477313704288608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847712034361659392",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "description": "药理作用 作用机理 拮抗受体：食欲素受体OX1(ki=6.1nm)、OX2（ki=2.6nm） 药物作用 主要的副作用：困倦、头痛、头晕、噩梦、睡眠瘫痪、体重增加（ 1-3%）、食欲增加（ 1%）、嗜睡、疲劳、幻觉（ 1%） 主要的主作用：镇静催眠（无成瘾性） 相互作用 莱博雷生通过CYP3A4酶代谢，CYP3A4酶抑制剂 增加 莱博雷生 血药浓度和半衰期，CYP3A4酶诱导剂 降低 莱博雷生 血...",
+          "display_url": "jile.bid/%E8%8D%AF%E7%8…",
+          "end": 54,
+          "expanded_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+          "start": 31,
+          "status": 200,
+          "title": "第四代安眠药",
+          "unwound_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+          "url": "https://t.co/PVSYRTCyP7"
+        },
+        {
+          "display_url": "pic.x.com/GoUHN94avQ",
+          "end": 78,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/2049787582662492654/photo/1",
+          "media_key": "3_2049787530409865216",
+          "start": 55,
+          "url": "https://t.co/GoUHN94avQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050477313704288608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049787582662492654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 更新第四代安眠药\n\nhttps://t.co/PVSYRTCyP7 https://t.co/GoUHN94avQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2049787530409865216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJO5g8a8AABGFa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049787530409865216"
+          ],
+          "media_source_tweet_id": [
+            "2049787582662492654"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050477313704288608",
+        "created_at": "2026-05-02T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050477313704288608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847712034361659392",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "description": "药理作用 作用机理 拮抗受体：食欲素受体OX1(ki=6.1nm)、OX2（ki=2.6nm） 药物作用 主要的副作用：困倦、头痛、头晕、噩梦、睡眠瘫痪、体重增加（ 1-3%）、食欲增加（ 1%）、嗜睡、疲劳、幻觉（ 1%） 主要的主作用：镇静催眠（无成瘾性） 相互作用 莱博雷生通过CYP3A4酶代谢，CYP3A4酶抑制剂 增加 莱博雷生 血药浓度和半衰期，CYP3A4酶诱导剂 降低 莱博雷生 血...",
+              "display_url": "jile.bid/%E8%8D%AF%E7%8…",
+              "end": 54,
+              "expanded_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+              "start": 31,
+              "status": 200,
+              "title": "第四代安眠药",
+              "unwound_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+              "url": "https://t.co/PVSYRTCyP7"
+            },
+            {
+              "display_url": "pic.x.com/GoUHN94avQ",
+              "end": 78,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049787582662492654/photo/1",
+              "media_key": "3_2049787530409865216",
+              "start": 55,
+              "url": "https://t.co/GoUHN94avQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050477313704288608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049787582662492654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 更新第四代安眠药\n\nhttps://t.co/PVSYRTCyP7 https://t.co/GoUHN94avQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049787530409865216"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2049787582662492654",
+        "created_at": "2026-04-30T09:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049787582662492654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "药理作用 作用机理 拮抗受体：食欲素受体OX1(ki=6.1nm)、OX2（ki=2.6nm） 药物作用 主要的副作用：困倦、头痛、头晕、噩梦、睡眠瘫痪、体重增加（ 1-3%）、食欲增加（ 1%）、嗜睡、疲劳、幻觉（ 1%） 主要的主作用：镇静催眠（无成瘾性） 相互作用 莱博雷生通过CYP3A4酶代谢，CYP3A4酶抑制剂 增加 莱博雷生 血药浓度和半衰期，CYP3A4酶诱导剂 降低 莱博雷生 血...",
+              "display_url": "jile.bid/%E8%8D%AF%E7%8…",
+              "end": 33,
+              "expanded_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+              "start": 10,
+              "status": 200,
+              "title": "第四代安眠药",
+              "unwound_url": "https://jile.bid/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/1295.html",
+              "url": "https://t.co/PVSYRTCyP7"
+            },
+            {
+              "display_url": "pic.x.com/GoUHN94avQ",
+              "end": 57,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049787582662492654/photo/1",
+              "media_key": "3_2049787530409865216",
+              "start": 34,
+              "url": "https://t.co/GoUHN94avQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049787582662492654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 854,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "更新第四代安眠药\n\nhttps://t.co/PVSYRTCyP7 https://t.co/GoUHN94avQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 96,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 158
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quanminjile",
+                "end": 23,
+                "expanded_url": "http://t.me/quanminjile",
+                "start": 0,
+                "url": "https://t.co/bi1TNvoPLe"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "天国",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 928,
+          "like_count": 24370,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/bi1TNvoPLe",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2022936171249307782",
+    "created_at": "2026-02-15T07:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022936171249307782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022936171249307782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吸入了整个肺的丁烷，然后憋气。以前都是普通生理反应和有人在跟我说话的幻觉。这次我憋了很久。然后他妈逼的我全身在乱滚，然后从床上摔了下来。听着幻觉里面的人在笑着往我往最高处捅，捅了10多次。随后睁开眼。幻就结束了。我才发现我在床底下。我确信我这次达到了丁烷的最高点。真的好爽，好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2022936171249307782",
+        "created_at": "2026-02-15T07:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022936171249307782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022936171249307782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吸入了整个肺的丁烷，然后憋气。以前都是普通生理反应和有人在跟我说话的幻觉。这次我憋了很久。然后他妈逼的我全身在乱滚，然后从床上摔了下来。听着幻觉里面的人在笑着往我往最高处捅，捅了10多次。随后睁开眼。幻就结束了。我才发现我在床底下。我确信我这次达到了丁烷的最高点。真的好爽，好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

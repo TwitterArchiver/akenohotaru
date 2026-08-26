@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067197612529516544",
+        "3_2067197612542066688",
+        "3_2067197612537868288",
+        "3_2067197612575670272"
+      ],
+      "media_source_tweet_id": [
+        "2067197616740544575",
+        "2067197616740544575",
+        "2067197616740544575",
+        "2067197616740544575"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067666048263016593",
+    "created_at": "2026-06-18T17:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067666048263016593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3881870173",
+          "start": 3,
+          "username": "Aun6kkT"
+        },
+        {
+          "end": 28,
+          "id": "1975006867245207553",
+          "start": 13,
+          "username": "Cho_KaguyaHime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/54JTIIRBdC",
+          "end": 52,
+          "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+          "media_key": "3_2067197612529516544",
+          "start": 29,
+          "url": "https://t.co/54JTIIRBdC"
+        },
+        {
+          "display_url": "pic.x.com/54JTIIRBdC",
+          "end": 52,
+          "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+          "media_key": "3_2067197612542066688",
+          "start": 29,
+          "url": "https://t.co/54JTIIRBdC"
+        },
+        {
+          "display_url": "pic.x.com/54JTIIRBdC",
+          "end": 52,
+          "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+          "media_key": "3_2067197612537868288",
+          "start": 29,
+          "url": "https://t.co/54JTIIRBdC"
+        },
+        {
+          "display_url": "pic.x.com/54JTIIRBdC",
+          "end": 52,
+          "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+          "media_key": "3_2067197612575670272",
+          "start": 29,
+          "url": "https://t.co/54JTIIRBdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067666048263016593",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067197616740544575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aun6kkT: @Cho_KaguyaHime https://t.co/54JTIIRBdC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2067197612529516544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLApRq9bgAAQBkY.jpg",
+        "width": 1334
+      },
+      {
+        "height": 750,
+        "media_key": "3_2067197612542066688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLApRrAbAAARh36.jpg",
+        "width": 1334
+      },
+      {
+        "height": 750,
+        "media_key": "3_2067197612537868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLApRq_a8AAxdXl.jpg",
+        "width": 1334
+      },
+      {
+        "height": 750,
+        "media_key": "3_2067197612575670272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLApRrIbwAA51eB.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067197612529516544",
+            "3_2067197612542066688",
+            "3_2067197612537868288",
+            "3_2067197612575670272"
+          ],
+          "media_source_tweet_id": [
+            "2067197616740544575",
+            "2067197616740544575",
+            "2067197616740544575",
+            "2067197616740544575"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067666048263016593",
+        "created_at": "2026-06-18T17:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067666048263016593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3881870173",
+              "start": 3,
+              "username": "Aun6kkT"
+            },
+            {
+              "end": 28,
+              "id": "1975006867245207553",
+              "start": 13,
+              "username": "Cho_KaguyaHime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 52,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612529516544",
+              "start": 29,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 52,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612542066688",
+              "start": 29,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 52,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612537868288",
+              "start": 29,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 52,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612575670272",
+              "start": 29,
+              "url": "https://t.co/54JTIIRBdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067666048263016593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067197616740544575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aun6kkT: @Cho_KaguyaHime https://t.co/54JTIIRBdC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067197612529516544",
+            "3_2067197612542066688",
+            "3_2067197612537868288",
+            "3_2067197612575670272"
+          ]
+        },
+        "author_id": "3881870173",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067170385997561941",
+        "created_at": "2026-06-17T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067197616740544575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975006867245207553",
+              "start": 0,
+              "username": "Cho_KaguyaHime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 39,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612529516544",
+              "start": 16,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 39,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612542066688",
+              "start": 16,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 39,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612537868288",
+              "start": 16,
+              "url": "https://t.co/54JTIIRBdC"
+            },
+            {
+              "display_url": "pic.x.com/54JTIIRBdC",
+              "end": 39,
+              "expanded_url": "https://x.com/Aun6kkT/status/2067197616740544575/photo/1",
+              "media_key": "3_2067197612575670272",
+              "start": 16,
+              "url": "https://t.co/54JTIIRBdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067197616740544575",
+        "in_reply_to_user_id": "1975006867245207553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5064,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067170385997561941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cho_KaguyaHime https://t.co/54JTIIRBdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 123,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T15:14:06.000Z",
+        "description": "イナイレは青春/CLANNADは人生",
+        "id": "3881870173",
+        "name": "かずや@ぼっち党員🚑🐉 🎣OBB軍団",
+        "pinned_tweet_id": "1632088683410231296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614457513931309056/HuS_HRfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 5259,
+          "like_count": 216562,
+          "listed_count": 11,
+          "media_count": 64318,
+          "tweet_count": 418750
+        },
+        "url": "",
+        "username": "Aun6kkT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "アニメ映画『超かぐや姫！』公式／大ヒット上映中🐰／Netflixにて世界独占配信中🌕／監督：山下清悟 × 楽曲提供：豪華ボカロP陣／新時代の音楽アニメーションプロジェクト、開幕！／©コロリド・ツインエンジンパートナーズ／ #超かぐや姫 #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 139,
+                "start": 118,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUfpA3"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "『超かぐや姫！』公式",
+        "pinned_tweet_id": "2065720843674509792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474365,
+          "following_count": 29,
+          "like_count": 500,
+          "listed_count": 679,
+          "media_count": 696,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/ODAIRUfpA3",
+        "username": "Cho_KaguyaHime",
+        "verified": true
+      }
+    ]
+  }
+}

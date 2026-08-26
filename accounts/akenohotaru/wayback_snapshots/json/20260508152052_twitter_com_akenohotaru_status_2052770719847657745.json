@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2052348268596830661",
+    "created_at": "2026-05-08T15:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052770719847657745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052770719847657745",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052348268596830661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi 加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052348252494938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtn3KFawAASk7o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052348252503388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtn3KHbsAAZsVu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2052348268596830661",
+        "created_at": "2026-05-08T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052770719847657745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052770719847657745",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052348268596830661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052348252494938112",
+            "3_2052348252503388160"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052348268596830661",
+        "created_at": "2026-05-07T11:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052348268596830661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkLp0Z68Vb",
+              "end": 107,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052348268596830661/photo/1",
+              "media_key": "3_2052348252494938112",
+              "start": 84,
+              "url": "https://t.co/vkLp0Z68Vb"
+            },
+            {
+              "display_url": "pic.x.com/vkLp0Z68Vb",
+              "end": 107,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052348268596830661/photo/1",
+              "media_key": "3_2052348252503388160",
+              "start": 84,
+              "url": "https://t.co/vkLp0Z68Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052348268596830661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4958,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小号终于活了，大号是真死了...目前是去住院强戒pr了，用加巴喷丁配合乙哌立松戒断，晚上靠曲唑酮来+sns来睡觉，打笑气引发了植物神经紊乱，不敢再碰pr和笑气了... https://t.co/vkLp0Z68Vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 107,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 283
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 127,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 104,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 396,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

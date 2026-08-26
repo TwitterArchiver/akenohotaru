@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2059988640936481262",
+    "created_at": "2026-05-28T15:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060022890570059861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060022890570059861",
+    "in_reply_to_user_id": "1592697440343162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060021456118108443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "镇静到我没有任何想法，没有想要做什么能让自己开心的事情，这不是抑郁的那种感觉，我可以冷静地思考问题，我现在只是一味地想写体验报告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2059988640936481262",
+        "created_at": "2026-05-28T15:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060022890570059861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060022890570059861",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021456118108443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "镇静到我没有任何想法，没有想要做什么能让自己开心的事情，这不是抑郁的那种感觉，我可以冷静地思考问题，我现在只是一味地想写体验报告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2059988640936481262",
+        "created_at": "2026-05-28T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060021456118108443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060021456118108443",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059996635535728832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去不是，这镇静到我，从未如此感受到这么强大剧烈的镇静，别说刚才焦躁到爆的情绪一散而去，我甚至能包容下一切然后慢慢思考消化，虽然没有氯硝样欣快感，但是这种bzd样镇静，宁静给予我巨大的震撼，这种镇静效果比我在精神急诊科肌肉注射的bzd强无数倍，感谢推友的分享"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd、pr戒断中/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 123,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 438
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

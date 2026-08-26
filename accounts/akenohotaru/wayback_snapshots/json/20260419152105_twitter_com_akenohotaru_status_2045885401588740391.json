@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2045885401588740391",
+    "created_at": "2026-04-19T15:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045885401588740391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045885401588740391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045374106388906390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤的时…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2045885401588740391",
+        "created_at": "2026-04-19T15:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045885401588740391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045885401588740391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045374106388906390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤的时…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045374106388906390",
+        "created_at": "2026-04-18T05:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045374106388906390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VmikufansV/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/VmikufansV/status/2044944757127029072",
+              "start": 143,
+              "url": "https://t.co/QKwRB3MtAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045374106388906390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4361,
+          "like_count": 115,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044944757127029072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤的时候，\n你的大脑其实是在享受这种行为？ https://t.co/QKwRB3MtAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 984,
+          "like_count": 22184,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 7003
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

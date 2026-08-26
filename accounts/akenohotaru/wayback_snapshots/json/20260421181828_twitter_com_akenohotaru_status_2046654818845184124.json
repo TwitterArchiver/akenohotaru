@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2046654818845184124",
+    "created_at": "2026-04-21T18:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046654818845184124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "533941141",
+          "start": 3,
+          "username": "yueliang52111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046654818845184124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1594
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046136182267138232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueliang52111: 医生：你抽烟吗？\n男：抽。\n\n医生：每天多少包？\n男：三包。\n\n医生：每包多少钱？\n男：20块钱。\n\n医生：你抽烟多久了？\n男：30年。\n\n医生：所以这些年来每年你抽烟就花了21900。\n男：正确。\n\n医生：1年21900，不考虑通货的话，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2046654818845184124",
+        "created_at": "2026-04-21T18:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046654818845184124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "533941141",
+              "start": 3,
+              "username": "yueliang52111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046654818845184124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046136182267138232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueliang52111: 医生：你抽烟吗？\n男：抽。\n\n医生：每天多少包？\n男：三包。\n\n医生：每包多少钱？\n男：20块钱。\n\n医生：你抽烟多久了？\n男：30年。\n\n医生：所以这些年来每年你抽烟就花了21900。\n男：正确。\n\n医生：1年21900，不考虑通货的话，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "533941141",
+        "conversation_id": "2046136182267138232",
+        "created_at": "2026-04-20T07:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046136182267138232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046136182267138232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "医生：你抽烟吗？\n男：抽。\n\n医生：每天多少包？\n男：三包。\n\n医生：每包多少钱？\n男：20块钱。\n\n医生：你抽烟多久了？\n男：30年。\n\n医生：所以这些年来每年你抽烟就花了21900。\n男：正确。\n\n医生：1年21900，不考虑通货的话，过去的30年里你抽烟总共花了657000对吗？\n男：嗯。\n\n医生：你知道吗？如果你没有抽烟，把这些钱放在一个高利息的储蓄账户里，按复合利率来算。你现在能买一辆法拉利了。\n\n男：你抽烟吗？\n医生：不。\n\n男：那你的法拉利呢？？\n医生：楼下停车场停着呢，咋了？\n\n男：没事，我就问问……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 871,
+          "impression_count": 1913990,
+          "like_count": 15125,
+          "quote_count": 133,
+          "reply_count": 229,
+          "retweet_count": 1594
+        },
+        "reply_settings": "everyone",
+        "text": "医生：你抽烟吗？\n男：抽。\n\n医生：每天多少包？\n男：三包。\n\n医生：每包多少钱？\n男：20块钱。\n\n医生：你抽烟多久了？\n男：30年。\n\n医生：所以这些年来每年你抽烟就花了21900。\n男：正确。\n\n医生：1年21900，不考虑通货的话，过去的30年里你抽烟总共花了657000对吗？\n男：嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 75,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-23T06:16:10.000Z",
+        "description": "早期项目挖掘丨项目推广丨抽奖福利丨\n已入驻币安广场丨链游玩家 丨\n信息整理 丨数据分析丨 #项目宣发丨 #合作私信\n\nWEEX注册：https://t.co/FNNJHkjD1a\n\nTG：@yueliang5211314",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "项目宣发丨"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "合作私信"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "yueliang5211314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wxag.online/register?vipCo…",
+                "end": 89,
+                "expanded_url": "https://www.wxag.online/register?vipCode=49y5",
+                "start": 66,
+                "url": "https://t.co/FNNJHkjD1a"
+              }
+            ]
+          }
+        },
+        "id": "533941141",
+        "location": "BTC广场",
+        "name": "月亮",
+        "pinned_tweet_id": "2046136182267138232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971575404835250176/apkkWscq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33958,
+          "following_count": 17778,
+          "like_count": 54821,
+          "listed_count": 62,
+          "media_count": 2839,
+          "tweet_count": 63508
+        },
+        "username": "yueliang52111",
+        "verified": true
+      }
+    ]
+  }
+}

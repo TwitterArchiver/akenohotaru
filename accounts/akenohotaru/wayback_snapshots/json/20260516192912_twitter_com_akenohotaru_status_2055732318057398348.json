@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055732310352461824"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2055732318057398348",
+    "created_at": "2026-05-16T19:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055732318057398348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NSg1kaGmw",
+          "end": 102,
+          "expanded_url": "https://x.com/akenohotaru/status/2055732318057398348/photo/1",
+          "media_key": "3_2055732310352461824",
+          "start": 79,
+          "url": "https://t.co/7NSg1kaGmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055732318057398348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他妈的我终于知道为什么我短时间内体重增加了那么多，我这才知道普瑞的副作用会增加体重，加上那逼瘾折磨的我想死，这下真的下定决心戒了，转战右美，bzd和各种精二 https://t.co/7NSg1kaGmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055732310352461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdtpP_aAAAGq1-.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055732310352461824"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2055732318057398348",
+        "created_at": "2026-05-16T19:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055732318057398348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NSg1kaGmw",
+              "end": 102,
+              "expanded_url": "https://x.com/akenohotaru/status/2055732318057398348/photo/1",
+              "media_key": "3_2055732310352461824",
+              "start": 79,
+              "url": "https://t.co/7NSg1kaGmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055732318057398348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的我终于知道为什么我短时间内体重增加了那么多，我这才知道普瑞的副作用会增加体重，加上那逼瘾折磨的我想死，这下真的下定决心戒了，转战右美，bzd和各种精二 https://t.co/7NSg1kaGmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 115,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 326
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

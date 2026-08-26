@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091129165265461248"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091129176552317236",
+    "created_at": "2026-08-22T11:43:41.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091129176552317236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4B0RtTTSt",
+          "end": 56,
+          "expanded_url": "https://x.com/akenohotaru/status/2091129176552317236/photo/1",
+          "media_key": "3_2091129165265461248",
+          "start": 33,
+          "url": "https://t.co/M4B0RtTTSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091129176552317236",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091129165265461248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "200fo了沃 啪叽啪叽👏🏻🎉感谢大家喵\n要不要搞个抽奖什么呢🧐 https://t.co/M4B0RtTTSt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2091129165265461248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUu5YMbYAAJG-K.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091129165265461248"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091129176552317236",
+        "created_at": "2026-08-22T11:43:41.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091129176552317236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4B0RtTTSt",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2091129176552317236/photo/1",
+              "media_key": "3_2091129165265461248",
+              "start": 33,
+              "url": "https://t.co/M4B0RtTTSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091129176552317236",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091129165265461248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了沃 啪叽啪叽👏🏻🎉感谢大家喵\n要不要搞个抽奖什么呢🧐 https://t.co/M4B0RtTTSt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/dxm大天使😇😇/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091129176552317236",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 167,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

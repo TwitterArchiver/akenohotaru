@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080680358656557056"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2080680397642604791",
+    "created_at": "2026-07-24T15:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080680397642604791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/91BsRjTZ13",
+          "end": 137,
+          "expanded_url": "https://x.com/akenohotaru/status/2080680397642604791/photo/1",
+          "media_key": "3_2080680358656557056",
+          "start": 114,
+          "url": "https://t.co/91BsRjTZ13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080680397642604791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你可能不知道我今天的操作有多牛逼，但我真觉得自己拉满操作的样子真的帅，只能用图来说了，这是我玩药圈三年 单天 点到的 最多的 不同类型 从禁售 到精二 然后精一 也是 单天获取的 最多的菜。此条来纪念我单日获得药品的最高水平。 https://t.co/91BsRjTZ13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_2080680358656557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAPwyTbQAA8McF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080680358656557056"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2080680397642604791",
+        "created_at": "2026-07-24T15:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080680397642604791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91BsRjTZ13",
+              "end": 137,
+              "expanded_url": "https://x.com/akenohotaru/status/2080680397642604791/photo/1",
+              "media_key": "3_2080680358656557056",
+              "start": 114,
+              "url": "https://t.co/91BsRjTZ13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080680397642604791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可能不知道我今天的操作有多牛逼，但我真觉得自己拉满操作的样子真的帅，只能用图来说了，这是我玩药圈三年 单天 点到的 最多的 不同类型 从禁售 到精二 然后精一 也是 单天获取的 最多的菜。此条来纪念我单日获得药品的最高水平。 https://t.co/91BsRjTZ13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 131,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

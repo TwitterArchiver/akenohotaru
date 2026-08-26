@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087083384195735552",
+        "3_2087083487803346944"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2087083547593240646",
+    "created_at": "2026-08-11T07:47:48.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087083547593240646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0asYRBpQ3a",
+          "end": 43,
+          "expanded_url": "https://x.com/akenohotaru/status/2087083547593240646/photo/1",
+          "media_key": "3_2087083384195735552",
+          "start": 20,
+          "url": "https://t.co/0asYRBpQ3a"
+        },
+        {
+          "display_url": "pic.x.com/0asYRBpQ3a",
+          "end": 43,
+          "expanded_url": "https://x.com/akenohotaru/status/2087083547593240646/photo/1",
+          "media_key": "3_2087083487803346944",
+          "start": 20,
+          "url": "https://t.co/0asYRBpQ3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087083547593240646",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087083384195735552"
+      },
+      {
+        "media_key": "3_2087083487803346944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么几把杂牌，忙活半天不好吃你妈就死了 https://t.co/0asYRBpQ3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087083384195735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbPR7ObYAAr8Qb.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087083487803346944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbPX9MaEAAYE0d.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087083384195735552",
+            "3_2087083487803346944"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2087083547593240646",
+        "created_at": "2026-08-11T07:47:48.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087083547593240646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0asYRBpQ3a",
+              "end": 43,
+              "expanded_url": "https://x.com/akenohotaru/status/2087083547593240646/photo/1",
+              "media_key": "3_2087083384195735552",
+              "start": 20,
+              "url": "https://t.co/0asYRBpQ3a"
+            },
+            {
+              "display_url": "pic.x.com/0asYRBpQ3a",
+              "end": 43,
+              "expanded_url": "https://x.com/akenohotaru/status/2087083547593240646/photo/1",
+              "media_key": "3_2087083487803346944",
+              "start": 20,
+              "url": "https://t.co/0asYRBpQ3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087083547593240646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087083384195735552"
+          },
+          {
+            "media_key": "3_2087083487803346944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么几把杂牌，忙活半天不好吃你妈就死了 https://t.co/0asYRBpQ3a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087083547593240646",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 146,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

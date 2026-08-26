@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2082538332547105078",
+    "created_at": "2026-07-29T18:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082538332547105078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1Sz7s/status/2…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/1Sz7s/status/2082373593342808287",
+          "start": 12,
+          "url": "https://t.co/axAvC0rImR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082538332547105078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082373593342808287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了这个黑人打架配的 https://t.co/axAvC0rImR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27533,
+        "height": 1280,
+        "media_key": "13_2082373469661245440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082373469661245440/img/dGK6QoC0DhUd4H3f.jpg",
+        "public_metrics": {
+          "view_count": 16321
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082373469661245440/vid/avc1/320x568/zumG7VZWXWPsuC2K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082373469661245440/vid/avc1/480x852/pXA7KJSPHWXOJMzW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082373469661245440/vid/avc1/720x1280/viSPyXazXCZb4wPn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082373469661245440/pl/SviQpScj3U76PS-g.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2082538332547105078",
+        "created_at": "2026-07-29T18:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082538332547105078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1Sz7s/status/2…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/1Sz7s/status/2082373593342808287",
+              "start": 12,
+              "url": "https://t.co/axAvC0rImR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082538332547105078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082373593342808287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了这个黑人打架配的 https://t.co/axAvC0rImR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082373469661245440"
+          ]
+        },
+        "author_id": "1945052651940675584",
+        "conversation_id": "2082373593342808287",
+        "created_at": "2026-07-29T07:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082373593342808287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGilEKOeDs",
+              "end": 35,
+              "expanded_url": "https://x.com/1Sz7s/status/2082373593342808287/video/1",
+              "media_key": "13_2082373469661245440",
+              "start": 12,
+              "url": "https://t.co/VGilEKOeDs"
+            },
+            {
+              "display_url": "x.com/shisou_/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/shisou_/status/2081592548632748343",
+              "start": 36,
+              "url": "https://t.co/oXSpkIUYyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082373593342808287",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 58350,
+          "like_count": 565,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081592548632748343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/VGilEKOeDs https://t.co/oXSpkIUYyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 141,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T09:27:53.000Z",
+        "description": "ウニ｜匠｜Arcaea",
+        "id": "1945052651940675584",
+        "name": "鈴",
+        "pinned_tweet_id": "2075971780448252187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826139224346624/z-4zW9U7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 160,
+          "like_count": 2742,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "1Sz7s",
+        "verified": false
+      }
+    ]
+  }
+}

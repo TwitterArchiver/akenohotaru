@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2088303964739547534",
+    "created_at": "2026-08-14T18:35:02.000Z",
+    "display_text_range": [
+      31,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088333593424863240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962928508591841280",
+          "start": 0,
+          "username": "qwer2937rosm"
+        },
+        {
+          "end": 30,
+          "id": "1882705285816672256",
+          "start": 14,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088333593424863240",
+    "in_reply_to_user_id": "1962928508591841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088330894763512016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwer2937rosm @tom779853915031 不客气~我们可以互fo呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088303964739547534",
+        "created_at": "2026-08-14T18:35:02.000Z",
+        "display_text_range": [
+          31,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088333593424863240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962928508591841280",
+              "start": 0,
+              "username": "qwer2937rosm"
+            },
+            {
+              "end": 30,
+              "id": "1882705285816672256",
+              "start": 14,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088333593424863240",
+        "in_reply_to_user_id": "1962928508591841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088330894763512016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwer2937rosm @tom779853915031 不客气~我们可以互fo呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962928508591841280",
+        "conversation_id": "2088303964739547534",
+        "created_at": "2026-08-14T18:24:19.000Z",
+        "display_text_range": [
+          30,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330894763512016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 29,
+              "id": "1882705285816672256",
+              "start": 13,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330894763512016",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088321380458909706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @tom779853915031 好的好的，谢谢你呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088333593424863240",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786725673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 162,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T17:20:49.000Z",
+        "description": "",
+        "id": "1962928508591841280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088330894763512016",
+        "name": "qw er",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962928508591841280/1786088301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077546977831931905/JTPKwx_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 98,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "qwer2937rosm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁 | 中度焦虑 | 非资深oder | 友跨 | 非跨 | 可私 | 男 | 心理性别女 | 重度社交恐惧| 日常 | 虚无主义 | 互fo | 偶尔穿穿女装\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088317176621240730",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 382,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

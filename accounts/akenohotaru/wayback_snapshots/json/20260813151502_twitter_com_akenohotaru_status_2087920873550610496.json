@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2087830641090146386",
+    "created_at": "2026-08-13T15:15:02.000Z",
+    "display_text_range": [
+      40,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087920873550610496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        },
+        {
+          "end": 26,
+          "id": "2001675650994999296",
+          "start": 10,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 39,
+          "id": "1832763086039896064",
+          "start": 27,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087920873550610496",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087912330567000343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 @Pluralitysubsys @NanoCatfish 好哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2087830641090146386",
+        "created_at": "2026-08-13T15:15:02.000Z",
+        "display_text_range": [
+          40,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087920873550610496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 26,
+              "id": "2001675650994999296",
+              "start": 10,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 39,
+              "id": "1832763086039896064",
+              "start": 27,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087920873550610496",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087912330567000343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 @Pluralitysubsys @NanoCatfish 好哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898308906994294784",
+        "conversation_id": "2087830641090146386",
+        "created_at": "2026-08-13T14:41:05.000Z",
+        "display_text_range": [
+          43,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087912330567000343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 29,
+              "id": "2001675650994999296",
+              "start": 13,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 42,
+              "id": "1832763086039896064",
+              "start": 30,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087912330567000343",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830641090146386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @Pluralitysubsys @NanoCatfish 我也要"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类，pr戒断中/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087920873550610496",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 154,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087912330567000343",
+        "name": "TTAR",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 927,
+          "like_count": 8557,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1746
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "is_identity_verified": false,
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "most_recent_tweet_id": "2087913873924104677",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2078683512438464528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001675650994999296/1778736401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 155,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 找我玩pls qwq | 可以称呼我为小叶 | 无性别认同 | @Nano_Catfish |  一场超过半年的梦… 嘛…？ @wimzylens0 | 可爱的猫猫 @bth95147 | 超棒喵喵叶姐姐～ @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "bth95147"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN1yOJ"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "is_identity_verified": false,
+        "location": "🍀四叶草园🍀",
+        "most_recent_tweet_id": "2087830242308059527",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832763086039896064/1765570075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 318,
+          "like_count": 7329,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/I3vJIN1yOJ",
+        "username": "NanoCatfish",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

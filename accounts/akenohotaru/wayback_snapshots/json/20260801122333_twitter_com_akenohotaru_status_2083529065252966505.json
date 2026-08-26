@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2083057841162932383",
+    "created_at": "2026-08-01T12:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083529065252966505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 29,
+          "id": "2069070474269868034",
+          "start": 17,
+          "username": "meyuyume121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083529065252966505",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083449758786670786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys @meyuyume121 哇猜不到啊，告诉我呗😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2083057841162932383",
+        "created_at": "2026-08-01T12:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083529065252966505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 29,
+              "id": "2069070474269868034",
+              "start": 17,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083529065252966505",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083449758786670786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys @meyuyume121 哇猜不到啊，告诉我呗😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2083057841162932383",
+        "created_at": "2026-08-01T07:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083449758786670786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 25,
+              "id": "2069070474269868034",
+              "start": 13,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083449758786670786",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083438461063975392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @meyuyume121 猜猜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 145,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2078683512438464528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 148,
+          "like_count": 2153,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 3542
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻\n@yume0u0121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "yume0u0121"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 191,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      }
+    ]
+  }
+}

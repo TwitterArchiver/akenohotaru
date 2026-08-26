@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2059662219965514009",
+    "created_at": "2026-05-27T15:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059662219965514009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1494695387801686018",
+          "start": 3,
+          "username": "AwA04759578"
+        },
+        {
+          "end": 27,
+          "id": "2026876224589701120",
+          "start": 17,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059662219965514009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059657037752254925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AwA04759578: @R1k0xo33w 其实心理咨询师才是负责听病人叨叨的，心理科医生一般听症状然后诊断给药，说是开药机器也没问题\n不过事实上是国内的心理科医生素质确实参差不齐\n至少面对患者不能带情绪上班吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2059662219965514009",
+        "created_at": "2026-05-27T15:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059662219965514009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1494695387801686018",
+              "start": 3,
+              "username": "AwA04759578"
+            },
+            {
+              "end": 27,
+              "id": "2026876224589701120",
+              "start": 17,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059662219965514009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059657037752254925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AwA04759578: @R1k0xo33w 其实心理咨询师才是负责听病人叨叨的，心理科医生一般听症状然后诊断给药，说是开药机器也没问题\n不过事实上是国内的心理科医生素质确实参差不齐\n至少面对患者不能带情绪上班吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494695387801686018",
+        "conversation_id": "2059275458181742635",
+        "created_at": "2026-05-27T15:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059657037752254925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059657037752254925",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554225903067444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 其实心理咨询师才是负责听病人叨叨的，心理科医生一般听症状然后诊断给药，说是开药机器也没问题\n不过事实上是国内的心理科医生素质确实参差不齐\n至少面对患者不能带情绪上班吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd、pr戒断中/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 121,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 423
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T15:28:56.000Z",
+        "description": "§(*￣▽￣*)§",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amicors.cc",
+                "end": 23,
+                "expanded_url": "https://amicors.cc",
+                "start": 0,
+                "url": "https://t.co/pXIY2AbEMl"
+              }
+            ]
+          }
+        },
+        "id": "1494695387801686018",
+        "location": "京都",
+        "name": "YukuNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994745785016356868/vzhv2mHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 93,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/pXIY2AbEMl",
+        "username": "AwA04759578",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 97,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 731
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

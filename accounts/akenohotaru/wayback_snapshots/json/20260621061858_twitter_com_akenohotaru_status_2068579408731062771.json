@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2068579408731062771",
+    "created_at": "2026-06-21T06:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068579408731062771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "84625899",
+          "start": 3,
+          "username": "sasakure__UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068579408731062771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9054
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068205109356658908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakure__UK: 【朗報】今日から\"the EmpErroR\"がカラオケで歌えるようになりました！(なんで？？？？？？！？？！？？？)\n\nまた、公式でカラオケ音源がDLできるようになりました！\nいっぱい歌ってね🥳🥳🎤🎤👑👑\n\n+JOYSOUND カラオケ配信情…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128766,
+        "height": 720,
+        "media_key": "13_2068203471099338752",
+        "preview_image_url": "https://pbs.twimg.com/media/HLO8X5SbEAAm3Va.jpg",
+        "public_metrics": {
+          "view_count": 574328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068203471099338752/vid/avc1/480x270/5m2fwVIVu9U2Hk1j.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068203471099338752/vid/avc1/640x360/2NY014zNlIkKreB8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068203471099338752/vid/avc1/1280x720/XW1v7afd43TPzLTX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068203471099338752/pl/a-4NqSPYRDnKM9Tz.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2068579408731062771",
+        "created_at": "2026-06-21T06:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068579408731062771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "84625899",
+              "start": 3,
+              "username": "sasakure__UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068579408731062771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9054
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068205109356658908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakure__UK: 【朗報】今日から\"the EmpErroR\"がカラオケで歌えるようになりました！(なんで？？？？？？！？？！？？？)\n\nまた、公式でカラオケ音源がDLできるようになりました！\nいっぱい歌ってね🥳🥳🎤🎤👑👑\n\n+JOYSOUND カラオケ配信情…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068203471099338752"
+          ]
+        },
+        "author_id": "84625899",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2068205109356658908",
+        "created_at": "2026-06-20T05:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068205109356658908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【NEW】+Full ver→ https://www.youtube.com/watch?v=AcXpEKKaH8A+サブスク音楽...",
+              "display_url": "youtube.com/watch?v=eImN9O…",
+              "end": 177,
+              "expanded_url": "https://www.youtube.com/watch?v=eImN9Ov-tJg",
+              "start": 154,
+              "status": 200,
+              "title": "『the EmpErroR』sasakure.‌UK",
+              "unwound_url": "https://www.youtube.com/watch?v=eImN9Ov-tJg",
+              "url": "https://t.co/ZmWMUf1fE3"
+            },
+            {
+              "display_url": "pic.x.com/lgV5XDfaM3",
+              "end": 201,
+              "expanded_url": "https://x.com/sasakure__UK/status/2068205109356658908/video/1",
+              "media_key": "13_2068203471099338752",
+              "start": 178,
+              "url": "https://t.co/lgV5XDfaM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068205109356658908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5068,
+          "impression_count": 2204917,
+          "like_count": 34948,
+          "quote_count": 2670,
+          "reply_count": 163,
+          "retweet_count": 9054
+        },
+        "reply_settings": "everyone",
+        "text": "【朗報】今日から\"the EmpErroR\"がカラオケで歌えるようになりました！(なんで？？？？？？！？？！？？？)\n\nまた、公式でカラオケ音源がDLできるようになりました！\nいっぱい歌ってね🥳🥳🎤🎤👑👑\n\n+JOYSOUND カラオケ配信情報\n曲番号 : 649647\n\n+カラオケ音源DL(概要欄より)\nhttps://t.co/ZmWMUf1fE3 https://t.co/lgV5XDfaM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 126,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ @UKRampage_info ▼Youtube https://t.co/qanjCAcQQF ▼niconico https://t.co/iiVSZJaMoI ◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 138,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 115,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "pinned_tweet_id": "2068205109356658908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039503248797868032/ZTfvL5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296619,
+          "following_count": 1134,
+          "like_count": 9052,
+          "listed_count": 2705,
+          "media_count": 4526,
+          "tweet_count": 30879
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

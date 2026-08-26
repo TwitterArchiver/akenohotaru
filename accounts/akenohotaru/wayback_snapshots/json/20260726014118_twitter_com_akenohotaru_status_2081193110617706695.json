@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2080680397642604791",
+    "created_at": "2026-07-26T01:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081193110617706695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697666337005506561",
+          "start": 0,
+          "username": "xianglingmao26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081193110617706695",
+    "in_reply_to_user_id": "1697666337005506561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081123926193934547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianglingmao26 演戏和语术和神态得练、开药记录还有别让你的病例被医生写的难看、药房取药管制空子要钻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2080680397642604791",
+        "created_at": "2026-07-26T01:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081193110617706695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697666337005506561",
+              "start": 0,
+              "username": "xianglingmao26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081193110617706695",
+        "in_reply_to_user_id": "1697666337005506561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081123926193934547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianglingmao26 演戏和语术和神态得练、开药记录还有别让你的病例被医生写的难看、药房取药管制空子要钻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697666337005506561",
+        "conversation_id": "2080680397642604791",
+        "created_at": "2026-07-25T21:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081123926193934547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081123926193934547",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080680397642604791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 135,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T17:43:07.000Z",
+        "description": "🚪180｜想成为一个被爱包裹的小女孩~ 婉拒短期恋爱关系，fwb，ons",
+        "id": "1697666337005506561",
+        "location": "Kanagawa-ken, Japan",
+        "name": "响铃猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697666540592902144/f8bu3Mbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 163,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "xianglingmao26",
+        "verified": false
+      }
+    ]
+  }
+}

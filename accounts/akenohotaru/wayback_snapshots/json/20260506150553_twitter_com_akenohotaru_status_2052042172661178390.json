@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052042135222771715",
+        "3_2052042135222845443",
+        "3_2052042132366462979",
+        "3_2052042136451727360"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052042172661178390",
+    "created_at": "2026-05-06T15:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052042172661178390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/45z6Nzd7ub",
+          "end": 60,
+          "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+          "media_key": "3_2052042135222771715",
+          "start": 37,
+          "url": "https://t.co/45z6Nzd7ub"
+        },
+        {
+          "display_url": "pic.x.com/45z6Nzd7ub",
+          "end": 60,
+          "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+          "media_key": "3_2052042135222845443",
+          "start": 37,
+          "url": "https://t.co/45z6Nzd7ub"
+        },
+        {
+          "display_url": "pic.x.com/45z6Nzd7ub",
+          "end": 60,
+          "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+          "media_key": "3_2052042132366462979",
+          "start": 37,
+          "url": "https://t.co/45z6Nzd7ub"
+        },
+        {
+          "display_url": "pic.x.com/45z6Nzd7ub",
+          "end": 60,
+          "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+          "media_key": "3_2052042136451727360",
+          "start": 37,
+          "url": "https://t.co/45z6Nzd7ub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052042172661178390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽爽的推(｡&gt;∀&lt;｡)，今天加了32分，我都被我自己惊呆了🥳 https://t.co/45z6Nzd7ub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052042135222771715",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpRcyYWYAMA_QK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052042135222845443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpRcyYXgAMFuPz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052042132366462979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpRcnvWkAM29NZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052042136451727360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpRc29WwAAr3AR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052042135222771715",
+            "3_2052042135222845443",
+            "3_2052042132366462979",
+            "3_2052042136451727360"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052042172661178390",
+        "created_at": "2026-05-06T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052042172661178390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45z6Nzd7ub",
+              "end": 60,
+              "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+              "media_key": "3_2052042135222771715",
+              "start": 37,
+              "url": "https://t.co/45z6Nzd7ub"
+            },
+            {
+              "display_url": "pic.x.com/45z6Nzd7ub",
+              "end": 60,
+              "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+              "media_key": "3_2052042135222845443",
+              "start": 37,
+              "url": "https://t.co/45z6Nzd7ub"
+            },
+            {
+              "display_url": "pic.x.com/45z6Nzd7ub",
+              "end": 60,
+              "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+              "media_key": "3_2052042132366462979",
+              "start": 37,
+              "url": "https://t.co/45z6Nzd7ub"
+            },
+            {
+              "display_url": "pic.x.com/45z6Nzd7ub",
+              "end": 60,
+              "expanded_url": "https://x.com/akenohotaru/status/2052042172661178390/photo/1",
+              "media_key": "3_2052042136451727360",
+              "start": 37,
+              "url": "https://t.co/45z6Nzd7ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042172661178390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽爽的推(｡&gt;∀&lt;｡)，今天加了32分，我都被我自己惊呆了🥳 https://t.co/45z6Nzd7ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 103,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 259
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

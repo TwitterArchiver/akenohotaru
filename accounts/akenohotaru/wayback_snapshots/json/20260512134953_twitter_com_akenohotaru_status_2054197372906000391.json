@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2052356803619586319",
+    "created_at": "2026-05-12T13:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054197372906000391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        },
+        {
+          "end": 23,
+          "id": "1717929019486711808",
+          "start": 11,
+          "username": "ieeee210431"
+        },
+        {
+          "end": 38,
+          "id": "1883117066812882944",
+          "start": 24,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054197372906000391",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054082282651283578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori @ieeee210431 @jituiroubaogu 哪一家呀老大，我这会立刻飞奔过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2052356803619586319",
+        "created_at": "2026-05-12T13:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054197372906000391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            },
+            {
+              "end": 23,
+              "id": "1717929019486711808",
+              "start": 11,
+              "username": "ieeee210431"
+            },
+            {
+              "end": 38,
+              "id": "1883117066812882944",
+              "start": 24,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054197372906000391",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054082282651283578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori @ieeee210431 @jituiroubaogu 哪一家呀老大，我这会立刻飞奔过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "2052356803619586319",
+        "created_at": "2026-05-12T06:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054082282651283578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717929019486711808",
+              "start": 0,
+              "username": "ieeee210431"
+            },
+            {
+              "end": 25,
+              "id": "1592697440343162880",
+              "start": 13,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 40,
+              "id": "1883117066812882944",
+              "start": 26,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054082282651283578",
+        "in_reply_to_user_id": "1717929019486711808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547765259796953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ieeee210431 @akenohotaru @jituiroubaogu DM在香港是OTC，至于药房，你得自己找，大部分药房都有，但很贵。\n\n便宜的，我只能告诉你在东九龙有一家药房很诚信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 109,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 305
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ks_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/ks_nitori",
+                "start": 0,
+                "url": "https://t.co/Or6axjPT3h"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1848,
+          "like_count": 13499,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/Or6axjPT3h",
+        "username": "KS_Nitori",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T15:39:46.000Z",
+        "description": "垃圾桶",
+        "id": "1717929019486711808",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "良く眠る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721872596709658624/iX8zL05V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 105,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 190
+        },
+        "username": "ieeee210431",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 625,
+          "like_count": 2206,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

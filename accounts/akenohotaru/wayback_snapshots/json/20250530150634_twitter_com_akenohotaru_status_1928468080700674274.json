@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "1928454380367520255",
+    "created_at": "2025-05-30T15:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928468080700674274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1478672814504824834",
+          "start": 0,
+          "username": "luoliyouquan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928468080700674274",
+    "in_reply_to_user_id": "1478672814504824834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928454380367520255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoliyouquan 看看b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "1928454380367520255",
+        "created_at": "2025-05-30T15:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928468080700674274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478672814504824834",
+              "start": 0,
+              "username": "luoliyouquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928468080700674274",
+        "in_reply_to_user_id": "1478672814504824834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928454380367520255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoliyouquan 看看b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478672814504824834",
+        "conversation_id": "1928454380367520255",
+        "created_at": "2025-05-30T14:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T15:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928454380367520255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928454380367520255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 好无聊好无聊好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T10:21:00.000Z",
+        "description": "05合法ロリー ᐡ•͈ ·̭ •͈ᐡ 🚪298｜520｜1314 区别是有无福利和脸照🐈‍⬛ 门后报价 问价拉黑 备用@05you233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "05you233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/loliquan233",
+                "end": 23,
+                "expanded_url": "http://t.me/loliquan233",
+                "start": 0,
+                "url": "https://t.co/LjVyzfGJYf"
+              }
+            ]
+          }
+        },
+        "id": "1478672814504824834",
+        "location": "私信不了联系➡️",
+        "name": "萝莉幼犬m（常驻成都 线下可✈️）",
+        "pinned_tweet_id": "1879577046659272983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555184769075294208/jBl-feIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95604,
+          "following_count": 60,
+          "like_count": 117,
+          "listed_count": 372,
+          "media_count": 35,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/LjVyzfGJYf",
+        "username": "luoliyouquan",
+        "verified": false
+      }
+    ]
+  }
+}

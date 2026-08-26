@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2068557988076679548",
+    "created_at": "2026-06-21T04:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068557988076679548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1975006867245207553",
+          "start": 3,
+          "username": "Cho_KaguyaHime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068557988076679548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067950229924597904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cho_KaguyaHime: ───── ✩₊⁺⋆🌕⋆⁺₊✧ ─────\nオンラインイベント 「ツクヨミ感謝祭」\n 　　　2026年12月開催決定！\n────────────────\n\nVR空間のツクヨミワールドは、\nイベントに先駆けて公開予定！\n\nイベントの模様は…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067484621496033280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEuTyraoAA3N66.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2068557988076679548",
+        "created_at": "2026-06-21T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068557988076679548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1975006867245207553",
+              "start": 3,
+              "username": "Cho_KaguyaHime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068557988076679548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067950229924597904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cho_KaguyaHime: ───── ✩₊⁺⋆🌕⋆⁺₊✧ ─────\nオンラインイベント 「ツクヨミ感謝祭」\n 　　　2026年12月開催決定！\n────────────────\n\nVR空間のツクヨミワールドは、\nイベントに先駆けて公開予定！\n\nイベントの模様は…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067484621496033280"
+          ]
+        },
+        "author_id": "1975006867245207553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2067950229924597904",
+        "created_at": "2026-06-19T12:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067950229924597904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yuyx1Xi9lk",
+              "end": 169,
+              "expanded_url": "https://x.com/Cho_KaguyaHime/status/2067950229924597904/photo/1",
+              "media_key": "3_2067484621496033280",
+              "start": 146,
+              "url": "https://t.co/Yuyx1Xi9lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067950229924597904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 194,
+                "start": 188,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 216,
+                "start": 195,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "text": "───── ✩₊⁺⋆🌕⋆⁺₊✧ ─────\nオンラインイベント 「ツクヨミ感謝祭」\n 　　　2026年12月開催決定！\n────────────────\n\nVR空間のツクヨミワールドは、\nイベントに先駆けて公開予定！\n\nイベントの模様は\nYouTube＆VRChatにて無料配信いたします🎥\n\nかぐやたちのライブパフォーマンスをお楽しみに₊✧\n今後の続報にご期待ください！\n\n#超かぐや姫 #CosmicPrincessKaguya"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1967,
+          "impression_count": 791061,
+          "like_count": 20790,
+          "quote_count": 392,
+          "reply_count": 120,
+          "retweet_count": 7496
+        },
+        "reply_settings": "everyone",
+        "text": "───── ✩₊⁺⋆🌕⋆⁺₊✧ ─────\nオンラインイベント 「ツクヨミ感謝祭」\n 　　　2026年12月開催決定！\n────────────────\n\nVR空間のツクヨミワールドは、\nイベントに先駆けて公開予定！\n\nイベントの模様は\nYouTube＆VRChatにて無料配信いたします🎥 https://t.co/Yuyx1Xi9lk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 126,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "映画『超かぐや姫！』公式／9月18日(金)より特別フォーマット＆通常版 復活上映🐰／Netflixにて世界独占配信中🌕／監督：山下清悟 × 楽曲提供：豪華ボカロP陣／新時代の音楽アニメーションプロジェクト、開幕！／©コロリド・ツインエンジンパートナーズ／ #超かぐや姫 #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 156,
+                "start": 135,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUfpA3"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "『超かぐや姫！』公式",
+        "pinned_tweet_id": "2067951165858611509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476332,
+          "following_count": 29,
+          "like_count": 502,
+          "listed_count": 687,
+          "media_count": 708,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/ODAIRUfpA3",
+        "username": "Cho_KaguyaHime",
+        "verified": true
+      }
+    ]
+  }
+}

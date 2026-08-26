@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050510314287112331",
+    "created_at": "2026-05-02T18:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050640370166370600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940190746016976897",
+          "start": 0,
+          "username": "sakarayaner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050640370166370600",
+    "in_reply_to_user_id": "1940190746016976897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050510314287112331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakarayaner 建议给自己留条后路，比如瘾发作的时候。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050510300110376960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTgQP5b0AAII2G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050510314287112331",
+        "created_at": "2026-05-02T18:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050640370166370600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940190746016976897",
+              "start": 0,
+              "username": "sakarayaner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050640370166370600",
+        "in_reply_to_user_id": "1940190746016976897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050510314287112331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakarayaner 建议给自己留条后路，比如瘾发作的时候。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050510300110376960"
+          ]
+        },
+        "author_id": "1940190746016976897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050510314287112331",
+        "created_at": "2026-05-02T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050510314287112331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRV7GDgjT1",
+              "end": 39,
+              "expanded_url": "https://x.com/sakarayaner/status/2050510314287112331/photo/1",
+              "media_key": "3_2050510300110376960",
+              "start": 16,
+              "url": "https://t.co/TRV7GDgjT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050510314287112331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 935,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就剩这些了 我打算现在全吃了 https://t.co/TRV7GDgjT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 99,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 182
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T23:28:26.000Z",
+        "description": "i 🩶 uuu so @in2dkira | coser | 舞萌| 不闲聊私信只回口令 | 不接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1940190746016976897",
+        "location": "🚪88/188/520",
+        "name": "sakara648",
+        "pinned_tweet_id": "2041544288291725341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032452412095750145/e_dC_gVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 44,
+          "like_count": 893,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 225
+        },
+        "username": "sakarayaner",
+        "verified": false
+      }
+    ]
+  }
+}

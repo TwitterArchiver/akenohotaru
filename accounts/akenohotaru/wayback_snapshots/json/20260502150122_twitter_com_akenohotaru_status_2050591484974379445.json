@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050591465978359809"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050591484974379445",
+    "created_at": "2026-05-02T15:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050591484974379445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6jz05qfh3u",
+          "end": 44,
+          "expanded_url": "https://x.com/akenohotaru/status/2050591484974379445/photo/1",
+          "media_key": "3_2050591465978359809",
+          "start": 21,
+          "url": "https://t.co/6jz05qfh3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050591484974379445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友说便利店买到的外烟都是假的，是真的吗 https://t.co/6jz05qfh3u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050591465978359809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUqEuUWcAEuE4d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050591465978359809"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050591484974379445",
+        "created_at": "2026-05-02T15:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050591484974379445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jz05qfh3u",
+              "end": 44,
+              "expanded_url": "https://x.com/akenohotaru/status/2050591484974379445/photo/1",
+              "media_key": "3_2050591465978359809",
+              "start": 21,
+              "url": "https://t.co/6jz05qfh3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050591484974379445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友说便利店买到的外烟都是假的，是真的吗 https://t.co/6jz05qfh3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 97,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 166
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

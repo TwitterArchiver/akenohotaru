@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2088202325097857305",
+    "created_at": "2026-08-14T12:02:23.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088234779074265240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1420755048091377669",
+          "start": 0,
+          "username": "pcm_fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088234779074265240",
+    "in_reply_to_user_id": "1420755048091377669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088225462434877939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pcm_fx 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088202325097857305",
+        "created_at": "2026-08-14T12:02:23.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088234779074265240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1420755048091377669",
+              "start": 0,
+              "username": "pcm_fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088234779074265240",
+        "in_reply_to_user_id": "1420755048091377669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088225462434877939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pcm_fx 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420755048091377669",
+        "conversation_id": "2088202325097857305",
+        "created_at": "2026-08-14T11:25:22.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088225462434877939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088225462434877939",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088202325097857305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 这个一粒30毫克？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类，pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088234779074265240",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 155,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T14:36:24.000Z",
+        "description": "",
+        "id": "1420755048091377669",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2088225462434877939",
+        "name": "傑.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420755048091377669/1773284027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792818130043195392/q4GKqGhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 194,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "pcm_fx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

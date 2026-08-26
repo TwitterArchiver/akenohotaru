@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1608506750923116544"
+      ],
+      "media_source_tweet_id": [
+        "1608513161422045184"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1820311198820417746",
+    "created_at": "2024-08-05T04:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T05:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820311198820417746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "75947931",
+          "start": 3,
+          "username": "jefflijun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/shJUfRWET1",
+          "end": 59,
+          "expanded_url": "https://twitter.com/jefflijun/status/1608513161422045184/video/1",
+          "media_key": "7_1608506750923116544",
+          "start": 36,
+          "url": "https://t.co/shJUfRWET1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820311198820417746",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5601
+    },
+    "referenced_tweets": [
+      {
+        "id": "1608513161422045184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jefflijun: 被全网删除的【网易新闻2022年度盘点】 https://t.co/shJUfRWET1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 375582,
+        "height": 480,
+        "media_key": "7_1608506750923116544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1608506750923116544/pu/img/_U9GqTIH2QgXEi2j.jpg",
+        "public_metrics": {
+          "view_count": 1113935
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1608506750923116544/pu/vid/480x270/ahLFnDT1m1QFrgpI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1608506750923116544/pu/vid/640x360/akmmFWa2kA_gCMEs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1608506750923116544/pu/vid/854x480/A1gUg_mt_s10BV_b.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1608506750923116544/pu/pl/n5hLnUqSHFFZgfUr.m3u8?tag=14&v=6fc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1608506750923116544"
+          ],
+          "media_source_tweet_id": [
+            "1608513161422045184"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1820311198820417746",
+        "created_at": "2024-08-05T04:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T05:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820311198820417746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "75947931",
+              "start": 3,
+              "username": "jefflijun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/shJUfRWET1",
+              "end": 59,
+              "expanded_url": "https://twitter.com/jefflijun/status/1608513161422045184/video/1",
+              "media_key": "7_1608506750923116544",
+              "start": 36,
+              "url": "https://t.co/shJUfRWET1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820311198820417746",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5601
+        },
+        "referenced_tweets": [
+          {
+            "id": "1608513161422045184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jefflijun: 被全网删除的【网易新闻2022年度盘点】 https://t.co/shJUfRWET1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1608506750923116544"
+          ]
+        },
+        "author_id": "75947931",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1608513161422045184",
+        "created_at": "2022-12-29T17:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2022-12-29T17:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1608513161422045184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/shJUfRWET1",
+              "end": 44,
+              "expanded_url": "https://twitter.com/jefflijun/status/1608513161422045184/video/1",
+              "media_key": "7_1608506750923116544",
+              "start": 21,
+              "url": "https://t.co/shJUfRWET1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1608513161422045184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1350,
+          "impression_count": 2870818,
+          "like_count": 15451,
+          "quote_count": 578,
+          "reply_count": 2174,
+          "retweet_count": 5601
+        },
+        "reply_settings": "everyone",
+        "text": "被全网删除的【网易新闻2022年度盘点】 https://t.co/shJUfRWET1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "",
+        "id": "1592697440343162880",
+        "name": "Dhek Gs das",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592697508324524033/eXcXdiT8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-21T03:26:28.000Z",
+        "description": "▶ YouTuber: Jeff科技视角；Financial Times: https://t.co/JeKZGMr6cp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ftchinese.com/column/0070001…",
+                "end": 61,
+                "expanded_url": "http://ftchinese.com/column/007000105",
+                "start": 38,
+                "url": "https://t.co/JeKZGMr6cp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@JeffTechView",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@JeffTechView",
+                "start": 0,
+                "url": "https://t.co/xgJJkwvddu"
+              }
+            ]
+          }
+        },
+        "id": "75947931",
+        "location": "Toronto, Ontario",
+        "name": "Jeff Li",
+        "pinned_tweet_id": "1625587499299921951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645386102314811394/E19yto7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48156,
+          "following_count": 373,
+          "like_count": 1175,
+          "listed_count": 364,
+          "tweet_count": 8012
+        },
+        "url": "https://t.co/xgJJkwvddu",
+        "username": "jefflijun",
+        "verified": true
+      }
+    ]
+  }
+}

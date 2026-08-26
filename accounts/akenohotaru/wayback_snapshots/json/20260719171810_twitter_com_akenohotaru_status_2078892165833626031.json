@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2076157465927033141",
+    "created_at": "2026-07-19T17:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078892165833626031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058602788054298624",
+          "start": 0,
+          "username": "Zy5gt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078892165833626031",
+    "in_reply_to_user_id": "2058602788054298624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078765400528146807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zy5gt8 空腹咬碎两三颗就能飞起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2076157465927033141",
+        "created_at": "2026-07-19T17:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078892165833626031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058602788054298624",
+              "start": 0,
+              "username": "Zy5gt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078892165833626031",
+        "in_reply_to_user_id": "2058602788054298624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078765400528146807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zy5gt8 空腹咬碎两三颗就能飞起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058602788054298624",
+        "conversation_id": "2076157465927033141",
+        "created_at": "2026-07-19T08:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078765400528146807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765400528146807",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076157465927033141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 我开了一盒150mg的盐酸曲马多缓释片，该怎么o啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 131,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T17:35:45.000Z",
+        "description": "嗯",
+        "id": "2058602788054298624",
+        "name": "tenzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064133936931033088/TANaSvap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Zy5gt8",
+        "verified": false
+      }
+    ]
+  }
+}

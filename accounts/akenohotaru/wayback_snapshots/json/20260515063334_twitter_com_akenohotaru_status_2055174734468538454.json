@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2054804608141373951",
+    "created_at": "2026-05-15T06:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055174734468538454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1498840351188340736",
+          "start": 0,
+          "username": "qibaoovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055174734468538454",
+    "in_reply_to_user_id": "1498840351188340736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054804608141373951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qibaoovo1 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054804601665458176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQh5f0bkAAEz46.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2054804608141373951",
+        "created_at": "2026-05-15T06:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055174734468538454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1498840351188340736",
+              "start": 0,
+              "username": "qibaoovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055174734468538454",
+        "in_reply_to_user_id": "1498840351188340736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054804608141373951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qibaoovo1 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054804601665458176"
+          ]
+        },
+        "author_id": "1498840351188340736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054804608141373951",
+        "created_at": "2026-05-14T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054804608141373951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXLhiDdRWV",
+              "end": 32,
+              "expanded_url": "https://x.com/qibaoovo1/status/2054804608141373951/photo/1",
+              "media_key": "3_2054804601665458176",
+              "start": 9,
+              "url": "https://t.co/gXLhiDdRWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054804608141373951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1569,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我要哭了…… https://t.co/gXLhiDdRWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 115,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 311
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T01:59:29.000Z",
+        "description": "՞-ㅅ-՞｜🇸🇬🇨🇳｜maimai 16100ʚɞ｜关注感兴趣的人｜@zho1886420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "zho1886420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/NafBtqUsOB",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/NafBtqUsOB",
+                "start": 0,
+                "url": "https://t.co/BUytRZ2KT4"
+              }
+            ]
+          }
+        },
+        "id": "1498840351188340736",
+        "name": "しずく",
+        "pinned_tweet_id": "2031601780921106611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969088034911268864/BJvsCygh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 613,
+          "like_count": 32778,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/BUytRZ2KT4",
+        "username": "qibaoovo1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "1907656605795029059",
+    "created_at": "2025-04-05T04:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T05:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908369067964326195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908369067964326195",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907656605795029059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 你吃舍曲林还是西酞普兰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907656595913453570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlbkRjaMAIR9Rx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907656595917668352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlbkRkagAAt6jz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907656595926142976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlbkRmb0AAMXEh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1907656595913453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlbkRjaMAAUKfO.jpg",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "1907656605795029059",
+        "created_at": "2025-04-05T04:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908369067964326195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908369067964326195",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907656605795029059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 你吃舍曲林还是西酞普兰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907656595913453570",
+            "3_1907656595917668352",
+            "3_1907656595926142976",
+            "3_1907656595913453568"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907656605795029059",
+        "created_at": "2025-04-03T04:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907656605795029059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TiD53QvYT",
+              "end": 43,
+              "expanded_url": "https://x.com/MozaikRR/status/1907656605795029059/photo/1",
+              "media_key": "3_1907656595913453570",
+              "start": 20,
+              "url": "https://t.co/3TiD53QvYT"
+            },
+            {
+              "display_url": "pic.x.com/3TiD53QvYT",
+              "end": 43,
+              "expanded_url": "https://x.com/MozaikRR/status/1907656605795029059/photo/1",
+              "media_key": "3_1907656595917668352",
+              "start": 20,
+              "url": "https://t.co/3TiD53QvYT"
+            },
+            {
+              "display_url": "pic.x.com/3TiD53QvYT",
+              "end": 43,
+              "expanded_url": "https://x.com/MozaikRR/status/1907656605795029059/photo/1",
+              "media_key": "3_1907656595926142976",
+              "start": 20,
+              "url": "https://t.co/3TiD53QvYT"
+            },
+            {
+              "display_url": "pic.x.com/3TiD53QvYT",
+              "end": 43,
+              "expanded_url": "https://x.com/MozaikRR/status/1907656605795029059/photo/1",
+              "media_key": "3_1907656595913453568",
+              "start": 20,
+              "url": "https://t.co/3TiD53QvYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907656605795029059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这么穿是真不适合打舞萌\n#伪娘 #男娘 https://t.co/3TiD53QvYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "",
+        "id": "1592697440343162880",
+        "name": "Dhek Gs das",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592697508324524033/eXcXdiT8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "重庆 男的 术力口 音游",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832438280874553348/f-xGfUYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 193,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

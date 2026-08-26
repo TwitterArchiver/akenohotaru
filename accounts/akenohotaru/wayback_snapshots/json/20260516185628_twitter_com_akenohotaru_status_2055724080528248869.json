@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2055646803555762652",
+    "created_at": "2026-05-16T18:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055724080528248869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463824064653377538",
+          "start": 0,
+          "username": "Azkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055724080528248869",
+    "in_reply_to_user_id": "1463824064653377538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055646803555762652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azkawayi 超时空辉夜姬！天气之子之后，再次被深刻感动到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055646801424969728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcf3-aacAA5kUa.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2055646803555762652",
+        "created_at": "2026-05-16T18:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055724080528248869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463824064653377538",
+              "start": 0,
+              "username": "Azkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055724080528248869",
+        "in_reply_to_user_id": "1463824064653377538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055646803555762652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azkawayi 超时空辉夜姬！天气之子之后，再次被深刻感动到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055646801424969728"
+          ]
+        },
+        "author_id": "1463824064653377538",
+        "conversation_id": "2055646803555762652",
+        "created_at": "2026-05-16T13:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055646803555762652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdU31qjGAs",
+              "end": 58,
+              "expanded_url": "https://x.com/Azkawayi/status/2055646803555762652/photo/1",
+              "media_key": "3_2055646801424969728",
+              "start": 35,
+              "url": "https://t.co/mdU31qjGAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055646803555762652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1245,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們喜歡看什麼電影？我喜歡看劇情片，大家有沒有甚麼推薦，在家裡好無聊 https://t.co/mdU31qjGAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 115,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 322
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T10:57:29.000Z",
+        "description": "別罵我我只是一只企鵝 \n喜歡海洋和星空\n也喜歡甜食、國際象棋、音樂和小裙子\n想要每天都開開心心的，喜歡你們",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/7706705",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/7706705",
+                "start": 0,
+                "url": "https://t.co/6mP30UiKNw"
+              }
+            ]
+          }
+        },
+        "id": "1463824064653377538",
+        "location": "Moon, Mare Serenitatis",
+        "name": "黑暗高松燈🐧🌷",
+        "pinned_tweet_id": "1991862051632013346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039351778408574976/Q3Er_vD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 628,
+          "like_count": 49100,
+          "listed_count": 4,
+          "media_count": 1111,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/6mP30UiKNw",
+        "username": "Azkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

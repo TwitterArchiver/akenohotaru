@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2044774143976165769",
+    "created_at": "2026-04-16T13:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044774143976165769"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044774143976165769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了，在上一节水课之前o了pr，然后在课上睡昏了，然后被老师叫醒来的时候普瑞效果上来了，我直接倒在他身上，还以为我低血糖，叫了很多老师和糖给我。带我去医务室，我去，我就说我是低血糖，然后就混走了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2044774143976165769",
+        "created_at": "2026-04-16T13:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044774143976165769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044774143976165769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了，在上一节水课之前o了pr，然后在课上睡昏了，然后被老师叫醒来的时候普瑞效果上来了，我直接倒在他身上，还以为我低血糖，叫了很多老师和糖给我。带我去医务室，我去，我就说我是低血糖，然后就混走了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 75,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 80
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

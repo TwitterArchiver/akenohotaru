@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2087083547593240646",
+    "created_at": "2026-08-11T19:21:57.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087258236324032723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723393482029740032",
+          "start": 0,
+          "username": "YZGuiGui1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087258236324032723",
+    "in_reply_to_user_id": "1723393482029740032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087247773901177342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YZGuiGui1019 骨头或关节痛要求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2087083547593240646",
+        "created_at": "2026-08-11T19:21:57.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087258236324032723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723393482029740032",
+              "start": 0,
+              "username": "YZGuiGui1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087258236324032723",
+        "in_reply_to_user_id": "1723393482029740032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087247773901177342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YZGuiGui1019 骨头或关节痛要求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723393482029740032",
+        "conversation_id": "2087083547593240646",
+        "created_at": "2026-08-11T18:40:23.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087247773901177342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087247773901177342",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087083547593240646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 我艹曲马多怎么开的啊我也想开"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087258236324032723",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 147,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-11T17:33:34.000Z",
+        "description": "我磕我割友好++都来找我玩好不好🥺我喜欢小猫🐱/07常驻太原😇酒吧营销苦逼ing/情感无能冷淡并非是我本意..../生理心理性别女/长期请假高中生/极端负能现实半健全呆逼一个谢谢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yzguigui10191",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yzguigui10191",
+                "start": 0,
+                "url": "https://t.co/A7UmMqcSfu"
+              }
+            ]
+          }
+        },
+        "id": "1723393482029740032",
+        "is_identity_verified": false,
+        "location": "恨世界 恨自己",
+        "most_recent_tweet_id": "2087247773901177342",
+        "name": "世界",
+        "pinned_tweet_id": "2031130014083879358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723393482029740032/1736205123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038737190327619584/1w2xYh3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 38,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/A7UmMqcSfu",
+        "username": "YZGuiGui1019",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

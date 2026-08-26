@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085204451254738945"
+      ],
+      "media_source_tweet_id": [
+        "2085204458582233309"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2085360292629037251",
+    "created_at": "2026-08-06T13:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085360292629037251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031270533359349761",
+          "start": 3,
+          "username": "senzhiwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKHTMeQ2GT",
+          "end": 42,
+          "expanded_url": "https://x.com/senzhiwu/status/2085204458582233309/photo/1",
+          "media_key": "3_2085204451254738945",
+          "start": 19,
+          "url": "https://t.co/MKHTMeQ2GT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085360292629037251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085204458582233309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senzhiwu: 懂你意思 https://t.co/MKHTMeQ2GT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085204451254738945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAiZokaIAE5Pu2.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085204451254738945"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2085204458582233309",
+        "created_at": "2026-08-06T03:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085204458582233309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKHTMeQ2GT",
+              "end": 28,
+              "expanded_url": "https://x.com/senzhiwu/status/2085204458582233309/photo/1",
+              "media_key": "3_2085204451254738945",
+              "start": 5,
+              "url": "https://t.co/MKHTMeQ2GT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085204458582233309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 119947,
+          "like_count": 233,
+          "quote_count": 3,
+          "reply_count": 86,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "懂你意思 https://t.co/MKHTMeQ2GT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085204451254738945"
+          ],
+          "media_source_tweet_id": [
+            "2085204458582233309"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2085360292629037251",
+        "created_at": "2026-08-06T13:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085360292629037251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031270533359349761",
+              "start": 3,
+              "username": "senzhiwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKHTMeQ2GT",
+              "end": 42,
+              "expanded_url": "https://x.com/senzhiwu/status/2085204458582233309/photo/1",
+              "media_key": "3_2085204451254738945",
+              "start": 19,
+              "url": "https://t.co/MKHTMeQ2GT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085360292629037251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085204458582233309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senzhiwu: 懂你意思 https://t.co/MKHTMeQ2GT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 147,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜mtx🏳️‍⚧️｜Autogynephilia（性别认同仍然为x）｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 424,
+          "like_count": 3363,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 2578
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

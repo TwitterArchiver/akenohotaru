@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2081984781986992377",
+    "created_at": "2026-07-28T06:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081984781986992377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4ksti7/status/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/4ksti7/status/2081481336930595235",
+          "start": 38,
+          "url": "https://t.co/1zRfYTTLTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081984781986992377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081481336930595235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "be like :哇我自己真是酷爆了 教别人作用原理，我真是他妈药理学大师 https://t.co/1zRfYTTLTP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2081481322334412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLoPAhaYAAZGpi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1063,
+        "media_key": "3_2081481322384830464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLoPAtbsAADIB1.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2081984781986992377",
+        "created_at": "2026-07-28T06:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081984781986992377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4ksti7/status/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/4ksti7/status/2081481336930595235",
+              "start": 38,
+              "url": "https://t.co/1zRfYTTLTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081984781986992377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081481336930595235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "be like :哇我自己真是酷爆了 教别人作用原理，我真是他妈药理学大师 https://t.co/1zRfYTTLTP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081481322334412800",
+            "3_2081481322384830464"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2081481336930595235",
+        "created_at": "2026-07-26T20:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081481336930595235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJq0p4JgSF",
+              "end": 80,
+              "expanded_url": "https://x.com/4ksti7/status/2081481336930595235/photo/1",
+              "media_key": "3_2081481322334412800",
+              "start": 57,
+              "url": "https://t.co/yJq0p4JgSF"
+            },
+            {
+              "display_url": "pic.x.com/yJq0p4JgSF",
+              "end": 80,
+              "expanded_url": "https://x.com/4ksti7/status/2081481336930595235/photo/1",
+              "media_key": "3_2081481322384830464",
+              "start": 57,
+              "url": "https://t.co/yJq0p4JgSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081481336930595235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9282,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种人脑残不，不推荐又说出来，磕舍曲林不就是害人吗，鉴定为医院开了盒舍曲林然后吃了一粒吐了就说自己磕药减肥😹😹😹 https://t.co/yJq0p4JgSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 137,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 262,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

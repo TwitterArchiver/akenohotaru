@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057416400365330432",
+        "3_2057416421114564608",
+        "3_2057416430933495808"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057416443579560032",
+    "created_at": "2026-05-21T11:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057416443579560032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7lWzQhQeY",
+          "end": 56,
+          "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+          "media_key": "3_2057416400365330432",
+          "start": 33,
+          "url": "https://t.co/o7lWzQhQeY"
+        },
+        {
+          "display_url": "pic.x.com/o7lWzQhQeY",
+          "end": 56,
+          "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+          "media_key": "3_2057416421114564608",
+          "start": 33,
+          "url": "https://t.co/o7lWzQhQeY"
+        },
+        {
+          "display_url": "pic.x.com/o7lWzQhQeY",
+          "end": 56,
+          "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+          "media_key": "3_2057416430933495808",
+          "start": 33,
+          "url": "https://t.co/o7lWzQhQeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057416443579560032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的很好笑，为了找瓶西柚汁跑了三个地方才找到，这东西这么稀有吗草 https://t.co/o7lWzQhQeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057416400365330432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pUMLWoAAhLHj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057416421114564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pVZeW0AAnI6h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057416430933495808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pV-DX0AABOEE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057416400365330432",
+            "3_2057416421114564608",
+            "3_2057416430933495808"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057416443579560032",
+        "created_at": "2026-05-21T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416443579560032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416400365330432",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            },
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416421114564608",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            },
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416430933495808",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057416443579560032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很好笑，为了找瓶西柚汁跑了三个地方才找到，这东西这么稀有吗草 https://t.co/o7lWzQhQeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 117,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 362
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

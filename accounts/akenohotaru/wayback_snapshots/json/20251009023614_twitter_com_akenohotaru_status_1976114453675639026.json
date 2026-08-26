@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1975886859659317248"
+      ],
+      "media_source_tweet_id": [
+        "1975886880542708221"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976114453675639026",
+    "created_at": "2025-10-09T02:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976114453675639026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492713764244029440",
+          "start": 3,
+          "username": "XdoXa89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEenHGaHhs",
+          "end": 135,
+          "expanded_url": "https://x.com/XdoXa89/status/1975886880542708221/photo/1",
+          "media_key": "16_1975886859659317248",
+          "start": 112,
+          "url": "https://t.co/jEenHGaHhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976114453675639026",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975886880542708221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @XdoXa89: ┏╗ ┏╗\n║┃ ║┃╔━╦╦┳═╗\n║┃ ┃╚┫║┃┃┃╩┫\n┗╝ ╚━╩═┻━╩━╝\n┏┓╔┓\n║╚┛┣═╦┳╗\n┗╗┏╣┃┃║┃꒰ঌ - ̗̀ ︎❤︎  ̖́- ໒꒱\n    ┗╝┗═┻═╝ https://t.co/jEenHGaHhs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "16_1975886859659317248",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2vCoVJbEAAVnN9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2vCoVJbEAAVnN9.mp4"
+          }
+        ],
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1975886859659317248"
+          ],
+          "media_source_tweet_id": [
+            "1975886880542708221"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976114453675639026",
+        "created_at": "2025-10-09T02:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976114453675639026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492713764244029440",
+              "start": 3,
+              "username": "XdoXa89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEenHGaHhs",
+              "end": 135,
+              "expanded_url": "https://x.com/XdoXa89/status/1975886880542708221/photo/1",
+              "media_key": "16_1975886859659317248",
+              "start": 112,
+              "url": "https://t.co/jEenHGaHhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976114453675639026",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975886880542708221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @XdoXa89: ┏╗ ┏╗\n║┃ ║┃╔━╦╦┳═╗\n║┃ ┃╚┫║┃┃┃╩┫\n┗╝ ╚━╩═┻━╩━╝\n┏┓╔┓\n║╚┛┣═╦┳╗\n┗╗┏╣┃┃║┃꒰ঌ - ̗̀ ︎❤︎  ̖́- ໒꒱\n    ┗╝┗═┻═╝ https://t.co/jEenHGaHhs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1975886859659317248"
+          ]
+        },
+        "author_id": "1492713764244029440",
+        "conversation_id": "1975886880542708221",
+        "created_at": "2025-10-08T11:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975886880542708221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEenHGaHhs",
+              "end": 122,
+              "expanded_url": "https://x.com/XdoXa89/status/1975886880542708221/photo/1",
+              "media_key": "16_1975886859659317248",
+              "start": 99,
+              "url": "https://t.co/jEenHGaHhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975886880542708221",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 20927,
+          "like_count": 2604,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 465
+        },
+        "reply_settings": "following",
+        "text": "┏╗ ┏╗\n║┃ ║┃╔━╦╦┳═╗\n║┃ ┃╚┫║┃┃┃╩┫\n┗╝ ╚━╩═┻━╩━╝\n┏┓╔┓\n║╚┛┣═╦┳╗\n┗╗┏╣┃┃║┃꒰ঌ - ̗̀ ︎❤︎  ̖́- ໒꒱\n    ┗╝┗═┻═╝ https://t.co/jEenHGaHhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 64,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T04:15:03.000Z",
+        "description": "Do not repost.   依頼DM",
+        "id": "1492713764244029440",
+        "name": ".",
+        "pinned_tweet_id": "1948703110526108115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596431924389875712/90v9ufWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73091,
+          "following_count": 22,
+          "like_count": 165,
+          "listed_count": 360,
+          "media_count": 139,
+          "tweet_count": 547
+        },
+        "username": "XdoXa89",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054170090107711488"
+      ],
+      "media_source_tweet_id": [
+        "2054170100413145092"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2054239624898466202",
+    "created_at": "2026-05-12T16:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054239624898466202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926810561536208897",
+          "start": 3,
+          "username": "Owso6y_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hUqp70l7rn",
+          "end": 72,
+          "expanded_url": "https://x.com/Owso6y_/status/2054170100413145092/photo/1",
+          "media_key": "3_2054170090107711488",
+          "start": 49,
+          "url": "https://t.co/hUqp70l7rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054239624898466202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054170100413145092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Owso6y_: 生成一张典型的五个舞萌dx玩家照片，不要美化，真实长相反应，越写实越好 https://t.co/hUqp70l7rn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054170090107711488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHg0EEaMAA8u2c.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170090107711488"
+          ],
+          "media_source_tweet_id": [
+            "2054170100413145092"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2054239624898466202",
+        "created_at": "2026-05-12T16:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054239624898466202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926810561536208897",
+              "start": 3,
+              "username": "Owso6y_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUqp70l7rn",
+              "end": 72,
+              "expanded_url": "https://x.com/Owso6y_/status/2054170100413145092/photo/1",
+              "media_key": "3_2054170090107711488",
+              "start": 49,
+              "url": "https://t.co/hUqp70l7rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054239624898466202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054170100413145092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Owso6y_: 生成一张典型的五个舞萌dx玩家照片，不要美化，真实长相反应，越写实越好 https://t.co/hUqp70l7rn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170090107711488"
+          ]
+        },
+        "author_id": "1926810561536208897",
+        "conversation_id": "2054170100413145092",
+        "created_at": "2026-05-12T12:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054170100413145092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUqp70l7rn",
+              "end": 59,
+              "expanded_url": "https://x.com/Owso6y_/status/2054170100413145092/photo/1",
+              "media_key": "3_2054170090107711488",
+              "start": 36,
+              "url": "https://t.co/hUqp70l7rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054170100413145092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1986,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生成一张典型的五个舞萌dx玩家照片，不要美化，真实长相反应，越写实越好 https://t.co/hUqp70l7rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 110,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 306
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2045689001387208716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11940,
+          "following_count": 5,
+          "like_count": 4141,
+          "listed_count": 29,
+          "media_count": 370,
+          "tweet_count": 1436
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912452710130933760"
+      ],
+      "media_source_tweet_id": [
+        "1912452713985785931"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050483498293596386",
+    "created_at": "2026-05-02T07:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050483498293596386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505596113813876736",
+          "start": 3,
+          "username": "chrorine_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LyX8bQju7I",
+          "end": 66,
+          "expanded_url": "https://x.com/chrorine_17/status/1912452713985785931/photo/1",
+          "media_key": "3_1912452710130933760",
+          "start": 43,
+          "url": "https://t.co/LyX8bQju7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050483498293596386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912452713985785931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrorine_17: 头太疼了所以\n18:27 8t×20mg克利加巴林 https://t.co/LyX8bQju7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912452710130933760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goplm3UWYAAF_oI.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912452710130933760"
+          ],
+          "media_source_tweet_id": [
+            "1912452713985785931"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050483498293596386",
+        "created_at": "2026-05-02T07:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050483498293596386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505596113813876736",
+              "start": 3,
+              "username": "chrorine_17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyX8bQju7I",
+              "end": 66,
+              "expanded_url": "https://x.com/chrorine_17/status/1912452713985785931/photo/1",
+              "media_key": "3_1912452710130933760",
+              "start": 43,
+              "url": "https://t.co/LyX8bQju7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483498293596386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912452713985785931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrorine_17: 头太疼了所以\n18:27 8t×20mg克利加巴林 https://t.co/LyX8bQju7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912452710130933760"
+          ]
+        },
+        "author_id": "1505596113813876736",
+        "conversation_id": "1912452713985785931",
+        "created_at": "2025-04-16T10:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912452713985785931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyX8bQju7I",
+              "end": 49,
+              "expanded_url": "https://x.com/chrorine_17/status/1912452713985785931/photo/1",
+              "media_key": "3_1912452710130933760",
+              "start": 26,
+              "url": "https://t.co/LyX8bQju7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912452713985785931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1800,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头太疼了所以\n18:27 8t×20mg克利加巴林 https://t.co/LyX8bQju7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 96,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 162
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049446852660207616/rvN3UueH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 240,
+          "like_count": 17726,
+          "listed_count": 7,
+          "media_count": 248,
+          "tweet_count": 6307
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

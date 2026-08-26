@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059118370004340736"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2059118379408019946",
+    "created_at": "2026-05-26T03:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059118379408019946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Np3adbeouh",
+          "end": 65,
+          "expanded_url": "https://x.com/akenohotaru/status/2059118379408019946/photo/1",
+          "media_key": "3_2059118370004340736",
+          "start": 42,
+          "url": "https://t.co/Np3adbeouh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059118379408019946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他妈神经病晴空万里太阳直射36度还在上体育课我真的想现在立刻打满一管丙泊酚原地躺下 https://t.co/Np3adbeouh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2059118370004340736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN1P3KXEAATYfu.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059118370004340736"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2059118379408019946",
+        "created_at": "2026-05-26T03:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059118379408019946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Np3adbeouh",
+              "end": 65,
+              "expanded_url": "https://x.com/akenohotaru/status/2059118379408019946/photo/1",
+              "media_key": "3_2059118370004340736",
+              "start": 42,
+              "url": "https://t.co/Np3adbeouh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059118379408019946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈神经病晴空万里太阳直射36度还在上体育课我真的想现在立刻打满一管丙泊酚原地躺下 https://t.co/Np3adbeouh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/中抑重焦/od/bzd、pr戒断中/音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 119,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 405
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

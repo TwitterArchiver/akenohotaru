@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2057780215498281440",
+    "created_at": "2026-05-22T16:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057857561492091053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057857561492091053",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057780215498281440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 加油！音击的歌曲很好听很好玩的哦，坚持下去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057780197047635968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI60L8bbkAAglxx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057780197089570816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI60L8lbcAARH1D.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057780197039259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI60L8ZbwAAYXn1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057780197026590720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI60L8WacAA_qjJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2057780215498281440",
+        "created_at": "2026-05-22T16:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057857561492091053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857561492091053",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057780215498281440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 加油！音击的歌曲很好听很好玩的哦，坚持下去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057780197047635968",
+            "3_2057780197089570816",
+            "3_2057780197039259648",
+            "3_2057780197026590720"
+          ]
+        },
+        "author_id": "1926810561536208897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057780215498281440",
+        "created_at": "2026-05-22T11:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057780215498281440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKdaburlLU",
+              "end": 35,
+              "expanded_url": "https://x.com/Owso6y_/status/2057780215498281440/photo/1",
+              "media_key": "3_2057780197047635968",
+              "start": 12,
+              "url": "https://t.co/BKdaburlLU"
+            },
+            {
+              "display_url": "pic.x.com/BKdaburlLU",
+              "end": 35,
+              "expanded_url": "https://x.com/Owso6y_/status/2057780215498281440/photo/1",
+              "media_key": "3_2057780197089570816",
+              "start": 12,
+              "url": "https://t.co/BKdaburlLU"
+            },
+            {
+              "display_url": "pic.x.com/BKdaburlLU",
+              "end": 35,
+              "expanded_url": "https://x.com/Owso6y_/status/2057780215498281440/photo/1",
+              "media_key": "3_2057780197039259648",
+              "start": 12,
+              "url": "https://t.co/BKdaburlLU"
+            },
+            {
+              "display_url": "pic.x.com/BKdaburlLU",
+              "end": 35,
+              "expanded_url": "https://x.com/Owso6y_/status/2057780215498281440/photo/1",
+              "media_key": "3_2057780197026590720",
+              "start": 12,
+              "url": "https://t.co/BKdaburlLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057780215498281440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难，还是舞萌简单一点 https://t.co/BKdaburlLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 118,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 382
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2045689001387208716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 4,
+          "like_count": 4238,
+          "listed_count": 26,
+          "media_count": 392,
+          "tweet_count": 1509
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

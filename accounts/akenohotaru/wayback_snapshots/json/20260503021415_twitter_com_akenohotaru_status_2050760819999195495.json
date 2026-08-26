@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050155145116483584"
+      ],
+      "media_source_tweet_id": [
+        "2050155148866191678"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050760819999195495",
+    "created_at": "2026-05-03T02:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050760819999195495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030612448160698368",
+          "start": 3,
+          "username": "kumakuma9919"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T51ZtSDTEP",
+          "end": 49,
+          "expanded_url": "https://x.com/kumakuma9919/status/2050155148866191678/photo/1",
+          "media_key": "3_2050155145116483584",
+          "start": 26,
+          "url": "https://t.co/T51ZtSDTEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050760819999195495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050155148866191678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumakuma9919: 厳しくなってる https://t.co/T51ZtSDTEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050155145116483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOdPgcbgAAEGf3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050155145116483584"
+          ],
+          "media_source_tweet_id": [
+            "2050155148866191678"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050760819999195495",
+        "created_at": "2026-05-03T02:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050760819999195495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030612448160698368",
+              "start": 3,
+              "username": "kumakuma9919"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T51ZtSDTEP",
+              "end": 49,
+              "expanded_url": "https://x.com/kumakuma9919/status/2050155148866191678/photo/1",
+              "media_key": "3_2050155145116483584",
+              "start": 26,
+              "url": "https://t.co/T51ZtSDTEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050760819999195495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050155148866191678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumakuma9919: 厳しくなってる https://t.co/T51ZtSDTEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050155145116483584"
+          ]
+        },
+        "author_id": "2030612448160698368",
+        "conversation_id": "2050155148866191678",
+        "created_at": "2026-05-01T10:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050155148866191678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T51ZtSDTEP",
+              "end": 31,
+              "expanded_url": "https://x.com/kumakuma9919/status/2050155148866191678/photo/1",
+              "media_key": "3_2050155145116483584",
+              "start": 8,
+              "url": "https://t.co/T51ZtSDTEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050155148866191678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8032,
+          "like_count": 149,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "厳しくなってる https://t.co/T51ZtSDTEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 99,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 189
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T11:52:22.000Z",
+        "description": "ぬいぐるみを抱いて寝るおじ\nおでーコミュ管理人",
+        "id": "2030612448160698368",
+        "name": "文学フリマ東京な青ちゅ〜≒ラリックマ",
+        "pinned_tweet_id": "2050179492107407706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030613876560265216/0KbOudZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 449,
+          "like_count": 14289,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 1728
+        },
+        "username": "kumakuma9919",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2057664535520293104",
+    "created_at": "2026-05-22T03:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057664535520293104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AG123_0/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AG123_0/status/2057353885103337565",
+          "start": 5,
+          "url": "https://t.co/u8K9NlYCrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057664535520293104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057353885103337565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点帅了 https://t.co/u8K9NlYCrX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10091,
+        "height": 1280,
+        "media_key": "13_2057353822415294464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057353822415294464/img/tEzeL74-ek_jDrdL.jpg",
+        "public_metrics": {
+          "view_count": 9267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057353822415294464/vid/avc1/320x568/xicyp8TckGVFbIp6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057353822415294464/vid/avc1/480x852/91ef5rATn__EtojV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057353822415294464/vid/avc1/720x1280/dfyXo-5zO7RZYcqF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057353822415294464/pl/bwa0rUx4ppQFyGPU.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2057664535520293104",
+        "created_at": "2026-05-22T03:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057664535520293104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AG123_0/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AG123_0/status/2057353885103337565",
+              "start": 5,
+              "url": "https://t.co/u8K9NlYCrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057664535520293104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057353885103337565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点帅了 https://t.co/u8K9NlYCrX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057353822415294464"
+          ]
+        },
+        "author_id": "2008567697702072320",
+        "conversation_id": "2057353885103337565",
+        "created_at": "2026-05-21T06:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057353885103337565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7y1llHLeS",
+              "end": 32,
+              "expanded_url": "https://x.com/AG123_0/status/2057353885103337565/video/1",
+              "media_key": "13_2057353822415294464",
+              "start": 9,
+              "url": "https://t.co/S7y1llHLeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353885103337565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 20232,
+          "like_count": 263,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "脳筋スライド処理 https://t.co/S7y1llHLeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 118,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 371
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T15:54:02.000Z",
+        "description": "maimaiエンジョイ勢 でらすこ練習勢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/memoria0516?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/memoria0516?igsh=ZjEzd3hmOXlwYXI1&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Q4Pc6bKEOx"
+              }
+            ]
+          }
+        },
+        "id": "2008567697702072320",
+        "name": "→@&Δ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013271909127901184/Go8cZmAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 17,
+          "like_count": 6594,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/Q4Pc6bKEOx",
+        "username": "AG123_0",
+        "verified": false
+      }
+    ]
+  }
+}

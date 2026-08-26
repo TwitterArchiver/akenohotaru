@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2059534449797107806",
+    "created_at": "2026-05-27T14:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059646155324260392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802675905506246656",
+          "start": 0,
+          "username": "zzz1352602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059646155324260392",
+    "in_reply_to_user_id": "1802675905506246656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059635183431938079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1352602 确实是苦的，但你尝过佐匹克隆或者司来吉兰就会觉得这不算什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2059534449797107806",
+        "created_at": "2026-05-27T14:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059646155324260392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802675905506246656",
+              "start": 0,
+              "username": "zzz1352602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059646155324260392",
+        "in_reply_to_user_id": "1802675905506246656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059635183431938079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1352602 确实是苦的，但你尝过佐匹克隆或者司来吉兰就会觉得这不算什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802675905506246656",
+        "conversation_id": "2059534449797107806",
+        "created_at": "2026-05-27T13:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059635183431938079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059635183431938079",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059534449797107806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 不会感到苦吗？有时候我直接送服都会感到粘在喉咙那点药粉好恶心。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd、pr戒断中/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 121,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 418
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:13:53.000Z",
+        "description": "成为女大的第一件事是寻找非管制药物大吸特吸喵喵喵",
+        "id": "1802675905506246656",
+        "location": "Hong Kong",
+        "name": "止咳魚_DXM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881203145944301568/_7DPER0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 97,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 269
+        },
+        "username": "zzz1352602",
+        "verified": false
+      }
+    ]
+  }
+}

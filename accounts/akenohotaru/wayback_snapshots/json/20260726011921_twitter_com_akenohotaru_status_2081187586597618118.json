@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2080680397642604791",
+    "created_at": "2026-07-26T01:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081187586597618118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060786188680884224",
+          "start": 0,
+          "username": "methYLphENdA"
+        },
+        {
+          "end": 24,
+          "id": "1161907687749296128",
+          "start": 14,
+          "username": "XRMKunome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081187586597618118",
+    "in_reply_to_user_id": "2060786188680884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081084857678196786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@methYLphENdA @XRMKunome 体感一样，而且鼻吸弄坏鼻子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2080680397642604791",
+        "created_at": "2026-07-26T01:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081187586597618118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060786188680884224",
+              "start": 0,
+              "username": "methYLphENdA"
+            },
+            {
+              "end": 24,
+              "id": "1161907687749296128",
+              "start": 14,
+              "username": "XRMKunome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081187586597618118",
+        "in_reply_to_user_id": "2060786188680884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081084857678196786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@methYLphENdA @XRMKunome 体感一样，而且鼻吸弄坏鼻子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060786188680884224",
+        "conversation_id": "2080680397642604791",
+        "created_at": "2026-07-25T18:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081084857678196786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            },
+            {
+              "end": 23,
+              "id": "1592697440343162880",
+              "start": 11,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081084857678196786",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081004524148510725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome @akenohotaru 不一样的，专里面即使咬碎也是凝胶状的OROS泵，得泡一晚上再萃取/过滤；苏壹能直接碾碎鼻吸挺方便"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 135,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T18:17:25.000Z",
+        "description": "",
+        "id": "2060786188680884224",
+        "location": "Hong Kong",
+        "name": "EAK 巨能充",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060788975284219904/3_DL8hOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 147,
+          "like_count": 3693,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "methYLphENdA",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "是个人类，活着的（暂时）。\n是重度ADHD患者，欢迎交流讨论。\n很喜欢看可可爱爱的碎碎念。",
+        "id": "1161907687749296128",
+        "location": "我在你背后",
+        "name": "XRMK-Suspended Fate",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073556703006932992/f0ulYp-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false
+      }
+    ]
+  }
+}

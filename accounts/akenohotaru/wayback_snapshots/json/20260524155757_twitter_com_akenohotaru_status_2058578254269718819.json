@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2058367036942594421",
+    "created_at": "2026-05-24T15:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058578254269718819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902508221681823747",
+          "start": 0,
+          "username": "sevenyyqwq"
+        },
+        {
+          "end": 25,
+          "id": "1902046879166468096",
+          "start": 12,
+          "username": "awaTsuki1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058578254269718819",
+    "in_reply_to_user_id": "1902508221681823747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058367036942594421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevenyyqwq @awaTsuki1111 懂你的崩溃感，我也是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2058367036942594421",
+        "created_at": "2026-05-24T15:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058578254269718819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902508221681823747",
+              "start": 0,
+              "username": "sevenyyqwq"
+            },
+            {
+              "end": 25,
+              "id": "1902046879166468096",
+              "start": 12,
+              "username": "awaTsuki1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058578254269718819",
+        "in_reply_to_user_id": "1902508221681823747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058367036942594421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevenyyqwq @awaTsuki1111 懂你的崩溃感，我也是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902508221681823747",
+        "conversation_id": "2058367036942594421",
+        "created_at": "2026-05-24T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058367036942594421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058367036942594421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "四天睡了10小时 尝试了无数种安眠药 甚至灌了自己几瓶麦克雷 三四小时后我又醒了 我还有救吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/中抑重焦/od/bzd、pr戒断中/音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 118,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 398
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T23:51:33.000Z",
+        "description": "",
+        "id": "1902508221681823747",
+        "name": "微笑是一种礼貌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902509388885000192/R62TEmvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "username": "sevenyyqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，重抑重焦\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 57,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 34,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "location": "石家庄",
+        "name": "awaTsuki",
+        "pinned_tweet_id": "2058098539247665181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055909459688603648/OCNIfSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 74,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false
+      }
+    ]
+  }
+}

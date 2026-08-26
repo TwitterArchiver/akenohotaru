@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050155194676281344",
+        "3_2050155194596597760",
+        "3_2050155195661991936"
+      ],
+      "media_source_tweet_id": [
+        "2050155198782582952",
+        "2050155198782582952",
+        "2050155198782582952"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050640985206456614",
+    "created_at": "2026-05-02T18:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050640985206456614"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "od"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "愈美片"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778802052552122368",
+          "start": 3,
+          "username": "Origami_Uranium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tD5fMxrZcL",
+          "end": 139,
+          "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+          "media_key": "3_2050155194676281344",
+          "start": 116,
+          "url": "https://t.co/tD5fMxrZcL"
+        },
+        {
+          "display_url": "pic.x.com/tD5fMxrZcL",
+          "end": 139,
+          "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+          "media_key": "3_2050155194596597760",
+          "start": 116,
+          "url": "https://t.co/tD5fMxrZcL"
+        },
+        {
+          "display_url": "pic.x.com/tD5fMxrZcL",
+          "end": 139,
+          "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+          "media_key": "3_2050155195661991936",
+          "start": 116,
+          "url": "https://t.co/tD5fMxrZcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050640985206456614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050155198782582952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Origami_Uranium: 可能一些o友因为愈美被禁售而投奔一些更危险的药物，但其实现在购物平台还有很多这种日式止咳药有右美成分，因为隐蔽的外观没有被官方禁售，净重价格也比愈美便宜的多。\n#od #右美沙芬 #愈美片 https://t.co/tD5fMxrZcL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2050155194676281344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOdSZEaAAA7lpC.jpg",
+        "width": 800
+      },
+      {
+        "height": 1011,
+        "media_key": "3_2050155194596597760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOdSYxaIAAswEB.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050155195661991936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOdScvawAAbLPn.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050155194676281344",
+            "3_2050155194596597760",
+            "3_2050155195661991936"
+          ],
+          "media_source_tweet_id": [
+            "2050155198782582952",
+            "2050155198782582952",
+            "2050155198782582952"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050640985206456614",
+        "created_at": "2026-05-02T18:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050640985206456614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "od"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "愈美片"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778802052552122368",
+              "start": 3,
+              "username": "Origami_Uranium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 139,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155194676281344",
+              "start": 116,
+              "url": "https://t.co/tD5fMxrZcL"
+            },
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 139,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155194596597760",
+              "start": 116,
+              "url": "https://t.co/tD5fMxrZcL"
+            },
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 139,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155195661991936",
+              "start": 116,
+              "url": "https://t.co/tD5fMxrZcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050640985206456614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050155198782582952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Origami_Uranium: 可能一些o友因为愈美被禁售而投奔一些更危险的药物，但其实现在购物平台还有很多这种日式止咳药有右美成分，因为隐蔽的外观没有被官方禁售，净重价格也比愈美便宜的多。\n#od #右美沙芬 #愈美片 https://t.co/tD5fMxrZcL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050155194676281344",
+            "3_2050155194596597760",
+            "3_2050155195661991936"
+          ]
+        },
+        "author_id": "1778802052552122368",
+        "conversation_id": "2050155198782582952",
+        "created_at": "2026-05-01T10:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050155198782582952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "od"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "愈美片"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 118,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155194676281344",
+              "start": 95,
+              "url": "https://t.co/tD5fMxrZcL"
+            },
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 118,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155194596597760",
+              "start": 95,
+              "url": "https://t.co/tD5fMxrZcL"
+            },
+            {
+              "display_url": "pic.x.com/tD5fMxrZcL",
+              "end": 118,
+              "expanded_url": "https://x.com/Origami_Uranium/status/2050155198782582952/photo/1",
+              "media_key": "3_2050155195661991936",
+              "start": 95,
+              "url": "https://t.co/tD5fMxrZcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050155198782582952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 6954,
+          "like_count": 142,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "可能一些o友因为愈美被禁售而投奔一些更危险的药物，但其实现在购物平台还有很多这种日式止咳药有右美成分，因为隐蔽的外观没有被官方禁售，净重价格也比愈美便宜的多。\n#od #右美沙芬 #愈美片 https://t.co/tD5fMxrZcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 99,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 183
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T15:07:32.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Xing_OverDose_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Xing_OverDose_Jiao_Bing",
+                "start": 0,
+                "url": "https://t.co/cCAJdnCVpN"
+              }
+            ]
+          }
+        },
+        "id": "1778802052552122368",
+        "location": "✝️天国✝️",
+        "name": "折り紙_宮乗柚",
+        "pinned_tweet_id": "2014311899601510619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028779764945960961/jHcKr10J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 24,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/cCAJdnCVpN",
+        "username": "Origami_Uranium",
+        "verified": false
+      }
+    ]
+  }
+}

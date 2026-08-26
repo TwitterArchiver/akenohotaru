@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2067678496114303457",
+    "created_at": "2026-06-18T18:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067678496114303457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanwujiDrink/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/LanwujiDrink/status/2067484830187884587",
+          "start": 16,
+          "url": "https://t.co/NUNIhUOln4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067678496114303457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067484830187884587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是我还没吃上你怎么就私了呀😭 https://t.co/NUNIhUOln4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2067484815184797696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEufEOaoAAIvXO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2067678496114303457",
+        "created_at": "2026-06-18T18:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067678496114303457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanwujiDrink/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LanwujiDrink/status/2067484830187884587",
+              "start": 16,
+              "url": "https://t.co/NUNIhUOln4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067678496114303457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067484830187884587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是我还没吃上你怎么就私了呀😭 https://t.co/NUNIhUOln4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067484815184797696"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067484830187884587",
+        "created_at": "2026-06-18T05:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067484830187884587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNZlGPN6ww",
+              "end": 62,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2067484830187884587/photo/1",
+              "media_key": "3_2067484815184797696",
+              "start": 39,
+              "url": "https://t.co/LNZlGPN6ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067484830187884587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6387,
+          "like_count": 66,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "月尘（3-MeO-PCE）被ban了\n\n致幻剂史诗级增强 这个版本终于不削了 https://t.co/LNZlGPN6ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 124,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 132,
+          "like_count": 2733,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

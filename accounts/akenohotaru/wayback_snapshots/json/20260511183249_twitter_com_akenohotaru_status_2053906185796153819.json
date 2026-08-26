@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2052752618959839419",
+    "created_at": "2026-05-11T18:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T19:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053906185796153819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986491979136659456",
+          "start": 0,
+          "username": "suicideiscringe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053906185796153819",
+    "in_reply_to_user_id": "1986491979136659456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052752618959839419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suicideiscringe 请问去大陆人去香港医院怎么看啊，通行证吗，然后点菜？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052752605651271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzXnm-aAAApsaS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2052752618959839419",
+        "created_at": "2026-05-11T18:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T19:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053906185796153819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986491979136659456",
+              "start": 0,
+              "username": "suicideiscringe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053906185796153819",
+        "in_reply_to_user_id": "1986491979136659456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052752618959839419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suicideiscringe 请问去大陆人去香港医院怎么看啊，通行证吗，然后点菜？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052752605651271680"
+          ]
+        },
+        "author_id": "1986491979136659456",
+        "conversation_id": "2052752618959839419",
+        "created_at": "2026-05-08T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052752618959839419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50UYi6kb6B",
+              "end": 36,
+              "expanded_url": "https://x.com/suicideiscringe/status/2052752618959839419/photo/1",
+              "media_key": "3_2052752605651271680",
+              "start": 13,
+              "url": "https://t.co/50UYi6kb6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052752618959839419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 994,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "想要互fo求转🥺🤲🏻🤲🏻 https://t.co/50UYi6kb6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 109,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 303
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T17:53:07.000Z",
+        "description": "bisexual/bipolardisorder\n小孩子不懂事乱发的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/suicid…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/suicideiscringe.bsky.social",
+                "start": 0,
+                "url": "https://t.co/7DnOWouv9Q"
+              }
+            ]
+          }
+        },
+        "id": "1986491979136659456",
+        "name": "Estazolam",
+        "pinned_tweet_id": "2052752618959839419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991465272113524739/A_dq2Iih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 129,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/7DnOWouv9Q",
+        "username": "suicideiscringe",
+        "verified": false
+      }
+    ]
+  }
+}

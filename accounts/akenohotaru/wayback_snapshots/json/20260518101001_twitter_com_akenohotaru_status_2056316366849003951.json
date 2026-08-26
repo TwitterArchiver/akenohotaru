@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056201624276844544"
+      ],
+      "media_source_tweet_id": [
+        "2056201627137421317"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056316366849003951",
+    "created_at": "2026-05-18T10:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056316366849003951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1777730090924978176",
+          "start": 3,
+          "username": "Hiiragi_qin8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQ31ZndL0q",
+          "end": 127,
+          "expanded_url": "https://x.com/Hiiragi_qin8964/status/2056201627137421317/photo/1",
+          "media_key": "3_2056201624276844544",
+          "start": 104,
+          "url": "https://t.co/AQ31ZndL0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056316366849003951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056201627137421317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiiragi_qin8964: ym口哨糖23t（日新）测试\n联用了克拉霉素1g+pr225mg+加巴1.8g+15mgym作为补充\n不发trip记录了（可以看做为ym甜味版），后面写我的不良反应 https://t.co/AQ31ZndL0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056201624276844544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkYe6maQAASX7j.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056201624276844544"
+          ],
+          "media_source_tweet_id": [
+            "2056201627137421317"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056316366849003951",
+        "created_at": "2026-05-18T10:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056316366849003951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1777730090924978176",
+              "start": 3,
+              "username": "Hiiragi_qin8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ31ZndL0q",
+              "end": 127,
+              "expanded_url": "https://x.com/Hiiragi_qin8964/status/2056201627137421317/photo/1",
+              "media_key": "3_2056201624276844544",
+              "start": 104,
+              "url": "https://t.co/AQ31ZndL0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056316366849003951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056201627137421317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiiragi_qin8964: ym口哨糖23t（日新）测试\n联用了克拉霉素1g+pr225mg+加巴1.8g+15mgym作为补充\n不发trip记录了（可以看做为ym甜味版），后面写我的不良反应 https://t.co/AQ31ZndL0q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056201624276844544"
+          ]
+        },
+        "author_id": "1777730090924978176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056201627137421317",
+        "created_at": "2026-05-18T02:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056201627137421317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ31ZndL0q",
+              "end": 106,
+              "expanded_url": "https://x.com/Hiiragi_qin8964/status/2056201627137421317/photo/1",
+              "media_key": "3_2056201624276844544",
+              "start": 83,
+              "url": "https://t.co/AQ31ZndL0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056201627137421317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ym口哨糖23t（日新）测试\n联用了克拉霉素1g+pr225mg+加巴1.8g+15mgym作为补充\n不发trip记录了（可以看做为ym甜味版），后面写我的不良反应 https://t.co/AQ31ZndL0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 113,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 340
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo，成分不明的勿fo）\n阿普唑仑重度依赖\n稍微懂一点点药理（学习中）、可提供建议、乐子\n欢迎咨询\nCN\\JP\n累了，反正我本来就很无聊\n我自己本来就是乐子，也喜欢给带伙们提供乐子，我自己也喜欢笑我自己\n以防自己被ban先加个防ban数字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiiragi_qin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hiiragi_qin",
+                "start": 0,
+                "url": "https://t.co/uj2xkcmm73"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 266,
+          "like_count": 18353,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/uj2xkcmm73",
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1931685459287286047",
+    "created_at": "2025-06-08T12:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931685459287286047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429405137198452736",
+          "start": 3,
+          "username": "DrEffie_Mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931685459287286047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930504189110878469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrEffie_Mtf: 各位朋友，我目前在深圳出差，无法使用我的电脑。  \n\n面对如潮水般涌来的脚本小子恶意盗号与网络骚扰，我深感无力和被动，难以有效应对。  \n\n这一切源于我母亲对弟弟的医疗帮助及我自身的健康状况，我从未因此怨责母亲，这只是无奈的现实。… https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1930504178612465664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqHUnuacAArcKt.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1931685459287286047",
+        "created_at": "2025-06-08T12:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931685459287286047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429405137198452736",
+              "start": 3,
+              "username": "DrEffie_Mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931685459287286047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930504189110878469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrEffie_Mtf: 各位朋友，我目前在深圳出差，无法使用我的电脑。  \n\n面对如潮水般涌来的脚本小子恶意盗号与网络骚扰，我深感无力和被动，难以有效应对。  \n\n这一切源于我母亲对弟弟的医疗帮助及我自身的健康状况，我从未因此怨责母亲，这只是无奈的现实。… https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930504178612465664"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1930504189110878469",
+        "created_at": "2025-06-05T05:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930504189110878469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tYHa5DTcb",
+              "end": 139,
+              "expanded_url": "https://x.com/EffieLindraDom/status/1930504189110878469/photo/1",
+              "media_key": "3_1930504178612465664",
+              "start": 116,
+              "url": "https://t.co/4tYHa5DTcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930504189110878469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "各位朋友，我目前在深圳出差，无法使用我的电脑。  \n\n面对如潮水般涌来的脚本小子恶意盗号与网络骚扰，我深感无力和被动，难以有效应对。  \n\n这一切源于我母亲对弟弟的医疗帮助及我自身的健康状况，我从未因此怨责母亲，这只是无奈的现实。  \n\n键盘和计算机是我应对挑战的工具，可惜此次我无法使用它们。  \n\n我的弟弟曾因疝气在深圳市儿童医院接受“达芬奇机器人”参与的微创手术（约三年前，具体时间已有些模糊）。因手术副作用及生活习惯问题，他近期被确诊患有隐睾症，这可能影响其未来健康。\n\n幸运的是，母亲筹集了自己的积蓄带他进行了修复手术（今年手术时他仅6岁），感谢上帝的恩赐，目前问题已得到解决。  \n\n我本人则在上海完成部分癌症及心脏病并发症治疗后紧急转运到深圳（曾在三甲医院ICU住院）继续治疗。情况好转后，为照顾母亲和弟弟，我需在深圳停留一个月。  \n\n我无法理解，为何有人选择在我最脆弱时发起攻击。  \n\n经查，我的谷歌云盘隐私数据已被窃取，上传至某Telegram小团体频道。这些数据涉及某家二线硬件厂商的新主板设计原理图、Bios、 Pcb文件和工程手册，这些都是绝对的机密，在事件发生前尚未公开在公众领域。此外，我的身份证、护照、通行证件及多个即时通讯账号也被泄露。  \n\n所幸该企业的设计文件没有被广泛传播和保存，因此我并不会遭到诉讼。\n\n目前，我持续遭受电话骚扰，攻击者使用网络电话拨打我持有的英国号码（中国警方难以追查），并向我所在机构发送诽谤邮件，污蔑我卷入恶性事件。  \n\n我的身份证字号和护照被转发到多个Telegram群组，并且被P了很多鬼图侮辱我的心灵。他们以观察我的反应为乐，并讨论下一步应该如何“迫害”。\n\n我曾经希望和Telegram官方对话，但鉴于之前的经历，我认为不会有任何结果。\n\n每逢凌晨，骚扰电话和短信轰炸不断，我已濒临崩溃。近期如潮的质疑声和逐渐崩溃的精神状态迫使我公开这一切。  \n\n最后，我恳请你们在7天内停止攻击。我相信沟通与合作能解决大多数问题，否则我将不得不诉诸法律维护自身权益。  本人曾经以诉棍行为出名，我想现在本人已经足够克制了。\n\n另外如果可以，希望你们可以删除对我文件的转储。\n\n* 图片是我被逮捕并最后释放，我跨越大门后奔跑着，在门口的公路上拦下了一辆出租车。我在车上留下了这张照片，这象征着我不屈的灵魂！ \n\n此致，最诚挚的问候，\nDr. Effie"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2299,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位朋友，我目前在深圳出差，无法使用我的电脑。  \n\n面对如潮水般涌来的脚本小子恶意盗号与网络骚扰，我深感无力和被动，难以有效应对。  \n\n这一切源于我母亲对弟弟的医疗帮助及我自身的健康状况，我从未因此怨责母亲，这只是无奈的现实。 https://t.co/4tYHa5DTcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 62,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "Effie Lingley Dorme aka 艾菲 凌洛 朵姆/I can drink nitric acid cause, it won't hurt me./15.yo/Biohacke＆Computer-Aided Drug Desig/Patients with Ewing sarcoma and DCM。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/fhC2Qb…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/fhC2QbbtzephMTE0",
+                "start": 0,
+                "url": "https://t.co/CMmFQgG4Fz"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Non-Daily Department",
+        "name": "Dr.Effie #在逆境中起舞 🧬🔬",
+        "pinned_tweet_id": "1930780898401915336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931406772247613441/CNKJwG76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8986,
+          "following_count": 949,
+          "like_count": 124068,
+          "listed_count": 36,
+          "media_count": 3484,
+          "tweet_count": 20020
+        },
+        "url": "https://t.co/CMmFQgG4Fz",
+        "username": "DrEffie_Mtf",
+        "verified": true
+      }
+    ]
+  }
+}

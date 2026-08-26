@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066813585032982528"
+      ],
+      "media_source_tweet_id": [
+        "2066813611914248469"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067701122605941125",
+    "created_at": "2026-06-18T20:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067701122605941125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1225559787414401025",
+          "start": 3,
+          "username": "Gun1nx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7BYRfBGqzM",
+          "end": 43,
+          "expanded_url": "https://x.com/Gun1nx/status/2066813611914248469/photo/1",
+          "media_key": "3_2066813585032982528",
+          "start": 20,
+          "url": "https://t.co/7BYRfBGqzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067701122605941125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066813611914248469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gun1nx: 震撼👉🏻热卖中 https://t.co/7BYRfBGqzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066813585032982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7MAVDXsAACu1s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066813585032982528"
+          ],
+          "media_source_tweet_id": [
+            "2066813611914248469"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067701122605941125",
+        "created_at": "2026-06-18T20:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701122605941125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1225559787414401025",
+              "start": 3,
+              "username": "Gun1nx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BYRfBGqzM",
+              "end": 43,
+              "expanded_url": "https://x.com/Gun1nx/status/2066813611914248469/photo/1",
+              "media_key": "3_2066813585032982528",
+              "start": 20,
+              "url": "https://t.co/7BYRfBGqzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701122605941125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066813611914248469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gun1nx: 震撼👉🏻热卖中 https://t.co/7BYRfBGqzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066813585032982528"
+          ]
+        },
+        "author_id": "1225559787414401025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066813611914248469",
+        "created_at": "2026-06-16T09:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066813611914248469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BYRfBGqzM",
+              "end": 31,
+              "expanded_url": "https://x.com/Gun1nx/status/2066813611914248469/photo/1",
+              "media_key": "3_2066813585032982528",
+              "start": 8,
+              "url": "https://t.co/7BYRfBGqzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066813611914248469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "震撼👉🏻热卖中 https://t.co/7BYRfBGqzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 125,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "04年宅宅，男，坐标厦门，\n目前是萌新狂热舞萌痴\n爱玩点gal/音游/魂 \n欢迎找我约勤和互fo",
+        "id": "1225559787414401025",
+        "location": "出勤ing",
+        "name": "Sangu1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 110,
+          "like_count": 18640,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false
+      }
+    ]
+  }
+}

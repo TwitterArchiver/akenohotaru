@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048351527845449728"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2048351624800751917",
+    "created_at": "2026-04-26T10:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048351624800751917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kssaXANCO2",
+          "end": 27,
+          "expanded_url": "https://x.com/akenohotaru/status/2048351624800751917/video/1",
+          "media_key": "7_2048351527845449728",
+          "start": 4,
+          "url": "https://t.co/kssaXANCO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048351624800751917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好看 https://t.co/kssaXANCO2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8736,
+        "height": 720,
+        "media_key": "7_2048351527845449728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048351527845449728/pu/img/k5BbsxLGJTlb9aVi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048351527845449728/pu/vid/avc1/480x270/HSY2W6YWEnpqNaPI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048351527845449728/pu/vid/avc1/640x360/Ep2VS-Na5mP7xfHf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048351527845449728/pu/vid/avc1/1280x720/C9FP7cX5Xe4omaxB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048351527845449728/pu/pl/NkEabbtSWVVLCYuL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048351527845449728"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2048351624800751917",
+        "created_at": "2026-04-26T10:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048351624800751917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kssaXANCO2",
+              "end": 27,
+              "expanded_url": "https://x.com/akenohotaru/status/2048351624800751917/video/1",
+              "media_key": "7_2048351527845449728",
+              "start": 4,
+              "url": "https://t.co/kssaXANCO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048351624800751917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好看 https://t.co/kssaXANCO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 80,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

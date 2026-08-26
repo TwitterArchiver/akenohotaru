@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2047700658565083340",
+    "created_at": "2026-05-01T08:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050126857052328026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754502413728280576",
+          "start": 0,
+          "username": "Erii_Wilson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050126857052328026",
+    "in_reply_to_user_id": "1754502413728280576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047700658565083340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erii_Wilson 氯销起效很快，而阿普做人是氯的弱化版。劳拉镇静强就是用来睡觉的，地西泮也是睡觉的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2047700647806750720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrk49bb0AAzL3a.jpg",
+        "width": 1406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2047700658565083340",
+        "created_at": "2026-05-01T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050126857052328026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754502413728280576",
+              "start": 0,
+              "username": "Erii_Wilson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050126857052328026",
+        "in_reply_to_user_id": "1754502413728280576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047700658565083340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erii_Wilson 氯销起效很快，而阿普做人是氯的弱化版。劳拉镇静强就是用来睡觉的，地西泮也是睡觉的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047700647806750720"
+          ]
+        },
+        "author_id": "1754502413728280576",
+        "conversation_id": "2047700658565083340",
+        "created_at": "2026-04-24T15:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047700658565083340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgBov1Ordd",
+              "end": 36,
+              "expanded_url": "https://x.com/Erii_Wilson/status/2047700658565083340/photo/1",
+              "media_key": "3_2047700647806750720",
+              "start": 13,
+              "url": "https://t.co/QgBov1Ordd"
+            },
+            {
+              "display_url": "x.com/erii_wilson/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/erii_wilson/status/2047573412189716980",
+              "start": 37,
+              "url": "https://t.co/MMijrCY98e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047700658565083340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2229,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047573412189716980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "修改了一下，有错误请指出 https://t.co/QgBov1Ordd https://t.co/MMijrCY98e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 90,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 149
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:49:20.000Z",
+        "description": "Erii/梨梨：♀ADHD⚠️ ｜努力变健全｜可提供动物医疗/精神&全科等问答科普: 文字&语音 (提问内容不限) 私信即可｜照片在亮点(已过期) / Instagram⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/erii_w_?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/erii_w_?igsh=dzE2bzhzamt1emQ0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/IuWnXY0yOh"
+              }
+            ]
+          }
+        },
+        "id": "1754502413728280576",
+        "location": "Equality On-Sea",
+        "name": "超绝可爱Erii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754502545244872704/x61GZNd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 113,
+          "like_count": 1506,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/IuWnXY0yOh",
+        "username": "Erii_Wilson",
+        "verified": false
+      }
+    ]
+  }
+}

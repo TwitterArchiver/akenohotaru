@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2048450253649543251",
+    "created_at": "2026-04-26T17:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048450253649543251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022181719835914242",
+          "start": 3,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048450253649543251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048129371593122117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QY404XYN: o大了被送进医院了（8000mg普瑞巴林胶囊）\n救护车上踹家长被救护人员拦了\n在医院打家长和医生被保安强拉着去椅子上坐着，我开了一把AstroDX（手机版舞萌），然后我又去打家长，又被保安按椅子上了，嗯就这样，情况就是这个样子，然后我回家睡着了 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048128785976119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxqR4Zb0AAdE3S.jpg",
+        "width": 930
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2048128786131296256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxqR4-boAAlt_2.jpg",
+        "width": 2227
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2048128787104366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxqR8mbgAAfjQ2.jpg",
+        "width": 2227
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2048128787200757760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxqR89aUAAZfBb.jpg",
+        "width": 2227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2048450253649543251",
+        "created_at": "2026-04-26T17:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048450253649543251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022181719835914242",
+              "start": 3,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048450253649543251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048129371593122117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QY404XYN: o大了被送进医院了（8000mg普瑞巴林胶囊）\n救护车上踹家长被救护人员拦了\n在医院打家长和医生被保安强拉着去椅子上坐着，我开了一把AstroDX（手机版舞萌），然后我又去打家长，又被保安按椅子上了，嗯就这样，情况就是这个样子，然后我回家睡着了 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048128785976119296",
+            "3_2048128786131296256",
+            "3_2048128787104366592",
+            "3_2048128787200757760"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048129371593122117",
+        "created_at": "2026-04-25T19:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:55:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048128789650272492",
+          "2048129371593122117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTnp0KVJ30",
+              "end": 146,
+              "expanded_url": "https://x.com/QY404XYN/status/2048129371593122117/photo/1",
+              "media_key": "3_2048128785976119296",
+              "start": 123,
+              "url": "https://t.co/UTnp0KVJ30"
+            },
+            {
+              "display_url": "pic.x.com/UTnp0KVJ30",
+              "end": 146,
+              "expanded_url": "https://x.com/QY404XYN/status/2048129371593122117/photo/1",
+              "media_key": "3_2048128786131296256",
+              "start": 123,
+              "url": "https://t.co/UTnp0KVJ30"
+            },
+            {
+              "display_url": "pic.x.com/UTnp0KVJ30",
+              "end": 146,
+              "expanded_url": "https://x.com/QY404XYN/status/2048129371593122117/photo/1",
+              "media_key": "3_2048128787104366592",
+              "start": 123,
+              "url": "https://t.co/UTnp0KVJ30"
+            },
+            {
+              "display_url": "pic.x.com/UTnp0KVJ30",
+              "end": 146,
+              "expanded_url": "https://x.com/QY404XYN/status/2048129371593122117/photo/1",
+              "media_key": "3_2048128787200757760",
+              "start": 123,
+              "url": "https://t.co/UTnp0KVJ30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048129371593122117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4755,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "o大了被送进医院了（8000mg普瑞巴林胶囊）\n救护车上踹家长被救护人员拦了\n在医院打家长和医生被保安强拉着去椅子上坐着，我开了一把AstroDX（手机版舞萌），然后我又去打家长，又被保安按椅子上了，嗯就这样，情况就是这个样子，然后我回家睡着了 https://t.co/UTnp0KVJ30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 81,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 115
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜正在戒od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "千夜404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048375283867348992/BL6nxqZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 210,
+          "like_count": 182,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 356
+        },
+        "username": "QY404XYN",
+        "verified": true
+      }
+    ]
+  }
+}

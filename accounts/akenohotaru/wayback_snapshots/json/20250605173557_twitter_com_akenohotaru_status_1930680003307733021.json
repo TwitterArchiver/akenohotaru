@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "1930504617864946062",
+    "created_at": "2025-06-05T17:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T18:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930680003307733021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "aociig"
+        },
+        {
+          "end": 20,
+          "id": "1861012887797690368",
+          "start": 8,
+          "username": "Lost_Agony_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930680003307733021",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930531558395670634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aociig @Lost_Agony_ 啊，这药我吃了一点感觉都没有啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "1930504617864946062",
+        "created_at": "2025-06-05T17:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930680003307733021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "aociig"
+            },
+            {
+              "end": 20,
+              "id": "1861012887797690368",
+              "start": 8,
+              "username": "Lost_Agony_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930680003307733021",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930531558395670634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aociig @Lost_Agony_ 啊，这药我吃了一点感觉都没有啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768328423498276864",
+        "conversation_id": "1930504617864946062",
+        "created_at": "2025-06-05T07:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930531558395670634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861012887797690368",
+              "start": 0,
+              "username": "Lost_Agony_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930531558395670634",
+        "in_reply_to_user_id": "1861012887797690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930527991446278595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lost_Agony_ 右佐匹克隆来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 49,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "葵(あおい)|中国 17|病み垢|愚痴|リスカ|簡単の日本語◎English and Chinese◎ DM◎|FF大歓迎 無言フォロー◎",
+        "id": "1768328423498276864",
+        "location": "彼女いる 🚪66",
+        "name": "寝言犬",
+        "pinned_tweet_id": "1782356922173153530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924750203141173248/3i-cqu6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 316,
+          "like_count": 5536,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 6617
+        },
+        "username": "aociig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:43:52.000Z",
+        "description": "＝鱼萘｜做你骨髓第十二层肋骨血色抑制剂｜唯妹主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lost_agony_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lost_agony_",
+                "start": 0,
+                "url": "https://t.co/UzJtcZcG9Q"
+              }
+            ]
+          }
+        },
+        "id": "1861012887797690368",
+        "location": "London, England",
+        "name": "恋妹婊",
+        "pinned_tweet_id": "1925962257005007284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927904716588990464/Db_5FOL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 314,
+          "like_count": 3686,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/UzJtcZcG9Q",
+        "username": "Lost_Agony_",
+        "verified": false
+      }
+    ]
+  }
+}

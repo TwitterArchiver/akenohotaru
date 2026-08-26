@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053742061963370496"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2053742086378360875",
+    "created_at": "2026-05-11T07:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053742086378360875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gqdW01YGvF",
+          "end": 46,
+          "expanded_url": "https://x.com/akenohotaru/status/2053742086378360875/photo/1",
+          "media_key": "3_2053742061963370496",
+          "start": 23,
+          "url": "https://t.co/gqdW01YGvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053742086378360875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是回学校了，祝我能安稳度过一段无聊的时间吧 https://t.co/gqdW01YGvF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053742061963370496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBbhi-a4AAf81Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053742061963370496"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2053742086378360875",
+        "created_at": "2026-05-11T07:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053742086378360875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqdW01YGvF",
+              "end": 46,
+              "expanded_url": "https://x.com/akenohotaru/status/2053742086378360875/photo/1",
+              "media_key": "3_2053742061963370496",
+              "start": 23,
+              "url": "https://t.co/gqdW01YGvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053742086378360875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是回学校了，祝我能安稳度过一段无聊的时间吧 https://t.co/gqdW01YGvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 109,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 300
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

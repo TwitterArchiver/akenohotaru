@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050127225262129450",
+    "created_at": "2026-05-07T05:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052256296083341754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967500683760021504",
+          "start": 0,
+          "username": "rkk17629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052256296083341754",
+    "in_reply_to_user_id": "1967500683760021504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050129353888194861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rkk17629 我是又无聊又不想动，不想走出房间甚至连床走到桌前打开电脑都不想，只是一直在床上刷着短视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050127225262129450",
+        "created_at": "2026-05-07T05:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052256296083341754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967500683760021504",
+              "start": 0,
+              "username": "rkk17629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052256296083341754",
+        "in_reply_to_user_id": "1967500683760021504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050129353888194861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkk17629 我是又无聊又不想动，不想走出房间甚至连床走到桌前打开电脑都不想，只是一直在床上刷着短视频"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967500683760021504",
+        "conversation_id": "2050127225262129450",
+        "created_at": "2026-05-01T08:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050129353888194861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050129353888194861",
+        "in_reply_to_user_id": "1967500683760021504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050127225262129450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最可怕的就是无聊，站在路边看到车轮卷起的黄沙，等黄沙散去了也看不到有人，只有汽车的声音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 105,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T08:08:22.000Z",
+        "description": "基本上全是碎碎念，是封闭自我活在幻想中的幽灵、大脑平滑的空心人。intp/白羊座/上升天秤。欢迎互fo，大家可以叫我卡子或者卡卡！和我交朋友吧！",
+        "id": "1967500683760021504",
+        "location": "被窝",
+        "name": "阿尔卡卡",
+        "pinned_tweet_id": "2051823997177004387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967501242814672896/KGZCCEW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 121,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "rkk17629",
+        "verified": false
+      }
+    ]
+  }
+}

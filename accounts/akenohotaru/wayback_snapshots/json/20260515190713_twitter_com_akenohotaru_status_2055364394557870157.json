@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2055313041571618866",
+    "created_at": "2026-05-15T19:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055364394557870157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883854964772175872",
+          "start": 0,
+          "username": "kocatia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055364394557870157",
+    "in_reply_to_user_id": "1883854964772175872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055313041571618866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kocatia_ 我想来可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2055313041571618866",
+        "created_at": "2026-05-15T19:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055364394557870157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883854964772175872",
+              "start": 0,
+              "username": "kocatia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055364394557870157",
+        "in_reply_to_user_id": "1883854964772175872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055313041571618866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kocatia_ 我想来可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883854964772175872",
+        "conversation_id": "2055313041571618866",
+        "created_at": "2026-05-15T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055313041571618866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055313041571618866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉谁来陪我打游戏啊我想玩那种竞技性不强而且多人连语音一起很好玩的那种游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 116,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 312
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T12:30:09.000Z",
+        "description": "もうじき夏が終わるから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kocatia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kocatia",
+                "start": 0,
+                "url": "https://t.co/LvgztTx1QC"
+              }
+            ]
+          }
+        },
+        "id": "1883854964772175872",
+        "location": "秘封俱乐部",
+        "name": "幻想のサテライト",
+        "pinned_tweet_id": "2033157704857035136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281813410316288/lEMIcIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 198,
+          "like_count": 8019,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/LvgztTx1QC",
+        "username": "kocatia_",
+        "verified": false
+      }
+    ]
+  }
+}

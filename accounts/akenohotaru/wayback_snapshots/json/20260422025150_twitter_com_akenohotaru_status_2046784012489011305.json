@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2046784012489011305",
+    "created_at": "2026-04-22T02:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046784012489011305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046784012489011305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046616714482430359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 那日我在室外透气，突然觉得身后扬起了一阵微风，我回头去看，她站在那里，右手摊开一把胶囊，有的是绿色有的是红色，我正欲开口，她却用左手在嘴边比了个嘘的动作，她说了两个字我听不清，只感觉莫名其妙，正欲询问她却忽然消失不见，我打开手机看到这一消息猛然…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046616711563190272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcLDkQaIAAC87m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2046784012489011305",
+        "created_at": "2026-04-22T02:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046784012489011305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046784012489011305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046616714482430359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 那日我在室外透气，突然觉得身后扬起了一阵微风，我回头去看，她站在那里，右手摊开一把胶囊，有的是绿色有的是红色，我正欲开口，她却用左手在嘴边比了个嘘的动作，她说了两个字我听不清，只感觉莫名其妙，正欲询问她却忽然消失不见，我打开手机看到这一消息猛然…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046616711563190272"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2046616714482430359",
+        "created_at": "2026-04-21T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046616714482430359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hB23VQegZB",
+              "end": 164,
+              "expanded_url": "https://x.com/bui_tu46916/status/2046616714482430359/photo/1",
+              "media_key": "3_2046616711563190272",
+              "start": 141,
+              "url": "https://t.co/hB23VQegZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046616714482430359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1212,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "那日我在室外透气，突然觉得身后扬起了一阵微风，我回头去看，她站在那里，右手摊开一把胶囊，有的是绿色有的是红色，我正欲开口，她却用左手在嘴边比了个嘘的动作，她说了两个字我听不清，只感觉莫名其妙，正欲询问她却忽然消失不见，我打开手机看到这一消息猛然意识到她说的是“再见”。——普瑞巴林 https://t.co/hB23VQegZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 99
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 201,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 613
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

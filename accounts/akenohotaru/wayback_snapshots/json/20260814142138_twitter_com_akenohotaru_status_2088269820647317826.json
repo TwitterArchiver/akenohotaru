@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2088244959552077829",
+    "created_at": "2026-08-14T14:21:38.000Z",
+    "display_text_range": [
+      11,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088269820647317826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1759955681593917440",
+          "start": 0,
+          "username": "Xioa_SuLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088269820647317826",
+    "in_reply_to_user_id": "1759955681593917440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088244959552077829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xioa_SuLi 先提醒一句，抗精神病药吃了普遍都会立刻长胖，比如你的奥氮平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088244947409608704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrvtzZaoAAJVsR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088244959552077829",
+        "created_at": "2026-08-14T14:21:38.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088269820647317826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1759955681593917440",
+              "start": 0,
+              "username": "Xioa_SuLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088269820647317826",
+        "in_reply_to_user_id": "1759955681593917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088244959552077829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xioa_SuLi 先提醒一句，抗精神病药吃了普遍都会立刻长胖，比如你的奥氮平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088244947409608704"
+          ]
+        },
+        "author_id": "1759955681593917440",
+        "conversation_id": "2088244959552077829",
+        "created_at": "2026-08-14T12:42:50.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088244959552077829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/coilLRLM4T",
+              "end": 72,
+              "expanded_url": "https://x.com/Xioa_SuLi/status/2088244959552077829/photo/1",
+              "media_key": "3_2088244947409608704",
+              "start": 49,
+              "url": "https://t.co/coilLRLM4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088244959552077829",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088244947409608704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 419,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生说要我一定要两个星期后找她\n然后还直接站起来握住我的手说要我好好活着\n!!!∑(°Д°ノ)ノ https://t.co/coilLRLM4T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类，pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088269820647317826",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 155,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T14:58:41.000Z",
+        "description": "hrt2024.5.8 身高170体重60kg ˃ʍ˂小证嘿嘿 \n08年                     \n17岁哎 (-^〇^-)(家长不管党，天残党)       \n现在在未知之地，死亡才会迎来新生\n    \n记住每天保持微笑ヾ(✿ﾟ▽ﾟ)ノ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "https://t.me",
+                "start": 0,
+                "url": "https://t.co/92fY79QjRQ"
+              }
+            ]
+          }
+        },
+        "id": "1759955681593917440",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2088244959552077829",
+        "name": "薪薪🍥",
+        "pinned_tweet_id": "1916962863601881373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759955681593917440/1734001138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 382,
+          "like_count": 160,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/92fY79QjRQ",
+        "username": "Xioa_SuLi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

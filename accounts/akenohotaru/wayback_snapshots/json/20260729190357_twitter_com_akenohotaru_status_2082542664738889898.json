@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082063348540334080"
+      ],
+      "media_source_tweet_id": [
+        "2082063354164887774"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2082542664738889898",
+    "created_at": "2026-07-29T19:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082542664738889898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591932020514779137",
+          "start": 3,
+          "username": "t0mk0309"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xljaM1t8YE",
+          "end": 46,
+          "expanded_url": "https://x.com/t0mk0309/status/2082063354164887774/photo/1",
+          "media_key": "3_2082063348540334080",
+          "start": 23,
+          "url": "https://t.co/xljaM1t8YE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082542664738889898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082063354164887774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t0mk0309: 猫口は良いぞ…。 https://t.co/xljaM1t8YE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082063348540334080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT5lZGbYAAVwn_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082063348540334080"
+          ]
+        },
+        "author_id": "1591932020514779137",
+        "conversation_id": "2082063354164887774",
+        "created_at": "2026-07-28T11:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082063354164887774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xljaM1t8YE",
+              "end": 32,
+              "expanded_url": "https://x.com/t0mk0309/status/2082063354164887774/photo/1",
+              "media_key": "3_2082063348540334080",
+              "start": 9,
+              "url": "https://t.co/xljaM1t8YE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082063354164887774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 20550,
+          "like_count": 1576,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "猫口は良いぞ…。 https://t.co/xljaM1t8YE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082063348540334080"
+          ],
+          "media_source_tweet_id": [
+            "2082063354164887774"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2082542664738889898",
+        "created_at": "2026-07-29T19:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082542664738889898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591932020514779137",
+              "start": 3,
+              "username": "t0mk0309"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xljaM1t8YE",
+              "end": 46,
+              "expanded_url": "https://x.com/t0mk0309/status/2082063354164887774/photo/1",
+              "media_key": "3_2082063348540334080",
+              "start": 23,
+              "url": "https://t.co/xljaM1t8YE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082542664738889898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082063354164887774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t0mk0309: 猫口は良いぞ…。 https://t.co/xljaM1t8YE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 142,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T23:12:46.000Z",
+        "description": "日常系をよく観ます。\nおでかけ、温泉むすめが好き。\nぽか活垢：(@re2008_yosuga)\nサブ垢(@Sorahanefan)\n無言フォロー失礼します_(┐「ε:)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "re2008_yosuga"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Sorahanefan"
+              }
+            ]
+          }
+        },
+        "id": "1591932020514779137",
+        "location": "奥木染町",
+        "name": "綾鷹",
+        "pinned_tweet_id": "2040779028261749039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052308796102651904/1l1V3N4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 6422,
+          "like_count": 83745,
+          "listed_count": 15,
+          "media_count": 4320,
+          "tweet_count": 25089
+        },
+        "url": "",
+        "username": "t0mk0309",
+        "verified": false
+      }
+    ]
+  }
+}

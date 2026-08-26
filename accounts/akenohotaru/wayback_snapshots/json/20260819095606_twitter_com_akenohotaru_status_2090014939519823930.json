@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090014920159203329",
+        "3_2090014929244000257"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2090014939519823930",
+    "created_at": "2026-08-19T09:56:06.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090014939519823930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QqiAjTkdss",
+          "end": 38,
+          "expanded_url": "https://x.com/akenohotaru/status/2090014939519823930/photo/1",
+          "media_key": "3_2090014920159203329",
+          "start": 15,
+          "url": "https://t.co/QqiAjTkdss"
+        },
+        {
+          "display_url": "pic.x.com/QqiAjTkdss",
+          "end": 38,
+          "expanded_url": "https://x.com/akenohotaru/status/2090014939519823930/photo/1",
+          "media_key": "3_2090014929244000257",
+          "start": 15,
+          "url": "https://t.co/QqiAjTkdss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090014939519823930",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090014920159203329"
+      },
+      {
+        "media_key": "3_2090014929244000257"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿片效果中的海滩，好温暖啊🥰 https://t.co/QqiAjTkdss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090014920159203329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5fxtbEAE00rs.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2090014929244000257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5gTjaEAEueL7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090014920159203329",
+            "3_2090014929244000257"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2090014939519823930",
+        "created_at": "2026-08-19T09:56:06.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090014939519823930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqiAjTkdss",
+              "end": 38,
+              "expanded_url": "https://x.com/akenohotaru/status/2090014939519823930/photo/1",
+              "media_key": "3_2090014920159203329",
+              "start": 15,
+              "url": "https://t.co/QqiAjTkdss"
+            },
+            {
+              "display_url": "pic.x.com/QqiAjTkdss",
+              "end": 38,
+              "expanded_url": "https://x.com/akenohotaru/status/2090014939519823930/photo/1",
+              "media_key": "3_2090014929244000257",
+              "start": 15,
+              "url": "https://t.co/QqiAjTkdss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090014939519823930",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090014920159203329"
+          },
+          {
+            "media_key": "3_2090014929244000257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片效果中的海滩，好温暖啊🥰 https://t.co/QqiAjTkdss"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/dxm大天使😇😇/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090014939519823930",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 164,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

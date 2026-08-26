@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2060325195940757556",
+    "created_at": "2026-05-29T11:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060325195940757556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2935630340",
+          "start": 3,
+          "username": "Q0S_Rimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060325195940757556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059585561447580149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2060325195940757556",
+        "created_at": "2026-05-29T11:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060325195940757556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2935630340",
+              "start": 3,
+              "username": "Q0S_Rimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060325195940757556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059585561447580149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2935630340",
+        "conversation_id": "2059585561447580149",
+        "created_at": "2026-05-27T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059585561447580149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059585561447580149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3589,
+          "impression_count": 2928411,
+          "like_count": 141620,
+          "quote_count": 500,
+          "reply_count": 386,
+          "retweet_count": 13679
+        },
+        "reply_settings": "everyone",
+        "text": "︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd、pr戒断中/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 123,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 450
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-19T03:35:45.000Z",
+        "description": "歌を歌っています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcZGB…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCcZGBzs2eed0sgmN-BcQQ3A",
+                "start": 0,
+                "url": "https://t.co/YbSHKgGNNf"
+              }
+            ]
+          }
+        },
+        "id": "2935630340",
+        "name": "神",
+        "pinned_tweet_id": "2008829283578589364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006314736926023680/cGeyEHpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66235,
+          "following_count": 43798,
+          "like_count": 23273,
+          "listed_count": 242,
+          "media_count": 3203,
+          "tweet_count": 27248
+        },
+        "url": "https://t.co/YbSHKgGNNf",
+        "username": "Q0S_Rimu",
+        "verified": false
+      }
+    ]
+  }
+}

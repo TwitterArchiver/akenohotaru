@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087287218356514816",
+        "3_2087287230457065472",
+        "3_2087287241362300928",
+        "3_2087287253861326848"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087287263575355477",
+    "created_at": "2026-08-11T21:17:18.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T22:00:45.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087283100216954937",
+      "2087287263575355477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/74m885EftH",
+          "end": 47,
+          "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+          "media_key": "3_2087287218356514816",
+          "start": 24,
+          "url": "https://t.co/74m885EftH"
+        },
+        {
+          "display_url": "pic.x.com/74m885EftH",
+          "end": 47,
+          "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+          "media_key": "3_2087287230457065472",
+          "start": 24,
+          "url": "https://t.co/74m885EftH"
+        },
+        {
+          "display_url": "pic.x.com/74m885EftH",
+          "end": 47,
+          "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+          "media_key": "3_2087287241362300928",
+          "start": 24,
+          "url": "https://t.co/74m885EftH"
+        },
+        {
+          "display_url": "pic.x.com/74m885EftH",
+          "end": 47,
+          "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+          "media_key": "3_2087287253861326848",
+          "start": 24,
+          "url": "https://t.co/74m885EftH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087287263575355477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087287218356514816"
+      },
+      {
+        "media_key": "3_2087287230457065472"
+      },
+      {
+        "media_key": "3_2087287241362300928"
+      },
+      {
+        "media_key": "3_2087287253861326848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我割了别人的手，但给TA吃了一板“特殊”止痛药 https://t.co/74m885EftH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087287218356514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeIqopacAAQd0k.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087287230457065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeIrVuaMAA-lP6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087287241362300928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeIr-Wa4AAjMz8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087287253861326848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeIss6a4AAcDRS.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087283052611567616",
+            "3_2087283065014157312",
+            "3_2087283076879814656",
+            "3_2087283089034838016"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087283100216954937",
+        "created_at": "2026-08-11T21:00:45.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:00:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087283100216954937",
+          "2087287263575355477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhTHYNs2NR",
+              "end": 46,
+              "expanded_url": "https://x.com/akenohotaru/status/2087283100216954937/photo/1",
+              "media_key": "3_2087283052611567616",
+              "start": 23,
+              "url": "https://t.co/UhTHYNs2NR"
+            },
+            {
+              "display_url": "pic.x.com/UhTHYNs2NR",
+              "end": 46,
+              "expanded_url": "https://x.com/akenohotaru/status/2087283100216954937/photo/1",
+              "media_key": "3_2087283065014157312",
+              "start": 23,
+              "url": "https://t.co/UhTHYNs2NR"
+            },
+            {
+              "display_url": "pic.x.com/UhTHYNs2NR",
+              "end": 46,
+              "expanded_url": "https://x.com/akenohotaru/status/2087283100216954937/photo/1",
+              "media_key": "3_2087283076879814656",
+              "start": 23,
+              "url": "https://t.co/UhTHYNs2NR"
+            },
+            {
+              "display_url": "pic.x.com/UhTHYNs2NR",
+              "end": 46,
+              "expanded_url": "https://x.com/akenohotaru/status/2087283100216954937/photo/1",
+              "media_key": "3_2087283089034838016",
+              "start": 23,
+              "url": "https://t.co/UhTHYNs2NR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087283100216954937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087283052611567616"
+          },
+          {
+            "media_key": "3_2087283065014157312"
+          },
+          {
+            "media_key": "3_2087283076879814656"
+          },
+          {
+            "media_key": "3_2087283089034838016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我割了别人的手，但给他吃了一板“特殊”止痛药 https://t.co/UhTHYNs2NR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087287218356514816",
+            "3_2087287230457065472",
+            "3_2087287241362300928",
+            "3_2087287253861326848"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087287263575355477",
+        "created_at": "2026-08-11T21:17:18.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:00:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087283100216954937",
+          "2087287263575355477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74m885EftH",
+              "end": 47,
+              "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+              "media_key": "3_2087287218356514816",
+              "start": 24,
+              "url": "https://t.co/74m885EftH"
+            },
+            {
+              "display_url": "pic.x.com/74m885EftH",
+              "end": 47,
+              "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+              "media_key": "3_2087287230457065472",
+              "start": 24,
+              "url": "https://t.co/74m885EftH"
+            },
+            {
+              "display_url": "pic.x.com/74m885EftH",
+              "end": 47,
+              "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+              "media_key": "3_2087287241362300928",
+              "start": 24,
+              "url": "https://t.co/74m885EftH"
+            },
+            {
+              "display_url": "pic.x.com/74m885EftH",
+              "end": 47,
+              "expanded_url": "https://x.com/akenohotaru/status/2087287263575355477/photo/1",
+              "media_key": "3_2087287253861326848",
+              "start": 24,
+              "url": "https://t.co/74m885EftH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087287263575355477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087287218356514816"
+          },
+          {
+            "media_key": "3_2087287230457065472"
+          },
+          {
+            "media_key": "3_2087287241362300928"
+          },
+          {
+            "media_key": "3_2087287253861326848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我割了别人的手，但给TA吃了一板“特殊”止痛药 https://t.co/74m885EftH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087287263575355477",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 147,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

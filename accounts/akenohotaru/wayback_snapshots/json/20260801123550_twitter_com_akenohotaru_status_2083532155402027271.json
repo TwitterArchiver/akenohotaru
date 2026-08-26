@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2083391038648205638",
+    "created_at": "2026-08-01T12:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083532155402027271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019464858006351872",
+          "start": 0,
+          "username": "kuluoyiluo002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083532155402027271",
+    "in_reply_to_user_id": "2019464858006351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083391038648205638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuluoyiluo002 你还好吗现在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083391029735223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmxGm-acAAtgV5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T12:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083532155402027271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019464858006351872",
+              "start": 0,
+              "username": "kuluoyiluo002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083532155402027271",
+        "in_reply_to_user_id": "2019464858006351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083391038648205638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuluoyiluo002 你还好吗现在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083391029735223296"
+          ]
+        },
+        "author_id": "2019464858006351872",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T03:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391038648205638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy7sRZfIrg",
+              "end": 87,
+              "expanded_url": "https://x.com/kuluoyiluo002/status/2083391038648205638/photo/1",
+              "media_key": "3_2083391029735223296",
+              "start": 64,
+              "url": "https://t.co/zy7sRZfIrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391038648205638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3923,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再见碎梦.. 再见伊洛.. 再见世界..\nUTC+8 11:15\n米氮平 1260mg (18t 30mg 48t 15mg) https://t.co/zy7sRZfIrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 146,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T17:35:26.000Z",
+        "description": "u/1f365*ｴｽﾄﾗｼﾞｵｰﾙ // 网瘾少女 / 常年性耳背 / 常年性过敏性鼻炎 / 主菜=上海全宇 / SSRI OD大师 / 血清素综合症爱好者 / 药源短缺 × 戒断战士 //《六⭐️干员伊洛为你所用～！》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isslivenow.com",
+                "end": 23,
+                "expanded_url": "https://isslivenow.com",
+                "start": 0,
+                "url": "https://t.co/UZqQzFC2yu"
+              }
+            ]
+          }
+        },
+        "id": "2019464858006351872",
+        "location": "International Space Station",
+        "name": "◈ 伊洛² ◈　🔪𓂸（六⭐️干员）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 94,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/UZqQzFC2yu",
+        "username": "kuluoyiluo002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070095228674146304"
+      ],
+      "media_source_tweet_id": [
+        "2070095247661764998"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2070585802653155404",
+    "created_at": "2026-06-26T19:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070585802653155404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2991943065",
+          "start": 3,
+          "username": "usj_MC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKfpIYiFsz",
+          "end": 50,
+          "expanded_url": "https://x.com/usj_MC/status/2070095247661764998/photo/1",
+          "media_key": "3_2070095228674146304",
+          "start": 27,
+          "url": "https://t.co/zKfpIYiFsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070585802653155404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070095247661764998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usj_MC: 置き場所に困るデカさでわろた https://t.co/zKfpIYiFsz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2070095228674146304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp0pIRagAAEFjR.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070095228674146304"
+          ],
+          "media_source_tweet_id": [
+            "2070095247661764998"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2070585802653155404",
+        "created_at": "2026-06-26T19:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070585802653155404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2991943065",
+              "start": 3,
+              "username": "usj_MC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKfpIYiFsz",
+              "end": 50,
+              "expanded_url": "https://x.com/usj_MC/status/2070095247661764998/photo/1",
+              "media_key": "3_2070095228674146304",
+              "start": 27,
+              "url": "https://t.co/zKfpIYiFsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070585802653155404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070095247661764998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usj_MC: 置き場所に困るデカさでわろた https://t.co/zKfpIYiFsz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070095228674146304"
+          ]
+        },
+        "author_id": "2991943065",
+        "conversation_id": "2070095247661764998",
+        "created_at": "2026-06-25T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070095247661764998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKfpIYiFsz",
+              "end": 38,
+              "expanded_url": "https://x.com/usj_MC/status/2070095247661764998/photo/1",
+              "media_key": "3_2070095228674146304",
+              "start": 15,
+              "url": "https://t.co/zKfpIYiFsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070095247661764998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 133325,
+          "like_count": 3695,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "置き場所に困るデカさでわろた https://t.co/zKfpIYiFsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 125,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-22T13:04:24.000Z",
+        "description": "一応ゲーム用のアカウントですが実質何でも垢です🙏 🎮Splatoon2~3🦑/ VRChat Since2020🥽/ その他色々!!!　乞食リスト→https://t.co/OxCnRB1GWW 🌎#USJファン🌎 💍→@USJ_Official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "USJファン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "USJ_Official"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/zT3OH",
+                "end": 97,
+                "expanded_url": "https://x.gd/zT3OH",
+                "start": 74,
+                "url": "https://t.co/OxCnRB1GWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCysgT…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCysgTjkBjC56PmT8k7jtZ0Q?app=desktop&persist_app=1",
+                "start": 0,
+                "url": "https://t.co/O5R8QqOoPu"
+              }
+            ]
+          }
+        },
+        "id": "2991943065",
+        "location": "大阪府大阪市此花区桜島２丁目１−３３",
+        "name": "ʚCocoaɞ",
+        "pinned_tweet_id": "1405792706803101700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737312839310942208/b8DNjmNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 2121,
+          "like_count": 29995,
+          "listed_count": 44,
+          "media_count": 5561,
+          "tweet_count": 26020
+        },
+        "url": "https://t.co/O5R8QqOoPu",
+        "username": "usj_MC",
+        "verified": true
+      }
+    ]
+  }
+}

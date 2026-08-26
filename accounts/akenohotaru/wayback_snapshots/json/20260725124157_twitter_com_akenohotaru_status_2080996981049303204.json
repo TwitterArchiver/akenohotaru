@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080524493567713280"
+      ],
+      "media_source_tweet_id": [
+        "2080524500161147032"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2080996981049303204",
+    "created_at": "2026-07-25T12:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080996981049303204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612280433064185859",
+          "start": 3,
+          "username": "c2F4F4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0cMV82wmXr",
+          "end": 53,
+          "expanded_url": "https://x.com/c2F4F4F/status/2080524500161147032/photo/1",
+          "media_key": "3_2080524493567713280",
+          "start": 30,
+          "url": "https://t.co/0cMV82wmXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080996981049303204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080524500161147032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c2F4F4F: 农药吧\no了以后连人带盒不到三斤 https://t.co/0cMV82wmXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2080524493567713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-CAPmaYAAb5Z4.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080524493567713280"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2080524500161147032",
+        "created_at": "2026-07-24T05:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080524500161147032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cMV82wmXr",
+              "end": 40,
+              "expanded_url": "https://x.com/c2F4F4F/status/2080524500161147032/photo/1",
+              "media_key": "3_2080524493567713280",
+              "start": 17,
+              "url": "https://t.co/0cMV82wmXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080524500161147032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5821,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "农药吧\no了以后连人带盒不到三斤 https://t.co/0cMV82wmXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080524493567713280"
+          ],
+          "media_source_tweet_id": [
+            "2080524500161147032"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2080996981049303204",
+        "created_at": "2026-07-25T12:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080996981049303204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612280433064185859",
+              "start": 3,
+              "username": "c2F4F4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cMV82wmXr",
+              "end": 53,
+              "expanded_url": "https://x.com/c2F4F4F/status/2080524500161147032/photo/1",
+              "media_key": "3_2080524493567713280",
+              "start": 30,
+              "url": "https://t.co/0cMV82wmXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080996981049303204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080524500161147032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c2F4F4F: 农药吧\no了以后连人带盒不到三斤 https://t.co/0cMV82wmXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 134,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 409,
+          "like_count": 9781,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

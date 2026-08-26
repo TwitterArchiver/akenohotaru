@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087901705841336320",
+        "3_2087901723109249024",
+        "3_2087901736807833600",
+        "3_2087901747159412736"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087901753190851063",
+    "created_at": "2026-08-13T13:59:03.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087901753190851063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKerbQu7bT",
+          "end": 29,
+          "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+          "media_key": "3_2087901705841336320",
+          "start": 6,
+          "url": "https://t.co/YKerbQu7bT"
+        },
+        {
+          "display_url": "pic.x.com/YKerbQu7bT",
+          "end": 29,
+          "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+          "media_key": "3_2087901723109249024",
+          "start": 6,
+          "url": "https://t.co/YKerbQu7bT"
+        },
+        {
+          "display_url": "pic.x.com/YKerbQu7bT",
+          "end": 29,
+          "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+          "media_key": "3_2087901736807833600",
+          "start": 6,
+          "url": "https://t.co/YKerbQu7bT"
+        },
+        {
+          "display_url": "pic.x.com/YKerbQu7bT",
+          "end": 29,
+          "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+          "media_key": "3_2087901747159412736",
+          "start": 6,
+          "url": "https://t.co/YKerbQu7bT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087901753190851063",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087901705841336320"
+      },
+      {
+        "media_key": "3_2087901723109249024"
+      },
+      {
+        "media_key": "3_2087901736807833600"
+      },
+      {
+        "media_key": "3_2087901747159412736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家咯😴😴 https://t.co/YKerbQu7bT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087901705841336320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm3ig6a4AAAC-u.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087901723109249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm3jhPaUAAn-kc.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087901736807833600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm3kURaIAAGZtn.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1063,
+        "media_key": "3_2087901747159412736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm3k61asAAjMV1.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087901705841336320",
+            "3_2087901723109249024",
+            "3_2087901736807833600",
+            "3_2087901747159412736"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087901753190851063",
+        "created_at": "2026-08-13T13:59:03.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087901753190851063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKerbQu7bT",
+              "end": 29,
+              "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+              "media_key": "3_2087901705841336320",
+              "start": 6,
+              "url": "https://t.co/YKerbQu7bT"
+            },
+            {
+              "display_url": "pic.x.com/YKerbQu7bT",
+              "end": 29,
+              "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+              "media_key": "3_2087901723109249024",
+              "start": 6,
+              "url": "https://t.co/YKerbQu7bT"
+            },
+            {
+              "display_url": "pic.x.com/YKerbQu7bT",
+              "end": 29,
+              "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+              "media_key": "3_2087901736807833600",
+              "start": 6,
+              "url": "https://t.co/YKerbQu7bT"
+            },
+            {
+              "display_url": "pic.x.com/YKerbQu7bT",
+              "end": 29,
+              "expanded_url": "https://x.com/akenohotaru/status/2087901753190851063/photo/1",
+              "media_key": "3_2087901747159412736",
+              "start": 6,
+              "url": "https://t.co/YKerbQu7bT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087901753190851063",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087901705841336320"
+          },
+          {
+            "media_key": "3_2087901723109249024"
+          },
+          {
+            "media_key": "3_2087901736807833600"
+          },
+          {
+            "media_key": "3_2087901747159412736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家咯😴😴 https://t.co/YKerbQu7bT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087901753190851063",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1777713353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 154,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

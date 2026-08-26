@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2046678684556575140",
+    "created_at": "2026-04-21T19:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T20:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046678684556575140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046678684556575140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046197430501392641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 两个最爽的合法易购买处方药就此陨落ꕤᴗ ᴗ)♡优美走后普瑞巴林成为替代者，如今普瑞巴林走后，或许再也没有如此门槛低廉又安全的日常滥用药品了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2046678684556575140",
+        "created_at": "2026-04-21T19:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046678684556575140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046678684556575140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046197430501392641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 两个最爽的合法易购买处方药就此陨落ꕤᴗ ᴗ)♡优美走后普瑞巴林成为替代者，如今普瑞巴林走后，或许再也没有如此门槛低廉又安全的日常滥用药品了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2046197430501392641",
+        "created_at": "2026-04-20T12:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046197430501392641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2046180597434032188",
+              "start": 72,
+              "url": "https://t.co/Fljeym7XdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046197430501392641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12042,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180597434032188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两个最爽的合法易购买处方药就此陨落ꕤᴗ ᴗ)♡优美走后普瑞巴林成为替代者，如今普瑞巴林走后，或许再也没有如此门槛低廉又安全的日常滥用药品了…… https://t.co/Fljeym7XdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 98
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论互动会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3316,
+          "following_count": 2276,
+          "like_count": 10043,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 8194
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

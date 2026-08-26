@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2057375635232973250",
+    "created_at": "2026-05-21T08:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057375635232973250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LengChamSayBye…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/LengChamSayBye/status/2056730619007410345",
+          "start": 12,
+          "url": "https://t.co/j1BbepPBkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057375635232973250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056730619007410345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行我真的笑死了前两个 https://t.co/j1BbepPBkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2056730615756750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIr5mRbaAAARUmS.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2057375635232973250",
+        "created_at": "2026-05-21T08:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057375635232973250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/2056730619007410345",
+              "start": 12,
+              "url": "https://t.co/j1BbepPBkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057375635232973250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056730619007410345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行我真的笑死了前两个 https://t.co/j1BbepPBkX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056730615756750848"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2056730619007410345",
+        "created_at": "2026-05-19T13:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056730619007410345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6CMovuA1N",
+              "end": 30,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2056730619007410345/photo/1",
+              "media_key": "3_2056730615756750848",
+              "start": 7,
+              "url": "https://t.co/h6CMovuA1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056730619007410345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 31546,
+          "like_count": 281,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "抖音你牛大了 https://t.co/h6CMovuA1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 115,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 351
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 219,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 880,
+          "tweet_count": 4802
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

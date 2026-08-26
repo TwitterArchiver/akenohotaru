@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088871799291572224"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2088871810159006073",
+    "created_at": "2026-08-16T06:13:43.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088871810159006073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95AyRUwx4N",
+          "end": 44,
+          "expanded_url": "https://x.com/akenohotaru/status/2088871810159006073/photo/1",
+          "media_key": "3_2088871799291572224",
+          "start": 21,
+          "url": "https://t.co/95AyRUwx4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088871810159006073",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088871799291572224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出门给精麻老爷拜拜 God bless！ https://t.co/95AyRUwx4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088871799291572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0p1Yoa8AAr40b.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088871799291572224"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088871810159006073",
+        "created_at": "2026-08-16T06:13:43.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088871810159006073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95AyRUwx4N",
+              "end": 44,
+              "expanded_url": "https://x.com/akenohotaru/status/2088871810159006073/photo/1",
+              "media_key": "3_2088871799291572224",
+              "start": 21,
+              "url": "https://t.co/95AyRUwx4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088871810159006073",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088871799291572224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门给精麻老爷拜拜 God bless！ https://t.co/95AyRUwx4N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088871810159006073",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786725673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 164,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

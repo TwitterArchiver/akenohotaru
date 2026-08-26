@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2082469247385514002",
+    "created_at": "2026-07-29T19:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082543751378174157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036516950604652545",
+          "start": 0,
+          "username": "lzb_lzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082543751378174157",
+    "in_reply_to_user_id": "2036516950604652545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082469247385514002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_lzb 好想抽卷烟大麻🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082469205622796288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZqtYjWMAAd_MI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2082469247385514002",
+        "created_at": "2026-07-29T19:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082543751378174157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036516950604652545",
+              "start": 0,
+              "username": "lzb_lzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082543751378174157",
+        "in_reply_to_user_id": "2036516950604652545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082469247385514002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_lzb 好想抽卷烟大麻🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082469205622796288"
+          ]
+        },
+        "author_id": "2036516950604652545",
+        "conversation_id": "2082469247385514002",
+        "created_at": "2026-07-29T14:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469247385514002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnMRCVrX1Z",
+              "end": 58,
+              "expanded_url": "https://x.com/lzb_lzb/status/2082469247385514002/photo/1",
+              "media_key": "3_2082469205622796288",
+              "start": 35,
+              "url": "https://t.co/BnMRCVrX1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469247385514002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1104,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到去年卷的一根小麻烟卷了 想到那时候和一帮好朋友传递抽真的很爽😭！ https://t.co/BnMRCVrX1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 143,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T18:57:30.000Z",
+        "description": "老号被封禁😮 无其他任何号认准@lzb_lzb\n研究裸盖蘑菇种植中…\n⚠️境内各地出售麻🍃 ing…鸽子别来😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "lzb_lzb"
+              }
+            ]
+          }
+        },
+        "id": "2036516950604652545",
+        "location": "weed！🍃",
+        "name": "L$D（大麻/裸蓋菇）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082468580931596288/Z7PMOkEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 111,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "lzb_lzb",
+        "verified": false
+      }
+    ]
+  }
+}

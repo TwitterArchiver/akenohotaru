@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927914694096080897"
+      ],
+      "media_source_tweet_id": [
+        "1927914699212943707"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "1928585767246508399",
+    "created_at": "2025-05-30T22:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T23:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928585767246508399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1917974642830258176",
+          "start": 3,
+          "username": "aoiro_medicine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uCoadOKZj4",
+          "end": 49,
+          "expanded_url": "https://x.com/aoiro_medicine/status/1927914699212943707/photo/1",
+          "media_key": "3_1927914694096080897",
+          "start": 26,
+          "url": "https://t.co/uCoadOKZj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928585767246508399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927914699212943707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoiro_medicine: メジコン城 https://t.co/uCoadOKZj4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927914694096080897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFUMyLaUAEgNx2.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927914694096080897"
+          ],
+          "media_source_tweet_id": [
+            "1927914699212943707"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "1928585767246508399",
+        "created_at": "2025-05-30T22:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T23:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928585767246508399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1917974642830258176",
+              "start": 3,
+              "username": "aoiro_medicine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCoadOKZj4",
+              "end": 49,
+              "expanded_url": "https://x.com/aoiro_medicine/status/1927914699212943707/photo/1",
+              "media_key": "3_1927914694096080897",
+              "start": 26,
+              "url": "https://t.co/uCoadOKZj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928585767246508399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927914699212943707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoiro_medicine: メジコン城 https://t.co/uCoadOKZj4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927914694096080897"
+          ]
+        },
+        "author_id": "1917974642830258176",
+        "conversation_id": "1927914699212943707",
+        "created_at": "2025-05-29T02:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T03:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927914699212943707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCoadOKZj4",
+              "end": 29,
+              "expanded_url": "https://x.com/aoiro_medicine/status/1927914699212943707/photo/1",
+              "media_key": "3_1927914694096080897",
+              "start": 6,
+              "url": "https://t.co/uCoadOKZj4"
+            },
+            {
+              "display_url": "x.com/soup4156713900…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/soup41567139000/status/1927684046110302638",
+              "start": 30,
+              "url": "https://t.co/VuVj7WJY3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927914699212943707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 24935,
+          "like_count": 804,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927684046110302638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "メジコン城 https://t.co/uCoadOKZj4 https://t.co/VuVj7WJY3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T16:09:44.000Z",
+        "description": "08/お薬いろいろ よろしくね",
+        "id": "1917974642830258176",
+        "location": "おふとん",
+        "name": "あおいろ",
+        "pinned_tweet_id": "1925364689258914202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917976656549183488/rw0yA_2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 75,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 717
+        },
+        "username": "aoiro_medicine",
+        "verified": false
+      }
+    ]
+  }
+}

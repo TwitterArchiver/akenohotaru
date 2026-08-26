@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056015270607835136"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056015301670851067",
+    "created_at": "2026-05-17T14:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056015301670851067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pkN1GfgIrG",
+          "end": 87,
+          "expanded_url": "https://x.com/akenohotaru/status/2056015301670851067/photo/1",
+          "media_key": "3_2056015270607835136",
+          "start": 64,
+          "url": "https://t.co/pkN1GfgIrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056015301670851067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小收获，在街边小卖部买的。话说这esse烧的好快啊，跟我之前买的完全不一样，之前买的烧的贼满，但味道是对的，有懂哥帮我看一下吗 https://t.co/pkN1GfgIrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056015270607835136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhu_tFb0AAzRCy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056015270607835136"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056015301670851067",
+        "created_at": "2026-05-17T14:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056015301670851067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkN1GfgIrG",
+              "end": 87,
+              "expanded_url": "https://x.com/akenohotaru/status/2056015301670851067/photo/1",
+              "media_key": "3_2056015270607835136",
+              "start": 64,
+              "url": "https://t.co/pkN1GfgIrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056015301670851067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小收获，在街边小卖部买的。话说这esse烧的好快啊，跟我之前买的完全不一样，之前买的烧的贼满，但味道是对的，有懂哥帮我看一下吗 https://t.co/pkN1GfgIrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 114,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 330
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

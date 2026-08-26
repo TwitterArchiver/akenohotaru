@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2050441033960370349",
+    "created_at": "2026-05-02T05:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050441033960370349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050441033960370349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047561229401755650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: 如何得到纯净版右美沙芬🏥？\n\n医生，我上呼吸道感染后遗留的咳嗽，换季/着凉就干咳无痰，影响休息，之前在外地，医生给我开的右美沙芬，效果还可以\n\n如何得到普瑞巴林💊？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2050441033960370349",
+        "created_at": "2026-05-02T05:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050441033960370349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050441033960370349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047561229401755650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: 如何得到纯净版右美沙芬🏥？\n\n医生，我上呼吸道感染后遗留的咳嗽，换季/着凉就干咳无痰，影响休息，之前在外地，医生给我开的右美沙芬，效果还可以\n\n如何得到普瑞巴林💊？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2047561229401755650",
+        "created_at": "2026-04-24T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047561229401755650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047561229401755650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如何得到纯净版右美沙芬🏥？\n\n医生，我上呼吸道感染后遗留的咳嗽，换季/着凉就干咳无痰，影响休息，之前在外地，医生给我开的右美沙芬，效果还可以\n\n如何得到普瑞巴林💊？\n\n我最近/几个月来出现手脚/身体某部位刺痛、烧灼感、麻木、电击样痛，晚上特别明显，影响睡觉和正常生活，之前在外地出现过这种情况，医生给我开的普瑞巴林，效果还可以（拿到处方后试试去药店囤货）\n\n事情并没有到绝望的地步，你们只是懒和怂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 27604,
+          "like_count": 391,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "如何得到纯净版右美沙芬🏥？\n\n医生，我上呼吸道感染后遗留的咳嗽，换季/着凉就干咳无痰，影响休息，之前在外地，医生给我开的右美沙芬，效果还可以\n\n如何得到普瑞巴林💊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 95,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 156
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 385,
+          "like_count": 4645,
+          "listed_count": 5,
+          "media_count": 523,
+          "tweet_count": 1913
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

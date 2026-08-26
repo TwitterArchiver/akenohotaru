@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045773016001662976"
+      ],
+      "media_source_tweet_id": [
+        "2045773024570618225"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2046117750196826202",
+    "created_at": "2026-04-20T06:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046117750196826202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J6CfuZlI5E",
+          "end": 42,
+          "expanded_url": "https://x.com/Cldeop/status/2045773024570618225/photo/1",
+          "media_key": "3_2045773016001662976",
+          "start": 19,
+          "url": "https://t.co/J6CfuZlI5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046117750196826202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045773024570618225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 舞萌阴击中二 https://t.co/J6CfuZlI5E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2045773016001662976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQLuBXb0AAZPR2.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045773016001662976"
+          ],
+          "media_source_tweet_id": [
+            "2045773024570618225"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2046117750196826202",
+        "created_at": "2026-04-20T06:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046117750196826202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6CfuZlI5E",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/2045773024570618225/photo/1",
+              "media_key": "3_2045773016001662976",
+              "start": 19,
+              "url": "https://t.co/J6CfuZlI5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046117750196826202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045773024570618225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 舞萌阴击中二 https://t.co/J6CfuZlI5E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045773016001662976"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2045773024570618225",
+        "created_at": "2026-04-19T07:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045773024570618225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6CfuZlI5E",
+              "end": 30,
+              "expanded_url": "https://x.com/Cldeop/status/2045773024570618225/photo/1",
+              "media_key": "3_2045773016001662976",
+              "start": 7,
+              "url": "https://t.co/J6CfuZlI5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045773024570618225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 73328,
+          "like_count": 3019,
+          "quote_count": 46,
+          "reply_count": 35,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌阴击中二 https://t.co/J6CfuZlI5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chunithm),游戏王    苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101740,
+          "following_count": 761,
+          "like_count": 36271,
+          "listed_count": 283,
+          "media_count": 17778,
+          "tweet_count": 25558
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

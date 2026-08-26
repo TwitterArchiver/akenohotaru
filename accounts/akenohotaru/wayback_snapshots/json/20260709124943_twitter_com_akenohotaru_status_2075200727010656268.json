@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2075200727010656268",
+    "created_at": "2026-07-09T12:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075200727010656268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qijieya/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/qijieya/status/2072120867698737374",
+          "start": 4,
+          "url": "https://t.co/IEv9Ln17bh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075200727010656268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072120867698737374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "淫纹🤤 https://t.co/IEv9Ln17bh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072120864674553857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGm8qaaIAENhMl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2075200727010656268",
+        "created_at": "2026-07-09T12:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075200727010656268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qijieya/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/qijieya/status/2072120867698737374",
+              "start": 4,
+              "url": "https://t.co/IEv9Ln17bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075200727010656268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072120867698737374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "淫纹🤤 https://t.co/IEv9Ln17bh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072120864674553857"
+          ]
+        },
+        "author_id": "1605724119156260866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072120867698737374",
+        "created_at": "2026-07-01T00:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072120867698737374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdP5RSlpEA",
+              "end": 28,
+              "expanded_url": "https://x.com/qijieya/status/2072120867698737374/photo/1",
+              "media_key": "3_2072120864674553857",
+              "start": 5,
+              "url": "https://t.co/ZdP5RSlpEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072120867698737374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14445,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "淫纹药业 https://t.co/ZdP5RSlpEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 125,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  中度偏重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 123,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 100,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2069318895748739435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 324,
+          "like_count": 10582,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

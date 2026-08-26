@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050788696316899328",
+        "3_2050788689836716032",
+        "3_2050784995300835328"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050788733977288828",
+    "created_at": "2026-05-03T04:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T05:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050788733977288828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2W3m0e3rqL",
+          "end": 23,
+          "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+          "media_key": "3_2050788696316899328",
+          "start": 0,
+          "url": "https://t.co/2W3m0e3rqL"
+        },
+        {
+          "display_url": "pic.x.com/2W3m0e3rqL",
+          "end": 23,
+          "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+          "media_key": "3_2050788689836716032",
+          "start": 0,
+          "url": "https://t.co/2W3m0e3rqL"
+        },
+        {
+          "display_url": "pic.x.com/2W3m0e3rqL",
+          "end": 23,
+          "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+          "media_key": "3_2050784995300835328",
+          "start": 0,
+          "url": "https://t.co/2W3m0e3rqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050788733977288828",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2W3m0e3rqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050788696316899328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXddCla8AArIgE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050788689836716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXdcqcbMAACsSr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050784995300835328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXaFnObgAACkJO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050788696316899328",
+            "3_2050788689836716032",
+            "3_2050784995300835328"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050788733977288828",
+        "created_at": "2026-05-03T04:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050788733977288828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W3m0e3rqL",
+              "end": 23,
+              "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+              "media_key": "3_2050788696316899328",
+              "start": 0,
+              "url": "https://t.co/2W3m0e3rqL"
+            },
+            {
+              "display_url": "pic.x.com/2W3m0e3rqL",
+              "end": 23,
+              "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+              "media_key": "3_2050788689836716032",
+              "start": 0,
+              "url": "https://t.co/2W3m0e3rqL"
+            },
+            {
+              "display_url": "pic.x.com/2W3m0e3rqL",
+              "end": 23,
+              "expanded_url": "https://x.com/akenohotaru/status/2050788733977288828/photo/1",
+              "media_key": "3_2050784995300835328",
+              "start": 0,
+              "url": "https://t.co/2W3m0e3rqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050788733977288828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2W3m0e3rqL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 100,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 192
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

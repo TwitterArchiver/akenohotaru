@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065752283930066945",
+        "3_2065752283938435072"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2065752300816335173",
+    "created_at": "2026-06-13T11:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065752300816335173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGlzcIcHlq",
+          "end": 71,
+          "expanded_url": "https://x.com/akenohotaru/status/2065752300816335173/photo/1",
+          "media_key": "3_2065752283930066945",
+          "start": 48,
+          "url": "https://t.co/jGlzcIcHlq"
+        },
+        {
+          "display_url": "pic.x.com/jGlzcIcHlq",
+          "end": 71,
+          "expanded_url": "https://x.com/akenohotaru/status/2065752300816335173/photo/1",
+          "media_key": "3_2065752283938435072",
+          "start": 48,
+          "url": "https://t.co/jGlzcIcHlq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065752300816335173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bzd RRRush!!!  tonight注定要crazy一波来修复我这一星期被残催的灵魂！ https://t.co/jGlzcIcHlq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065752283930066945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsGweWagAEfhN0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065752283938435072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsGweYaMAATOKo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065752283930066945",
+            "3_2065752283938435072"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2065752300816335173",
+        "created_at": "2026-06-13T11:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065752300816335173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGlzcIcHlq",
+              "end": 71,
+              "expanded_url": "https://x.com/akenohotaru/status/2065752300816335173/photo/1",
+              "media_key": "3_2065752283930066945",
+              "start": 48,
+              "url": "https://t.co/jGlzcIcHlq"
+            },
+            {
+              "display_url": "pic.x.com/jGlzcIcHlq",
+              "end": 71,
+              "expanded_url": "https://x.com/akenohotaru/status/2065752300816335173/photo/1",
+              "media_key": "3_2065752283938435072",
+              "start": 48,
+              "url": "https://t.co/jGlzcIcHlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065752300816335173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bzd RRRush!!!  tonight注定要crazy一波来修复我这一星期被残催的灵魂！ https://t.co/jGlzcIcHlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/bzd是我的神明大人/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 129,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 498
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077069573397090305"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2077069611674309100",
+    "created_at": "2026-07-14T16:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077069611674309100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixLtNOO6qK",
+          "end": 66,
+          "expanded_url": "https://x.com/akenohotaru/status/2077069611674309100/photo/1",
+          "media_key": "3_2077069573397090305",
+          "start": 43,
+          "url": "https://t.co/ixLtNOO6qK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077069611674309100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在享受普瑞3000mg的时候，忍不住又咬碎了两颗曲马多，啊，等待药效，不会爽死吧？😱 https://t.co/ixLtNOO6qK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077069573397090305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM7xbAbEAE2iL7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077069573397090305"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2077069611674309100",
+        "created_at": "2026-07-14T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077069611674309100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixLtNOO6qK",
+              "end": 66,
+              "expanded_url": "https://x.com/akenohotaru/status/2077069611674309100/photo/1",
+              "media_key": "3_2077069573397090305",
+              "start": 43,
+              "url": "https://t.co/ixLtNOO6qK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077069611674309100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在享受普瑞3000mg的时候，忍不住又咬碎了两颗曲马多，啊，等待药效，不会爽死吧？😱 https://t.co/ixLtNOO6qK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 130,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

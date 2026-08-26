@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "1929749070534660555",
+    "created_at": "2025-06-03T03:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T04:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929749070534660555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1850129214386937857",
+          "start": 3,
+          "username": "Soup41567139000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929749070534660555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928844891972370937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soup41567139000: 0Dの隠語がなとりって話好き"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "1929749070534660555",
+        "created_at": "2025-06-03T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929749070534660555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1850129214386937857",
+              "start": 3,
+              "username": "Soup41567139000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929749070534660555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928844891972370937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Soup41567139000: 0Dの隠語がなとりって話好き"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850129214386937857",
+        "conversation_id": "1928844891972370937",
+        "created_at": "2025-05-31T16:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T17:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928844891972370937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928844891972370937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 14182,
+          "like_count": 464,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "0Dの隠語がなとりって話好き"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "中国语/日本語/Eng  游戏：音游 （sega的maimai ,chuni),游戏王   OD 苯二氮卓重度依赖 音乐：jpop和ボカロ",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 50,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "akenohotaru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T10:56:00.000Z",
+        "description": "本垢@9PKevgzXhq90089/💍ブロン/下ネタ/ 251👾@_oha_sy__ /彼氏🫶@yamiren1310",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "9PKevgzXhq90089"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "_oha_sy__"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yamiren1310"
+              }
+            ]
+          }
+        },
+        "id": "1850129214386937857",
+        "location": "おきなわ/コザ界隈創立者",
+        "name": "mikisaaaa",
+        "pinned_tweet_id": "1926512225402904831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850129504095842304/tj1JR1B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 512,
+          "like_count": 33278,
+          "listed_count": 22,
+          "media_count": 551,
+          "tweet_count": 11925
+        },
+        "username": "Soup41567139000",
+        "verified": false
+      }
+    ]
+  }
+}
