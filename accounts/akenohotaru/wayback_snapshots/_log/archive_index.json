@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:33:30",
+  "last_updated": "2026-08-26T18:34:29",
   "html": {
     "https://web.archive.org/web/20250405040423if_/https://twitter.com/akenohotaru/status/1908370106239143953": {
       "status": "done",
@@ -7101,22 +7101,22 @@
       "last_updated": "2026-08-26T18:17:16"
     },
     "https://video.twimg.com/tweet_video/G2vCoVJbEAAVnN9.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251009023614_twitter_com_akenohotaru_status_1976114453675639026.json"
       ],
-      "last_updated": "2026-08-26T18:17:32",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251009023614/https://video.twimg.com/tweet_video/G2vCoVJbEAAVnN9.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-26T18:34:24",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=4)",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2046634042892910592/vid/avc1/3840x2160/y1T1hat36Tn21RKw.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260421190236_twitter_com_akenohotaru_status_2046665925223739621.json"
       ],
-      "last_updated": "2026-08-26T17:24:34",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260421190236/https://video.twimg.com/amplify_video/2046634042892910592/vid/avc1/3840x2160/y1T1hat36Tn21RKw.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:34:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421190236im_/https://video.twimg.com/amplify_video/2046634042892910592/vid/avc1/3840x2160/y1T1hat36Tn21RKw.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0fe823e990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2048351527845449728/pu/vid/avc1/1280x720/C9FP7cX5Xe4omaxB.mp4?tag=12": {
       "status": "done",
@@ -11425,7 +11425,7 @@
       "miss_count": 2
     },
     "20251009023614_twitter_com_akenohotaru_status_1976114453675639026.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -11436,7 +11436,7 @@
           "https://pbs.twimg.com/profile_images/1596431924389875712/90v9ufWG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:17:32",
+      "last_updated": "2026-08-26T18:34:24",
       "miss_count": 1
     },
     "20251009024833_twitter_com_akenohotaru_status_1976117552708571554.json": {
@@ -12043,7 +12043,7 @@
       "last_updated": "2026-08-26T17:25:30"
     },
     "20260421190236_twitter_com_akenohotaru_status_2046665925223739621.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12054,7 +12054,7 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:25:34"
+      "last_updated": "2026-08-26T18:34:29"
     },
     "20260421195318_twitter_com_akenohotaru_status_2046678684556575140.json": {
       "status": "done",
