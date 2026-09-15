@@ -1,11 +1,20 @@
 {
-  "name": "hotaru",
+  "name": "蛍_ヨホタル",
   "username": "@akenohotaru",
-  "bio": "od💊/dxm大天使😇/热爱解离，阿片类/pr戒断中/不自残🔪/音游痴/术力口/生物化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
-  "location": "",
+  "bio": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/曲马多大天使😇/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/maimai/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\nいぬ酱:@NanoCatfish",
+  "location": "九龍城寨廟街叉燒檔閣樓地鋪",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 149,
+        "start": 137,
+        "username": "NanoCatfish"
+      }
+    ]
+  }
 }
