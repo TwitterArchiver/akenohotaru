@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2094711430721478855",
+    "created_at": "2026-09-01T08:58:17.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094711430721478855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548631928504475649",
+          "start": 3,
+          "username": "rien40488323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094711430721478855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094284986065338532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rien40488323: 美味そうやん\nいや違う中国人いい加減にしろ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2094711430721478855",
+        "created_at": "2026-09-01T08:58:17.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094711430721478855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548631928504475649",
+              "start": 3,
+              "username": "rien40488323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094711430721478855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094284986065338532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rien40488323: 美味そうやん\nいや違う中国人いい加減にしろ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548631928504475649",
+        "conversation_id": "2094284986065338532",
+        "created_at": "2026-08-31T04:43:45.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094284986065338532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2093978308396650822",
+              "start": 24,
+              "url": "https://t.co/HazOdQYUfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094284986065338532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 212890,
+          "like_count": 1233,
+          "quote_count": 11,
+          "reply_count": 195,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093978308396650822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味そうやん\nいや違う中国人いい加減にしろ！！ https://t.co/HazOdQYUfn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od💊/dxm大天使😇/热爱解离，阿片类/pr戒断中/不自残🔪/音游痴/术力口/生物化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094711430721478855",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 170,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T11:33:36.000Z",
+        "description": "政治語り好きの上で日中仲良くできると思うオタク\nゲームも好き、ブルアカ、ゼンゼロ、ンィー、ナイトレインに日々の時間を搾取されている\nそろそろヤバイ 翻訳経験あり 日中英語OK",
+        "id": "1548631928504475649",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2094689440904216857",
+        "name": "悲観傍観リエン",
+        "pinned_tweet_id": "2038863878160105488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548631928504475649/1779288881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548632006313091072/3NtI1n6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 133,
+          "like_count": 3249,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2853
+        },
+        "url": "",
+        "username": "rien40488323",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

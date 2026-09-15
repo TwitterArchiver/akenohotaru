@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2092936828945088857",
+    "created_at": "2026-08-27T12:43:26.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092956152388849848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "Hakumei_reimaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092956152388849848",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092936828945088857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hakumei_reimaku 爱喜宝恒偷走🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092936816597041152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQua8iKagAAliGd.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092936816672509952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQua8icaEAAjdMK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092936816571936769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQua8iEbcAESyjd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092936816584531968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQua8iHboAA_pPL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2092936828945088857",
+        "created_at": "2026-08-27T12:43:26.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092956152388849848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "Hakumei_reimaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092956152388849848",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092936828945088857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakumei_reimaku 爱喜宝恒偷走🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092936816597041152",
+            "3_2092936816672509952",
+            "3_2092936816571936769",
+            "3_2092936816584531968"
+          ]
+        },
+        "author_id": "2007439875726028800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092936828945088857",
+        "created_at": "2026-08-27T11:26:39.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092936828945088857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwX1TasdyW",
+              "end": 45,
+              "expanded_url": "https://x.com/Hakumei_reimaku/status/2092936828945088857/photo/1",
+              "media_key": "3_2092936816597041152",
+              "start": 22,
+              "url": "https://t.co/CwX1TasdyW"
+            },
+            {
+              "display_url": "pic.x.com/CwX1TasdyW",
+              "end": 45,
+              "expanded_url": "https://x.com/Hakumei_reimaku/status/2092936828945088857/photo/1",
+              "media_key": "3_2092936816672509952",
+              "start": 22,
+              "url": "https://t.co/CwX1TasdyW"
+            },
+            {
+              "display_url": "pic.x.com/CwX1TasdyW",
+              "end": 45,
+              "expanded_url": "https://x.com/Hakumei_reimaku/status/2092936828945088857/photo/1",
+              "media_key": "3_2092936816571936769",
+              "start": 22,
+              "url": "https://t.co/CwX1TasdyW"
+            },
+            {
+              "display_url": "pic.x.com/CwX1TasdyW",
+              "end": 45,
+              "expanded_url": "https://x.com/Hakumei_reimaku/status/2092936828945088857/photo/1",
+              "media_key": "3_2092936816584531968",
+              "start": 22,
+              "url": "https://t.co/CwX1TasdyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092936828945088857",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092936816597041152"
+          },
+          {
+            "media_key": "3_2092936816672509952"
+          },
+          {
+            "media_key": "3_2092936816571936769"
+          },
+          {
+            "media_key": "3_2092936816584531968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞配烟法力无边😋距离w5的梦想又近了一步 https://t.co/CwX1TasdyW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od💊/dxm大天使😇/热爱解离，阿片类/pr戒断中/不自残🔪/音游痴/术力口/生物化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092956152388849848",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 166,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌DX14208/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_/可代水货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "is_identity_verified": false,
+        "location": "幻想乡",
+        "most_recent_tweet_id": "2092955204249641061",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2079848643755225495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 423,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "Hakumei_reimaku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

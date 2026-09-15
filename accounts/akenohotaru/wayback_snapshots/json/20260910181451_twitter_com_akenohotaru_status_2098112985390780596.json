@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097933482437857281"
+      ],
+      "media_source_tweet_id": [
+        "2097933488100151672"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2098112985390780596",
+    "created_at": "2026-09-10T18:14:51.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098112985390780596"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976970625538572289",
+          "start": 3,
+          "username": "ccitrus0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TM830J1hTR",
+          "end": 49,
+          "expanded_url": "https://x.com/ccitrus0/status/2097933488100151672/photo/1",
+          "media_key": "3_2097933482437857281",
+          "start": 26,
+          "url": "https://t.co/TM830J1hTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098112985390780596",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097933482437857281"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097933488100151672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccitrus0: #maimai_art https://t.co/TM830J1hTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097933482437857281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1bYw8bUAEoI8T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097933482437857281"
+          ],
+          "media_source_tweet_id": [
+            "2097933488100151672"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2098112985390780596",
+        "created_at": "2026-09-10T18:14:51.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098112985390780596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976970625538572289",
+              "start": 3,
+              "username": "ccitrus0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TM830J1hTR",
+              "end": 49,
+              "expanded_url": "https://x.com/ccitrus0/status/2097933488100151672/photo/1",
+              "media_key": "3_2097933482437857281",
+              "start": 26,
+              "url": "https://t.co/TM830J1hTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098112985390780596",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097933482437857281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097933488100151672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccitrus0: #maimai_art https://t.co/TM830J1hTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097933482437857281"
+          ]
+        },
+        "author_id": "1976970625538572289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2097933488100151672",
+        "created_at": "2026-09-10T06:21:35.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097933488100151672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TM830J1hTR",
+              "end": 35,
+              "expanded_url": "https://x.com/ccitrus0/status/2097933488100151672/photo/1",
+              "media_key": "3_2097933482437857281",
+              "start": 12,
+              "url": "https://t.co/TM830J1hTR"
+            },
+            {
+              "display_url": "x.com/maimai_officia…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/maimai_official/status/2097882813819396398",
+              "start": 36,
+              "url": "https://t.co/CWFjP33ssn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097933488100151672",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097933482437857281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 83754,
+          "like_count": 4064,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097882813819396398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#maimai_art https://t.co/TM830J1hTR https://t.co/CWFjP33ssn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/maimai/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\nいぬ酱:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 142,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2098112985390780596",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 182,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 975
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T11:19:22.000Z",
+        "description": "illust🎨 / (R18)pixiv : https://t.co/tM8fr2IiCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120164785",
+                "end": 46,
+                "expanded_url": "https://www.pixiv.net/users/120164785",
+                "start": 23,
+                "url": "https://t.co/tM8fr2IiCK"
+              }
+            ]
+          }
+        },
+        "id": "1976970625538572289",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098025848167403555",
+        "name": "citrus",
+        "pinned_tweet_id": "2096195011121492400",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976970625538572289/1782294723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977048682358095875/i0LQPzUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24718,
+          "following_count": 36,
+          "like_count": 9557,
+          "listed_count": 50,
+          "media_count": 145,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "ccitrus0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

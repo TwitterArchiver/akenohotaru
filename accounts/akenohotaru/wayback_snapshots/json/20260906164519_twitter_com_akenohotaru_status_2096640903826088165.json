@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096576076671803392",
+        "3_2096576076638191617",
+        "3_2096576076709552128",
+        "3_2096576076671856640"
+      ],
+      "media_source_tweet_id": [
+        "2096576081142919436",
+        "2096576081142919436",
+        "2096576081142919436",
+        "2096576081142919436"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2096640903826088165",
+    "created_at": "2026-09-06T16:45:19.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096640903826088165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814641587869396992",
+          "start": 3,
+          "username": "mogita_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxRo9ns5IK",
+          "end": 47,
+          "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+          "media_key": "3_2096576076671803392",
+          "start": 24,
+          "url": "https://t.co/nxRo9ns5IK"
+        },
+        {
+          "display_url": "pic.x.com/nxRo9ns5IK",
+          "end": 47,
+          "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+          "media_key": "3_2096576076638191617",
+          "start": 24,
+          "url": "https://t.co/nxRo9ns5IK"
+        },
+        {
+          "display_url": "pic.x.com/nxRo9ns5IK",
+          "end": 47,
+          "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+          "media_key": "3_2096576076709552128",
+          "start": 24,
+          "url": "https://t.co/nxRo9ns5IK"
+        },
+        {
+          "display_url": "pic.x.com/nxRo9ns5IK",
+          "end": 47,
+          "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+          "media_key": "3_2096576076671856640",
+          "start": 24,
+          "url": "https://t.co/nxRo9ns5IK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096640903826088165",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096576076671803392"
+      },
+      {
+        "media_key": "3_2096576076638191617"
+      },
+      {
+        "media_key": "3_2096576076709552128"
+      },
+      {
+        "media_key": "3_2096576076671856640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096576081142919436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogita_oekaki: 💥💥💥💥 https://t.co/nxRo9ns5IK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2096576076671803392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiI1Waa4AAp5Tu.jpg",
+        "width": 603
+      },
+      {
+        "height": 1699,
+        "media_key": "3_2096576076638191617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiI1WSaAAEb7Em.jpg",
+        "width": 603
+      },
+      {
+        "height": 1699,
+        "media_key": "3_2096576076709552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiI1Wja4AAOf9f.jpg",
+        "width": 603
+      },
+      {
+        "height": 1699,
+        "media_key": "3_2096576076671856640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiI1WabsAAIG8w.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576076671803392",
+            "3_2096576076638191617",
+            "3_2096576076709552128",
+            "3_2096576076671856640"
+          ],
+          "media_source_tweet_id": [
+            "2096576081142919436",
+            "2096576081142919436",
+            "2096576081142919436",
+            "2096576081142919436"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2096640903826088165",
+        "created_at": "2026-09-06T16:45:19.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096640903826088165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814641587869396992",
+              "start": 3,
+              "username": "mogita_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 47,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076671803392",
+              "start": 24,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 47,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076638191617",
+              "start": 24,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 47,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076709552128",
+              "start": 24,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 47,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076671856640",
+              "start": 24,
+              "url": "https://t.co/nxRo9ns5IK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096640903826088165",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576076671803392"
+          },
+          {
+            "media_key": "3_2096576076638191617"
+          },
+          {
+            "media_key": "3_2096576076709552128"
+          },
+          {
+            "media_key": "3_2096576076671856640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096576081142919436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogita_oekaki: 💥💥💥💥 https://t.co/nxRo9ns5IK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576076671803392",
+            "3_2096576076638191617",
+            "3_2096576076709552128",
+            "3_2096576076671856640"
+          ]
+        },
+        "author_id": "1814641587869396992",
+        "conversation_id": "2096576081142919436",
+        "created_at": "2026-09-06T12:27:44.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096576081142919436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 28,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076671803392",
+              "start": 5,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 28,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076638191617",
+              "start": 5,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 28,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076709552128",
+              "start": 5,
+              "url": "https://t.co/nxRo9ns5IK"
+            },
+            {
+              "display_url": "pic.x.com/nxRo9ns5IK",
+              "end": 28,
+              "expanded_url": "https://x.com/mogita_oekaki/status/2096576081142919436/photo/1",
+              "media_key": "3_2096576076671856640",
+              "start": 5,
+              "url": "https://t.co/nxRo9ns5IK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096576081142919436",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576076671803392"
+          },
+          {
+            "media_key": "3_2096576076638191617"
+          },
+          {
+            "media_key": "3_2096576076709552128"
+          },
+          {
+            "media_key": "3_2096576076671856640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 38590,
+          "like_count": 2347,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "💥💥💥💥 https://t.co/nxRo9ns5IK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/maimai/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\nいぬ酱:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 142,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2096640903826088165",
+        "name": "ホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 178,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-20T12:40:50.000Z",
+        "description": "超かぐや姫で二次創作に戻って来た\n⚠️ホモと百合・何でも食べる人向け・下品です\n⚠️転載使用NG･AI学習NG Do not re-upload/use/AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/2280vfxcc…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/2280vfxccgwwaxqm/",
+                "start": 0,
+                "url": "https://t.co/fychC39nGQ"
+              }
+            ]
+          }
+        },
+        "id": "1814641587869396992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096635138734162081",
+        "name": "もぎ太",
+        "pinned_tweet_id": "2065456325845508422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814641587869396992/1774260518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814655253150846976/YZLNyvzi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 112,
+          "like_count": 3816,
+          "listed_count": 19,
+          "media_count": 201,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/fychC39nGQ",
+        "username": "mogita_oekaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095083555886161920",
+        "3_2095083569244950528"
+      ],
+      "media_source_tweet_id": [
+        "2095084010942967825",
+        "2095084010942967825"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2095123171179638822",
+    "created_at": "2026-09-02T12:14:24.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095123171179638822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c6RbhbBOjJ",
+          "end": 45,
+          "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+          "media_key": "3_2095083555886161920",
+          "start": 22,
+          "url": "https://t.co/c6RbhbBOjJ"
+        },
+        {
+          "display_url": "pic.x.com/c6RbhbBOjJ",
+          "end": 45,
+          "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+          "media_key": "3_2095083569244950528",
+          "start": 22,
+          "url": "https://t.co/c6RbhbBOjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095123171179638822",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095083555886161920"
+      },
+      {
+        "media_key": "3_2095083569244950528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095084010942967825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @DrilL019: 😭不敢往下玩了 https://t.co/c6RbhbBOjJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2095083555886161920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM7ZNNbYAAmSiC.jpg",
+        "width": 1898
+      },
+      {
+        "height": 1051,
+        "media_key": "3_2095083569244950528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM7Z--aUAAyRhy.jpg",
+        "width": 1899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095083555886161920",
+            "3_2095083569244950528"
+          ],
+          "media_source_tweet_id": [
+            "2095084010942967825",
+            "2095084010942967825"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2095123171179638822",
+        "created_at": "2026-09-02T12:14:24.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095123171179638822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6RbhbBOjJ",
+              "end": 45,
+              "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+              "media_key": "3_2095083555886161920",
+              "start": 22,
+              "url": "https://t.co/c6RbhbBOjJ"
+            },
+            {
+              "display_url": "pic.x.com/c6RbhbBOjJ",
+              "end": 45,
+              "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+              "media_key": "3_2095083569244950528",
+              "start": 22,
+              "url": "https://t.co/c6RbhbBOjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095123171179638822",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095083555886161920"
+          },
+          {
+            "media_key": "3_2095083569244950528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095084010942967825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @DrilL019: 😭不敢往下玩了 https://t.co/c6RbhbBOjJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095083555886161920",
+            "3_2095083569244950528"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2095084010942967825",
+        "created_at": "2026-09-02T09:38:47.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095084010942967825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6RbhbBOjJ",
+              "end": 31,
+              "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+              "media_key": "3_2095083555886161920",
+              "start": 8,
+              "url": "https://t.co/c6RbhbBOjJ"
+            },
+            {
+              "display_url": "pic.x.com/c6RbhbBOjJ",
+              "end": 31,
+              "expanded_url": "https://x.com/DrilL019/status/2095084010942967825/photo/1",
+              "media_key": "3_2095083569244950528",
+              "start": 8,
+              "url": "https://t.co/c6RbhbBOjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095084010942967825",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095083555886161920"
+          },
+          {
+            "media_key": "3_2095083569244950528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "😭不敢往下玩了 https://t.co/c6RbhbBOjJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/舞萌享受者/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\nNano🍀：@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 143,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2095123171179638822",
+        "name": "ホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 172,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDBXiS"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "is_identity_verified": true,
+        "location": "请给我钱🥺➡️",
+        "most_recent_tweet_id": "2095106023036235966",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647229461769891842/1784018836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1480,
+          "like_count": 28195,
+          "listed_count": 1,
+          "media_count": 1169,
+          "tweet_count": 7488
+        },
+        "url": "https://t.co/2G0EsDBXiS",
+        "username": "DrilL019",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

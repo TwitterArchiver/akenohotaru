@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094814748688936960",
+        "3_2094814759585812480",
+        "3_2094814774353887232",
+        "3_2094814819471982592"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2094814827957133464",
+    "created_at": "2026-09-01T15:49:09.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094814827957133464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ES1KI1WINc",
+          "end": 39,
+          "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+          "media_key": "3_2094814748688936960",
+          "start": 16,
+          "url": "https://t.co/ES1KI1WINc"
+        },
+        {
+          "display_url": "pic.x.com/ES1KI1WINc",
+          "end": 39,
+          "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+          "media_key": "3_2094814759585812480",
+          "start": 16,
+          "url": "https://t.co/ES1KI1WINc"
+        },
+        {
+          "display_url": "pic.x.com/ES1KI1WINc",
+          "end": 39,
+          "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+          "media_key": "3_2094814774353887232",
+          "start": 16,
+          "url": "https://t.co/ES1KI1WINc"
+        },
+        {
+          "display_url": "pic.x.com/ES1KI1WINc",
+          "end": 39,
+          "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+          "media_key": "3_2094814819471982592",
+          "start": 16,
+          "url": "https://t.co/ES1KI1WINc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094814827957133464",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094814748688936960"
+      },
+      {
+        "media_key": "3_2094814759585812480"
+      },
+      {
+        "media_key": "3_2094814774353887232"
+      },
+      {
+        "media_key": "3_2094814819471982592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mai完后的咖喱炸鸡啤酒最棒了 https://t.co/ES1KI1WINc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094814748688936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJG6kXacAAl_yl.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094814759585812480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJG7M9bkAA62vp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094814774353887232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJG8D-agAAKFxX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2094814819471982592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJG-sDaAAAEDBW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094814748688936960",
+            "3_2094814759585812480",
+            "3_2094814774353887232",
+            "3_2094814819471982592"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094814827957133464",
+        "created_at": "2026-09-01T15:49:09.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094814827957133464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ES1KI1WINc",
+              "end": 39,
+              "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+              "media_key": "3_2094814748688936960",
+              "start": 16,
+              "url": "https://t.co/ES1KI1WINc"
+            },
+            {
+              "display_url": "pic.x.com/ES1KI1WINc",
+              "end": 39,
+              "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+              "media_key": "3_2094814759585812480",
+              "start": 16,
+              "url": "https://t.co/ES1KI1WINc"
+            },
+            {
+              "display_url": "pic.x.com/ES1KI1WINc",
+              "end": 39,
+              "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+              "media_key": "3_2094814774353887232",
+              "start": 16,
+              "url": "https://t.co/ES1KI1WINc"
+            },
+            {
+              "display_url": "pic.x.com/ES1KI1WINc",
+              "end": 39,
+              "expanded_url": "https://x.com/akenohotaru/status/2094814827957133464/photo/1",
+              "media_key": "3_2094814819471982592",
+              "start": 16,
+              "url": "https://t.co/ES1KI1WINc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094814827957133464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094814748688936960"
+          },
+          {
+            "media_key": "3_2094814759585812480"
+          },
+          {
+            "media_key": "3_2094814774353887232"
+          },
+          {
+            "media_key": "3_2094814819471982592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mai完后的咖喱炸鸡啤酒最棒了 https://t.co/ES1KI1WINc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/舞萌享受者/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\n小叶：@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2094814827957133464",
+        "name": "ホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 171,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 872
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

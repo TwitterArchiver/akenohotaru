@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092476635375345664"
+      ],
+      "media_source_tweet_id": [
+        "2092476639859163322"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2092961181602295933",
+    "created_at": "2026-08-27T13:03:25.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092961181602295933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1246119337921892352",
+          "start": 3,
+          "username": "SupremeLeaderXi"
+        },
+        {
+          "end": 30,
+          "id": "1726925267346804737",
+          "start": 21,
+          "username": "yeqi0908"
+        },
+        {
+          "end": 46,
+          "id": "1260553941714186241",
+          "start": 31,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/juBFjgcBYT",
+          "end": 76,
+          "expanded_url": "https://x.com/SupremeLeaderXi/status/2092476639859163322/photo/1",
+          "media_key": "3_2092476635375345664",
+          "start": 53,
+          "url": "https://t.co/juBFjgcBYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092961181602295933",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092476635375345664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092476639859163322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SupremeLeaderXi: @yeqi0908 @whyyoutouzhele 经典复刻了 https://t.co/juBFjgcBYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2092476635375345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn4adhaIAA4NdB.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092476635375345664"
+          ],
+          "media_source_tweet_id": [
+            "2092476639859163322"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2092961181602295933",
+        "created_at": "2026-08-27T13:03:25.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092961181602295933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1246119337921892352",
+              "start": 3,
+              "username": "SupremeLeaderXi"
+            },
+            {
+              "end": 30,
+              "id": "1726925267346804737",
+              "start": 21,
+              "username": "yeqi0908"
+            },
+            {
+              "end": 46,
+              "id": "1260553941714186241",
+              "start": 31,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/juBFjgcBYT",
+              "end": 76,
+              "expanded_url": "https://x.com/SupremeLeaderXi/status/2092476639859163322/photo/1",
+              "media_key": "3_2092476635375345664",
+              "start": 53,
+              "url": "https://t.co/juBFjgcBYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092961181602295933",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092476635375345664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092476639859163322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SupremeLeaderXi: @yeqi0908 @whyyoutouzhele 经典复刻了 https://t.co/juBFjgcBYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092476635375345664"
+          ]
+        },
+        "author_id": "1246119337921892352",
+        "conversation_id": "2092275809507848214",
+        "created_at": "2026-08-26T04:58:01.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092476639859163322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1726925267346804737",
+              "start": 0,
+              "username": "yeqi0908"
+            },
+            {
+              "end": 25,
+              "id": "1260553941714186241",
+              "start": 10,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/juBFjgcBYT",
+              "end": 55,
+              "expanded_url": "https://x.com/SupremeLeaderXi/status/2092476639859163322/photo/1",
+              "media_key": "3_2092476635375345664",
+              "start": 32,
+              "url": "https://t.co/juBFjgcBYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092476639859163322",
+        "in_reply_to_user_id": "1726925267346804737",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092476635375345664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4257,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092474958559748224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeqi0908 @whyyoutouzhele 经典复刻了 https://t.co/juBFjgcBYT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od💊/dxm大天使😇/热爱解离，阿片类/pr戒断中/不自残🔪/音游痴/术力口/生物化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092961181602295933",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 167,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-03T16:56:23.000Z",
+        "description": "尼马思乐全过程人民民主帝国最高领袖\nSupreme Leader of the Whole-process People's Democratic Empire of N.M.S.L.\n𝙿𝚊𝚛𝚘𝚍𝚢. 𝙽𝚘 𝚘𝚏𝚏𝚎𝚗𝚜𝚎 𝚝𝚘 𝙿𝚘𝚘𝚑. 🐻",
+        "id": "1246119337921892352",
+        "is_identity_verified": false,
+        "location": "梁家河 Liangjiahe",
+        "most_recent_tweet_id": "2092887183883706689",
+        "name": "习维尼 Xi Winnie 🍥",
+        "pinned_tweet_id": "1930093058277945860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246119337921892352/1757305538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848075759052849152/uhBxNmK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 37,
+          "like_count": 202243,
+          "listed_count": 11,
+          "media_count": 3347,
+          "tweet_count": 8837
+        },
+        "url": "",
+        "username": "SupremeLeaderXi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T11:27:35.000Z",
+        "description": "021 随便看看",
+        "id": "1726925267346804737",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092877916552265892",
+        "name": "QI",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740060373141581824/EH9ADsjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 76,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yeqi0908",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2092960323447734413",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256884,
+          "following_count": 1081,
+          "like_count": 10260,
+          "listed_count": 8891,
+          "media_count": 52801,
+          "tweet_count": 60117
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

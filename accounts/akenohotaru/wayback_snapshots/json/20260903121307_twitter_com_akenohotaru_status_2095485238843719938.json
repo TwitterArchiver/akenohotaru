@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095485189376057344",
+        "3_2095485197118853120",
+        "3_2095485209458429952",
+        "3_2095485223387746304"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095485238843719938",
+    "created_at": "2026-09-03T12:13:07.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:11:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095484729164537984",
+      "2095485238843719938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1938537315586244608",
+          "start": 16,
+          "username": "ruoruoruoMing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jk51IPKNCF",
+          "end": 54,
+          "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+          "media_key": "3_2095485189376057344",
+          "start": 31,
+          "url": "https://t.co/jk51IPKNCF"
+        },
+        {
+          "display_url": "pic.x.com/jk51IPKNCF",
+          "end": 54,
+          "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+          "media_key": "3_2095485197118853120",
+          "start": 31,
+          "url": "https://t.co/jk51IPKNCF"
+        },
+        {
+          "display_url": "pic.x.com/jk51IPKNCF",
+          "end": 54,
+          "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+          "media_key": "3_2095485209458429952",
+          "start": 31,
+          "url": "https://t.co/jk51IPKNCF"
+        },
+        {
+          "display_url": "pic.x.com/jk51IPKNCF",
+          "end": 54,
+          "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+          "media_key": "3_2095485223387746304",
+          "start": 31,
+          "url": "https://t.co/jk51IPKNCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095485238843719938",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095485189376057344"
+      },
+      {
+        "media_key": "3_2095485197118853120"
+      },
+      {
+        "media_key": "3_2095485209458429952"
+      },
+      {
+        "media_key": "3_2095485223387746304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "超开心的一天和ruo Ming @ruoruoruoMing https://t.co/jk51IPKNCF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2095484672625270784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSoNRga4AA58_P.jpg",
+        "width": 960
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095484682498629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSoN2SaYAAV-b_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095484698306969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSoOxLagAA4ky3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095484712315994113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSoPlXbQAExe2A.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2095485189376057344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSorWjaIAAFbDU.jpg",
+        "width": 960
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095485197118853120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSorzZb0AAe4xK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095485209458429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSoshXa0AAqQ34.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095485223387746304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSotVQbUAARUCl.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095484672625270784",
+            "3_2095484682498629632",
+            "3_2095484698306969600",
+            "3_2095484712315994113"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095484729164537984",
+        "created_at": "2026-09-03T12:11:06.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:11:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095484729164537984",
+          "2095485238843719938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohxfXmVnlM",
+              "end": 53,
+              "expanded_url": "https://x.com/akenohotaru/status/2095484729164537984/photo/1",
+              "media_key": "3_2095484672625270784",
+              "start": 30,
+              "url": "https://t.co/ohxfXmVnlM"
+            },
+            {
+              "display_url": "pic.x.com/ohxfXmVnlM",
+              "end": 53,
+              "expanded_url": "https://x.com/akenohotaru/status/2095484729164537984/photo/1",
+              "media_key": "3_2095484682498629632",
+              "start": 30,
+              "url": "https://t.co/ohxfXmVnlM"
+            },
+            {
+              "display_url": "pic.x.com/ohxfXmVnlM",
+              "end": 53,
+              "expanded_url": "https://x.com/akenohotaru/status/2095484729164537984/photo/1",
+              "media_key": "3_2095484698306969600",
+              "start": 30,
+              "url": "https://t.co/ohxfXmVnlM"
+            },
+            {
+              "display_url": "pic.x.com/ohxfXmVnlM",
+              "end": 53,
+              "expanded_url": "https://x.com/akenohotaru/status/2095484729164537984/photo/1",
+              "media_key": "3_2095484712315994113",
+              "start": 30,
+              "url": "https://t.co/ohxfXmVnlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095484729164537984",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095484672625270784"
+          },
+          {
+            "media_key": "3_2095484682498629632"
+          },
+          {
+            "media_key": "3_2095484698306969600"
+          },
+          {
+            "media_key": "3_2095484712315994113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超开心的一天和ruo Ming@ruoruoruoMing https://t.co/ohxfXmVnlM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095485189376057344",
+            "3_2095485197118853120",
+            "3_2095485209458429952",
+            "3_2095485223387746304"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095485238843719938",
+        "created_at": "2026-09-03T12:13:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:11:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095484729164537984",
+          "2095485238843719938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1938537315586244608",
+              "start": 16,
+              "username": "ruoruoruoMing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jk51IPKNCF",
+              "end": 54,
+              "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+              "media_key": "3_2095485189376057344",
+              "start": 31,
+              "url": "https://t.co/jk51IPKNCF"
+            },
+            {
+              "display_url": "pic.x.com/jk51IPKNCF",
+              "end": 54,
+              "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+              "media_key": "3_2095485197118853120",
+              "start": 31,
+              "url": "https://t.co/jk51IPKNCF"
+            },
+            {
+              "display_url": "pic.x.com/jk51IPKNCF",
+              "end": 54,
+              "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+              "media_key": "3_2095485209458429952",
+              "start": 31,
+              "url": "https://t.co/jk51IPKNCF"
+            },
+            {
+              "display_url": "pic.x.com/jk51IPKNCF",
+              "end": 54,
+              "expanded_url": "https://x.com/akenohotaru/status/2095485238843719938/photo/1",
+              "media_key": "3_2095485223387746304",
+              "start": 31,
+              "url": "https://t.co/jk51IPKNCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095485238843719938",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095485189376057344"
+          },
+          {
+            "media_key": "3_2095485197118853120"
+          },
+          {
+            "media_key": "3_2095485209458429952"
+          },
+          {
+            "media_key": "3_2095485223387746304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超开心的一天和ruo Ming @ruoruoruoMing https://t.co/jk51IPKNCF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/舞萌享受者/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\n🍀：@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2095485238843719938",
+        "name": "ホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 174,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2095482745543950708",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2095126402014286005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1004,
+          "like_count": 6015,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

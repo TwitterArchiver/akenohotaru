@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095509033067438082",
+        "3_2095509033000243200",
+        "3_2095509033000316928",
+        "3_2095509033029709825"
+      ],
+      "media_source_tweet_id": [
+        "2095509048238215229",
+        "2095509048238215229",
+        "2095509048238215229",
+        "2095509048238215229"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095526356729892926",
+    "created_at": "2026-09-03T14:56:31.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095526356729892926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938537315586244608",
+          "start": 3,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 32,
+          "id": "1592697440343162880",
+          "start": 20,
+          "username": "akenohotaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NOnx4pye7",
+          "end": 77,
+          "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+          "media_key": "3_2095509033067438082",
+          "start": 54,
+          "url": "https://t.co/0NOnx4pye7"
+        },
+        {
+          "display_url": "pic.x.com/0NOnx4pye7",
+          "end": 77,
+          "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+          "media_key": "3_2095509033000243200",
+          "start": 54,
+          "url": "https://t.co/0NOnx4pye7"
+        },
+        {
+          "display_url": "pic.x.com/0NOnx4pye7",
+          "end": 77,
+          "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+          "media_key": "3_2095509033000316928",
+          "start": 54,
+          "url": "https://t.co/0NOnx4pye7"
+        },
+        {
+          "display_url": "pic.x.com/0NOnx4pye7",
+          "end": 77,
+          "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+          "media_key": "3_2095509033029709825",
+          "start": 54,
+          "url": "https://t.co/0NOnx4pye7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095526356729892926",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095509033067438082"
+      },
+      {
+        "media_key": "3_2095509033000243200"
+      },
+      {
+        "media_key": "3_2095509033000316928"
+      },
+      {
+        "media_key": "3_2095509033029709825"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095509048238215229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruoruoruoMing: 面@akenohotaru \n拼豆，打舞萌（好难喵\n还有今天的晚饭喵 https://t.co/0NOnx4pye7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095509033067438082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS-XPObYAIDDQ7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2095509033000243200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS-XO-aEAAWpJq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095509033000316928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS-XO-bMAALUMO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095509033029709825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS-XPFbsAEWxZ3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095509033067438082",
+            "3_2095509033000243200",
+            "3_2095509033000316928",
+            "3_2095509033029709825"
+          ],
+          "media_source_tweet_id": [
+            "2095509048238215229",
+            "2095509048238215229",
+            "2095509048238215229",
+            "2095509048238215229"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095526356729892926",
+        "created_at": "2026-09-03T14:56:31.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095526356729892926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938537315586244608",
+              "start": 3,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 32,
+              "id": "1592697440343162880",
+              "start": 20,
+              "username": "akenohotaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 77,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033067438082",
+              "start": 54,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 77,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033000243200",
+              "start": 54,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 77,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033000316928",
+              "start": 54,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 77,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033029709825",
+              "start": 54,
+              "url": "https://t.co/0NOnx4pye7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095526356729892926",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095509033067438082"
+          },
+          {
+            "media_key": "3_2095509033000243200"
+          },
+          {
+            "media_key": "3_2095509033000316928"
+          },
+          {
+            "media_key": "3_2095509033029709825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095509048238215229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruoruoruoMing: 面@akenohotaru \n拼豆，打舞萌（好难喵\n还有今天的晚饭喵 https://t.co/0NOnx4pye7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095509033067438082",
+            "3_2095509033000243200",
+            "3_2095509033000316928",
+            "3_2095509033029709825"
+          ]
+        },
+        "author_id": "1938537315586244608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095509048238215229",
+        "created_at": "2026-09-03T13:47:44.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095509048238215229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592697440343162880",
+              "start": 1,
+              "username": "akenohotaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 58,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033067438082",
+              "start": 35,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 58,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033000243200",
+              "start": 35,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 58,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033000316928",
+              "start": 35,
+              "url": "https://t.co/0NOnx4pye7"
+            },
+            {
+              "display_url": "pic.x.com/0NOnx4pye7",
+              "end": 58,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095509048238215229/photo/1",
+              "media_key": "3_2095509033029709825",
+              "start": 35,
+              "url": "https://t.co/0NOnx4pye7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095509048238215229",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095509033067438082"
+          },
+          {
+            "media_key": "3_2095509033000243200"
+          },
+          {
+            "media_key": "3_2095509033000316928"
+          },
+          {
+            "media_key": "3_2095509033029709825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面@akenohotaru \n拼豆，打舞萌（好难喵\n还有今天的晚饭喵 https://t.co/0NOnx4pye7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/od💊吗..只是想健全起来/氯硝和佐匹是我的神明大人/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/药物戒断中/舞萌享受者/超喜欢ボカロ/超绝超赞喜欢生物化学and药理/互fo/来找我聊天我会很开心的😚\n🍀：@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2095526356729892926",
+        "name": "ホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 174,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2095518734861631726",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2095126402014286005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1010,
+          "like_count": 6052,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
