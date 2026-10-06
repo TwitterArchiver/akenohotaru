@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2102693617399935179",
+    "created_at": "2026-09-23T11:25:16.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102720951901458614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102720951901458614",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102693617399935179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 插上耳机，风扇对准，别的事情关我🐦事😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2102693617399935179",
+        "created_at": "2026-09-23T11:25:16.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102720951901458614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102720951901458614",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102693617399935179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 插上耳机，风扇对准，别的事情关我🐦事😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2102693617399935179",
+        "created_at": "2026-09-23T09:36:39.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102693617399935179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102693617399935179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本地开了个音游窝，但是真的不敢一个人去，这种密闭空间社交压力对我来说高的让我想吐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2102720951901458614",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 197,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "爱玩美少女游戏和音游还有魂游\n坐标厦门可以找我一起出勤\n冷暴力敢来你死定了\n会看成分回fo",
+        "id": "1225559787414401025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102718667566072065",
+        "name": "魔法少女雾枝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225559787414401025/1778063778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 160,
+          "like_count": 22789,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

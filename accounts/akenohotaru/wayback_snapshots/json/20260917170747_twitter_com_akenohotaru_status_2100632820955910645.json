@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2100169268482699399",
+    "created_at": "2026-09-17T17:07:47.000Z",
+    "display_text_range": [
+      30,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100632820955910645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        },
+        {
+          "end": 21,
+          "id": "1822109599459397632",
+          "start": 12,
+          "username": "zifensix"
+        },
+        {
+          "end": 29,
+          "id": "1291704894211186689",
+          "start": 22,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100632820955910645",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100220765350318561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond @zifensix @AZLXY1 还有什么好用的清醒梦药吗，好想玩🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100169268482699399",
+        "created_at": "2026-09-17T17:07:47.000Z",
+        "display_text_range": [
+          30,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100632820955910645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 21,
+              "id": "1822109599459397632",
+              "start": 12,
+              "username": "zifensix"
+            },
+            {
+              "end": 29,
+              "id": "1291704894211186689",
+              "start": 22,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100632820955910645",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100220765350318561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @zifensix @AZLXY1 还有什么好用的清醒梦药吗，好想玩🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2100169268482699399",
+        "created_at": "2026-09-16T13:50:25.000Z",
+        "display_text_range": [
+          18,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100220765350318561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            },
+            {
+              "end": 17,
+              "id": "1291704894211186689",
+              "start": 10,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100220765350318561",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100217563339002134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix @AZLXY1 确实很神奇，这知识还是从鸡哥那里知道的（）\n不过加兰他敏的价格，不是很美丽哦…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100632820955910645",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 190,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2100521406232731719",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 304,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人😎\n会查成分回fo同类😤\n09年 17岁 男的 性取向是大屌扶他和小屌男娘😡\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuEUGu"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100593062745718849",
+        "name": "自分",
+        "pinned_tweet_id": "2095062171684360268",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 160,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/GFoTTuEUGu",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100568923922145749",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291704894211186689/1771217329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 727,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2362
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

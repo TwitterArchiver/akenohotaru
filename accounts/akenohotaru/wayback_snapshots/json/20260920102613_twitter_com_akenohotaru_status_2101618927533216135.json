@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2101581357499777197",
+    "created_at": "2026-09-20T10:26:13.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101618927533216135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101618927533216135",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101581357499777197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 我也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101581338562498560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpRF7-bkAAtU40.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2101581357499777197",
+        "created_at": "2026-09-20T10:26:13.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101618927533216135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101618927533216135",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101581357499777197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101581338562498560"
+          ]
+        },
+        "author_id": "1898308906994294784",
+        "conversation_id": "2101581357499777197",
+        "created_at": "2026-09-20T07:56:55.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101581357499777197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JU2GMJHv6",
+              "end": 33,
+              "expanded_url": "https://x.com/TTBRAr12/status/2101581357499777197/photo/1",
+              "media_key": "3_2101581338562498560",
+              "start": 10,
+              "url": "https://t.co/5JU2GMJHv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101581357499777197",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101581338562498560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次抽到中文字的 https://t.co/5JU2GMJHv6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101618927533216135",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 193,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101581357499777197",
+        "name": "TTAR",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 983,
+          "like_count": 9906,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

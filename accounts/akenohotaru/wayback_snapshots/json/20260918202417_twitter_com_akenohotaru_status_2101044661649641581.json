@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2101044661649641581",
+    "created_at": "2026-09-18T20:24:17.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T21:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101044661649641581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akenohotaru/st…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/akenohotaru/status/2101042785831080404",
+          "start": 103,
+          "url": "https://t.co/x7755ioVER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101044661649641581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101042785831080404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天都靠着某种药物才能填补心中的空虚，我真的能变回像个健全人一样吗？我光是能让自己开心地过好每一天就拼尽全力了，也许我知道自己嗑药肯定活不长，但也无可奈何。亲爱的陌生人，你能分享一些多余的爱给我吗，谢谢你 https://t.co/x7755ioVER"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2101044661649641581",
+        "created_at": "2026-09-18T20:24:17.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101044661649641581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2101042785831080404",
+              "start": 103,
+              "url": "https://t.co/x7755ioVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101044661649641581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101042785831080404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天都靠着某种药物才能填补心中的空虚，我真的能变回像个健全人一样吗？我光是能让自己开心地过好每一天就拼尽全力了，也许我知道自己嗑药肯定活不长，但也无可奈何。亲爱的陌生人，你能分享一些多余的爱给我吗，谢谢你 https://t.co/x7755ioVER"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2101042785831080404",
+        "created_at": "2026-09-18T20:16:50.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101042785831080404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2101040563407802820",
+              "start": 131,
+              "url": "https://t.co/GAVAr7dZL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101042785831080404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101040563407802820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明还要有很多正经事去干的，我缺每天做着些一昧只让自己开心心，至少会让自己不会无聊，呐，我的朋友，我我这样真的在慢慢变好吗，尽管我的心情和生活的确是在慢慢变好了，我前不久还因为生活和戒pr每天生不如死呢，但看着一眼盼不到头的前途，和寂寞空虚，我又该怎么往前走呢 https://t.co/GAVAr7dZL5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101044661649641581",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 193,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

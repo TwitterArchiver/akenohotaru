@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2100895695129735517",
+    "created_at": "2026-09-18T10:32:21.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100895695129735517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877386935804768256",
+          "start": 3,
+          "username": "lyntng372141"
+        },
+        {
+          "end": 30,
+          "id": "1777730090924978176",
+          "start": 18,
+          "username": "Hiiragi_qin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100895695129735517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100856331813151127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyntng372141: @Hiiragi_qin 先吃藥後吃飯 養成好習慣🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100895695129735517",
+        "created_at": "2026-09-18T10:32:21.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100895695129735517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877386935804768256",
+              "start": 3,
+              "username": "lyntng372141"
+            },
+            {
+              "end": 30,
+              "id": "1777730090924978176",
+              "start": 18,
+              "username": "Hiiragi_qin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100895695129735517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100856331813151127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyntng372141: @Hiiragi_qin 先吃藥後吃飯 養成好習慣🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877386935804768256",
+        "conversation_id": "2100837503305752832",
+        "created_at": "2026-09-18T07:55:56.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100856331813151127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100856331813151127",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100837503305752832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin 先吃藥後吃飯 養成好習慣🫡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100895695129735517",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 193,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-09T16:08:40.000Z",
+        "description": "",
+        "id": "1877386935804768256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100856331813151127",
+        "name": "가을비",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877386935804768256/1789042724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982463631619964928/e2lsbpn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 29,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "lyntng372141",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "\\欢迎互相查成分互fo\\无人在意\n烟鬼\n贴文内容主含超说明书用药",
+        "id": "1777730090924978176",
+        "is_identity_verified": false,
+        "location": "BZD drugs",
+        "most_recent_tweet_id": "2100837503305752832",
+        "name": "冬青",
+        "pinned_tweet_id": "2089958620448616703",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777730090924978176/1785233630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094052695577645056/iRbqNvhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 369,
+          "like_count": 20264,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "Hiiragi_qin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

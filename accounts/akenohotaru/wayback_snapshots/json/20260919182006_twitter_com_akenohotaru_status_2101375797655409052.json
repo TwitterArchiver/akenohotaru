@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2100169268482699399",
+    "created_at": "2026-09-19T18:20:06.000Z",
+    "display_text_range": [
+      30,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101375797655409052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        },
+        {
+          "end": 21,
+          "id": "1822109599459397632",
+          "start": 12,
+          "username": "zifensix"
+        },
+        {
+          "end": 29,
+          "id": "1291704894211186689",
+          "start": 22,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101375797655409052",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101303643962298742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond @zifensix @AZLXY1 谢谢你哦宝宝🥰"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [zifensix].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zifensix",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "zifensix"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100169268482699399",
+        "created_at": "2026-09-19T18:20:06.000Z",
+        "display_text_range": [
+          30,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101375797655409052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 21,
+              "id": "1822109599459397632",
+              "start": 12,
+              "username": "zifensix"
+            },
+            {
+              "end": 29,
+              "id": "1291704894211186689",
+              "start": 22,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101375797655409052",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101303643962298742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @zifensix @AZLXY1 谢谢你哦宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2100169268482699399",
+        "created_at": "2026-09-19T13:33:23.000Z",
+        "display_text_range": [
+          31,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101303643962298742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 22,
+              "id": "1822109599459397632",
+              "start": 13,
+              "username": "zifensix"
+            },
+            {
+              "end": 30,
+              "id": "1291704894211186689",
+              "start": 23,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101303643962298742",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100632820955910645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @zifensix @AZLXY1 其他的促梦剂我就完全没有玩过了，不过听他们说石杉碱甲貌似也能促梦，尤其是促清醒梦（似乎机制和加兰他敏差不多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101375797655409052",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 193,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1056
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2101325606541746580",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 308,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101287829477449883",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291704894211186689/1771217329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 725,
+          "like_count": 2126,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

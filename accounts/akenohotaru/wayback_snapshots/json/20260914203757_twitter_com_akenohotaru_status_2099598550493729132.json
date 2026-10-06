@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099369541503705088"
+      ],
+      "media_source_tweet_id": [
+        "2099370810217803835"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099598550493729132",
+    "created_at": "2026-09-14T20:37:57.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099598550493729132"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 106,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039323868280635392",
+          "start": 3,
+          "username": "momi_oxo"
+        },
+        {
+          "end": 52,
+          "id": "2051650549335089152",
+          "start": 44,
+          "username": "zuo_yee"
+        },
+        {
+          "end": 72,
+          "id": "1702732366697967616",
+          "start": 58,
+          "username": "Nishino_Madan"
+        },
+        {
+          "end": 91,
+          "id": "1617915942079713286",
+          "start": 77,
+          "username": "HoshizoraBell"
+        },
+        {
+          "end": 104,
+          "id": "2039323868280635392",
+          "start": 95,
+          "username": "momi_oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWqeapI9M0",
+          "end": 137,
+          "expanded_url": "https://x.com/momi_oxo/status/2099370810217803835/video/1",
+          "media_key": "13_2099369541503705088",
+          "start": 114,
+          "url": "https://t.co/mWqeapI9M0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099598550493729132",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2099369541503705088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099370810217803835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momi_oxo: 看板娘全員のBelieve the Rainbow！\nみるく@zuo_yee \nシフォン@Nishino_Madan \nソルト＠HoshizoraBell \n乙姫@momi_oxo \n#maimai https://t.co/mWqeapI9M0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 166150,
+        "height": 720,
+        "media_key": "13_2099369541503705088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099369541503705088/img/oGNI_f6cqL-Gx4Pb.jpg",
+        "public_metrics": {
+          "view_count": 41618
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099369541503705088/vid/avc1/480x270/K81PxZEpr88YBdY7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099369541503705088/vid/avc1/640x360/qKJHU5wlOUck2jQL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099369541503705088/vid/avc1/1280x720/HBK0y7k7TSNRCwC7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099369541503705088/pl/P2rGgrnYcn-ArPrI.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099369541503705088"
+          ],
+          "media_source_tweet_id": [
+            "2099370810217803835"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099598550493729132",
+        "created_at": "2026-09-14T20:37:57.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099598550493729132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039323868280635392",
+              "start": 3,
+              "username": "momi_oxo"
+            },
+            {
+              "end": 52,
+              "id": "2051650549335089152",
+              "start": 44,
+              "username": "zuo_yee"
+            },
+            {
+              "end": 72,
+              "id": "1702732366697967616",
+              "start": 58,
+              "username": "Nishino_Madan"
+            },
+            {
+              "end": 91,
+              "id": "1617915942079713286",
+              "start": 77,
+              "username": "HoshizoraBell"
+            },
+            {
+              "end": 104,
+              "id": "2039323868280635392",
+              "start": 95,
+              "username": "momi_oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWqeapI9M0",
+              "end": 137,
+              "expanded_url": "https://x.com/momi_oxo/status/2099370810217803835/video/1",
+              "media_key": "13_2099369541503705088",
+              "start": 114,
+              "url": "https://t.co/mWqeapI9M0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099598550493729132",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099369541503705088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099370810217803835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momi_oxo: 看板娘全員のBelieve the Rainbow！\nみるく@zuo_yee \nシフォン@Nishino_Madan \nソルト＠HoshizoraBell \n乙姫@momi_oxo \n#maimai https://t.co/mWqeapI9M0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099369541503705088"
+          ]
+        },
+        "author_id": "2039323868280635392",
+        "conversation_id": "2099370810217803835",
+        "created_at": "2026-09-14T05:33:00.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099370810217803835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 92,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "2051650549335089152",
+              "start": 30,
+              "username": "zuo_yee"
+            },
+            {
+              "end": 58,
+              "id": "1702732366697967616",
+              "start": 44,
+              "username": "Nishino_Madan"
+            },
+            {
+              "end": 77,
+              "id": "1617915942079713286",
+              "start": 63,
+              "username": "HoshizoraBell"
+            },
+            {
+              "end": 90,
+              "id": "2039323868280635392",
+              "start": 81,
+              "username": "momi_oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWqeapI9M0",
+              "end": 123,
+              "expanded_url": "https://x.com/momi_oxo/status/2099370810217803835/video/1",
+              "media_key": "13_2099369541503705088",
+              "start": 100,
+              "url": "https://t.co/mWqeapI9M0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099370810217803835",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099369541503705088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 82785,
+          "like_count": 3307,
+          "quote_count": 34,
+          "reply_count": 10,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "看板娘全員のBelieve the Rainbow！\nみるく@zuo_yee \nシフォン@Nishino_Madan \nソルト＠HoshizoraBell \n乙姫@momi_oxo \n#maimai https://t.co/mWqeapI9M0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2099598550493729132",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 181,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-01T12:48:02.000Z",
+        "description": "",
+        "id": "2039323868280635392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099441952676823550",
+        "name": "兎侑",
+        "pinned_tweet_id": "2060040447364612478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039323868280635392/1775110992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077365632634880/EgajvLFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 27,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "momi_oxo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T13:10:03.000Z",
+        "description": "这里是作业！我喜欢你们= ᳐ᗜ ᴗ ᗜ ᳐= ੭ﾞ\n\n超爱milk喵\n好想有一天可以收集milk所有形态的cosplay",
+        "id": "2051650549335089152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099538535397363938",
+        "name": "来点作业",
+        "pinned_tweet_id": "2051656211754610805",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051650549335089152/1777986857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051651344931659776/82P9FCH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "zuo_yee",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-15T17:13:56.000Z",
+        "description": "",
+        "id": "1702732366697967616",
+        "is_identity_verified": false,
+        "name": "西野真団",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052655984255098880/mTv0G4BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Nishino_Madan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-24T16:03:27.000Z",
+        "description": "苦命医学牲，萌新coser\ncosplay/圣地巡礼/live现地/音游\n担当：花里みのり/葛城リーリヤ/牛込りみ/天王洲なずな/珠洲島有栖\n「この翼が、折れてしまっても」\n「世界平和なんて噓だ 皆一人ぼっちだ」",
+        "id": "1617915942079713286",
+        "is_identity_verified": false,
+        "location": "舞ヶ原大学医学部附属精神卫生中心",
+        "most_recent_tweet_id": "2099371351496925431",
+        "name": "星空ベル",
+        "pinned_tweet_id": "2029435968672133212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617915942079713286/1758138904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968402952005238785/ugWfEIGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1699,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "HoshizoraBell",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

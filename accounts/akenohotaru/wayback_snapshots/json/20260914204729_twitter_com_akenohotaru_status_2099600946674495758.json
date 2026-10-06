@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2099600946674495758",
+    "created_at": "2026-09-14T20:47:29.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099600946674495758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Byron_Wan/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Byron_Wan/status/2099543112108658732",
+          "start": 19,
+          "url": "https://t.co/doy7RtOMoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099600946674495758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099543112108658732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太吓人了😱😱我今天下午就在番禺啊😰😰 https://t.co/doy7RtOMoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2947,
+        "height": 640,
+        "media_key": "13_2099543087173484544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099543087173484544/img/fQTltEWuDlC0ZUkg.jpg",
+        "public_metrics": {
+          "view_count": 8244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099543087173484544/vid/avc1/320x400/MucVQ8tnPUEC_9Rv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099543087173484544/vid/avc1/512x640/mB9y1-MkFhYiX4G1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099543087173484544/pl/yvD3jqJmSGq2UWy7.m3u8"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "duration_ms": 16266,
+        "height": 1280,
+        "media_key": "13_2099543087177748480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099543087177748480/img/Of6SjMiOC7QUir-d.jpg",
+        "public_metrics": {
+          "view_count": 2252
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099543087177748480/vid/avc1/320x568/qwK2AWkm7Aq5sFx_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099543087177748480/vid/avc1/480x852/6WwF8LGVanGnCB7j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099543087177748480/vid/avc1/720x1280/mvolFQOCSqn_A3io.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099543087177748480/pl/C8APb0L0TVunAVlv.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2099600946674495758",
+        "created_at": "2026-09-14T20:47:29.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099600946674495758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Byron_Wan/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Byron_Wan/status/2099543112108658732",
+              "start": 19,
+              "url": "https://t.co/doy7RtOMoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099600946674495758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099543112108658732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太吓人了😱😱我今天下午就在番禺啊😰😰 https://t.co/doy7RtOMoX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099543087173484544",
+            "13_2099543087177748480"
+          ]
+        },
+        "author_id": "2888593734",
+        "conversation_id": "2099543112108658732",
+        "created_at": "2026-09-14T16:57:40.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099543112108658732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRunhNtaQ4",
+              "end": 140,
+              "expanded_url": "https://x.com/Byron_Wan/status/2099543112108658732/video/1",
+              "media_key": "13_2099543087173484544",
+              "start": 117,
+              "url": "https://t.co/IRunhNtaQ4"
+            },
+            {
+              "display_url": "pic.x.com/IRunhNtaQ4",
+              "end": 140,
+              "expanded_url": "https://x.com/Byron_Wan/status/2099543112108658732/video/1",
+              "media_key": "13_2099543087177748480",
+              "start": 117,
+              "url": "https://t.co/IRunhNtaQ4"
+            },
+            {
+              "display_url": "x.com/byron_wan/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/byron_wan/status/2099470325436350642",
+              "start": 141,
+              "url": "https://t.co/porwcs4uDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099543112108658732",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099543087173484544"
+          },
+          {
+            "media_key": "13_2099543087177748480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 20217,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099470325436350642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🔪 two of the victims who were brutally stabbed at GOGO Xintiandi in Guangzhou Higher Education Mega Center on Sep 14 https://t.co/IRunhNtaQ4 https://t.co/porwcs4uDV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2099600946674495758",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 181,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-03T14:14:36.000Z",
+        "description": "",
+        "id": "2888593734",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2099578995998437606",
+        "name": "Byron Wan",
+        "pinned_tweet_id": "1746106091442974945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888593734/1457704287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418546921132609540/DVDw3PNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58740,
+          "following_count": 1838,
+          "like_count": 37023,
+          "listed_count": 476,
+          "media_count": 11973,
+          "tweet_count": 69328
+        },
+        "url": "",
+        "username": "Byron_Wan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

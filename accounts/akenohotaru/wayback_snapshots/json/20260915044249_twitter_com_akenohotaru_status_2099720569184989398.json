@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2099489256955895917",
+    "created_at": "2026-09-15T04:42:49.000Z",
+    "display_text_range": [
+      19,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099720569184989398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091692877491716096",
+          "start": 0,
+          "username": "Raiiin_J7"
+        },
+        {
+          "end": 18,
+          "id": "1959893383633358848",
+          "start": 11,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099720569184989398",
+    "in_reply_to_user_id": "2091692877491716096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099702854936395787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raiiin_J7 @Cbscfe 对真的嗨到爆炸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2099489256955895917",
+        "created_at": "2026-09-15T04:42:49.000Z",
+        "display_text_range": [
+          19,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099720569184989398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091692877491716096",
+              "start": 0,
+              "username": "Raiiin_J7"
+            },
+            {
+              "end": 18,
+              "id": "1959893383633358848",
+              "start": 11,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099720569184989398",
+        "in_reply_to_user_id": "2091692877491716096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099702854936395787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raiiin_J7 @Cbscfe 对真的嗨到爆炸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091692877491716096",
+        "conversation_id": "2099489256955895917",
+        "created_at": "2026-09-15T03:32:25.000Z",
+        "display_text_range": [
+          21,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099702854936395787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 20,
+              "id": "1592697440343162880",
+              "start": 8,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099702854936395787",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099684344151576875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @akenohotaru 高剂量pr真的特别欣快啊，我直接轻躁狂，感觉有无限的精力，不过有严重的共济失调，我欣快到静坐不能，活蹦乱跳，真正的磕嗨到爆！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2099720569184989398",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 182,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊：OCD | MDD | 重度睡眠障碍\n是一个ODer💊，自学精神医学中……6g Pr+33度白酒+4.4mg阿普唑仑幸存玩家\n摇滚 | 前卫/迷幻摇滚 | 术力口 | 哲学 | AGC | 泛性向 | 友跨 | 社恐向\n同类互fo~喵（可以叫我小霁哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間",
+        "most_recent_tweet_id": "2099718660881518889",
+        "name": "霽🌈⃤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1787624890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094552771265798144/3iteZZnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 42,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099684911770907051",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 769,
+          "like_count": 25316,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 7191
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

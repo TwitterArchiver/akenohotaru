@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104221092022001664"
+      ],
+      "media_source_tweet_id": [
+        "2104221099760509083"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2104566276735778872",
+    "created_at": "2026-09-28T13:37:55.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104566276735778872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkJSKCUeVi",
+          "end": 64,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2104221099760509083/photo/1",
+          "media_key": "3_2104221092022001664",
+          "start": 41,
+          "url": "https://t.co/RkJSKCUeVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104566276735778872",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104221092022001664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104221099760509083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 中式恐怖：建议先去一楼绿化带找找看...😨 https://t.co/RkJSKCUeVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2104221092022001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOx7z7bIAApK02.jpg",
+        "width": 619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104221092022001664"
+          ],
+          "media_source_tweet_id": [
+            "2104221099760509083"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2104566276735778872",
+        "created_at": "2026-09-28T13:37:55.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104566276735778872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkJSKCUeVi",
+              "end": 64,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2104221099760509083/photo/1",
+              "media_key": "3_2104221092022001664",
+              "start": 41,
+              "url": "https://t.co/RkJSKCUeVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104566276735778872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104221092022001664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104221099760509083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 中式恐怖：建议先去一楼绿化带找找看...😨 https://t.co/RkJSKCUeVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104221092022001664"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2104221099760509083",
+        "created_at": "2026-09-27T14:46:19.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104221099760509083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkJSKCUeVi",
+              "end": 45,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2104221099760509083/photo/1",
+              "media_key": "3_2104221092022001664",
+              "start": 22,
+              "url": "https://t.co/RkJSKCUeVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104221099760509083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104221092022001664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 125622,
+          "like_count": 512,
+          "quote_count": 0,
+          "reply_count": 134,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "中式恐怖：建议先去一楼绿化带找找看...😨 https://t.co/RkJSKCUeVi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2104566276735778872",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 201,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙| 邮箱 ame@amesaku.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2104550750148067771",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100736,
+          "following_count": 3092,
+          "like_count": 8780,
+          "listed_count": 205,
+          "media_count": 760,
+          "tweet_count": 5820
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

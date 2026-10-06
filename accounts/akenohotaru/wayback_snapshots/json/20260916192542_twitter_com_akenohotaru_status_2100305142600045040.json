@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2100294341449429302",
+    "created_at": "2026-09-16T19:25:42.000Z",
+    "display_text_range": [
+      13,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100305142600045040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100305142600045040",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100294341449429302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 你们片源都是哪里找的呀，昨天吃完右美想找幻觉体验视频都找不到呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100294341449429302",
+        "created_at": "2026-09-16T19:25:42.000Z",
+        "display_text_range": [
+          13,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100305142600045040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100305142600045040",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100294341449429302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 你们片源都是哪里找的呀，昨天吃完右美想找幻觉体验视频都找不到呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2100294341449429302",
+        "created_at": "2026-09-16T18:42:47.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100294341449429302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100294341449429302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕了兴奋剂，补药，看恐怖片，吓我，好几跳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/友跨/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100305142600045040",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 188,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100300560822046722",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 308,
+          "like_count": 11776,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3427
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

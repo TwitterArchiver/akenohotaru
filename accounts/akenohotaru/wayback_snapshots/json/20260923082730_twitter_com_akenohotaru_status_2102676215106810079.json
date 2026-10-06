@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2102301917560852782",
+    "created_at": "2026-09-23T08:27:30.000Z",
+    "display_text_range": [
+      10,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102676215106810079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1412787007940481030",
+          "start": 0,
+          "username": "POPWolfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102676215106810079",
+    "in_reply_to_user_id": "1412787007940481030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102629745796301043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POPWolfs 阿片生理欣快没得比，但心理欣快pr不一定输"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2102301917560852782",
+        "created_at": "2026-09-23T08:27:30.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102676215106810079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1412787007940481030",
+              "start": 0,
+              "username": "POPWolfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102676215106810079",
+        "in_reply_to_user_id": "1412787007940481030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102629745796301043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POPWolfs 阿片生理欣快没得比，但心理欣快pr不一定输"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412787007940481030",
+        "conversation_id": "2102301917560852782",
+        "created_at": "2026-09-23T05:22:51.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102629745796301043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102629745796301043",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102301917560852782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 感觉不如...阿片。。欣快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2102676215106810079",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 196,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-07T14:54:12.000Z",
+        "description": "陷入温柔的怀抱里无法自拔",
+        "id": "1412787007940481030",
+        "is_identity_verified": false,
+        "location": "距离您0.8km",
+        "most_recent_tweet_id": "2102629745796301043",
+        "name": "Catrina",
+        "pinned_tweet_id": "2005611380871999565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412787007940481030/1766839539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004812020768821248/LAsUVpn6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 77,
+          "like_count": 11172,
+          "listed_count": 1,
+          "media_count": 530,
+          "tweet_count": 8599
+        },
+        "url": "",
+        "username": "POPWolfs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

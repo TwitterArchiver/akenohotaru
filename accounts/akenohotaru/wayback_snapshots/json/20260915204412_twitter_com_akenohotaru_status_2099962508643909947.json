@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2099962508643909947",
+    "created_at": "2026-09-15T20:44:12.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T21:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099962508643909947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099962508643909947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你🖖🏻相信灵魂吗，我觉得灵魂是真实存在，我一直觉得我走向的每一片道路都是我命运里告诉我这么走的，然后灵魂便会，啊，这让我想到了彼岸花，其实我们在解离时只是让灵魂飘出身体了\n\nP.S.此贴在本人服下30mg哌甲酯，14mg氯硝西泮，30mg佐匹克隆，450mg单方右美，半升红牌斯米诺兑雪碧250ml，万宝路冰爆2纯净两根 写下"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你🖖🏻相信灵魂吗，我觉得灵魂是真实存在，我一直觉得我走向的每一片道路都是我命运里告诉我这么走的，然后灵魂便会，啊，这让我想到了彼岸花，其实我们在解离时只是让灵魂飘出身体了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2099962508643909947",
+        "created_at": "2026-09-15T20:44:12.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099962508643909947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099962508643909947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你🖖🏻相信灵魂吗，我觉得灵魂是真实存在，我一直觉得我走向的每一片道路都是我命运里告诉我这么走的，然后灵魂便会，啊，这让我想到了彼岸花，其实我们在解离时只是让灵魂飘出身体了\n\nP.S.此贴在本人服下30mg哌甲酯，14mg氯硝西泮，30mg佐匹克隆，450mg单方右美，半升红牌斯米诺兑雪碧250ml，万宝路冰爆2纯净两根 写下"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你🖖🏻相信灵魂吗，我觉得灵魂是真实存在，我一直觉得我走向的每一片道路都是我命运里告诉我这么走的，然后灵魂便会，啊，这让我想到了彼岸花，其实我们在解离时只是让灵魂飘出身体了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2099962508643909947",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 185,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1013
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

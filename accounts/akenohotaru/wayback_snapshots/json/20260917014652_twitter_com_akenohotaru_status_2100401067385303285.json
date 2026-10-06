@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2100401067385303285",
+    "created_at": "2026-09-17T01:46:52.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100401067385303285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592697440343162880",
+          "start": 3,
+          "username": "akenohotaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100401067385303285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100386952847749488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akenohotaru: 哦不对，是睡了4个多小时，大概服用后8个小时，我现在s物理欣快感＞瘙痒感＞困意，啊啊啊卧槽，身体真的帅到能忘掉所有不快，要..要升天惹🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100401067385303285",
+        "created_at": "2026-09-17T01:46:52.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100401067385303285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592697440343162880",
+              "start": 3,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100401067385303285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100386952847749488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akenohotaru: 哦不对，是睡了4个多小时，大概服用后8个小时，我现在s物理欣快感＞瘙痒感＞困意，啊啊啊卧槽，身体真的帅到能忘掉所有不快，要..要升天惹🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2100386952847749488",
+        "created_at": "2026-09-17T00:50:47.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100386952847749488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2100381549351023023",
+              "start": 69,
+              "url": "https://t.co/WojoSZChPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100386952847749488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100381549351023023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦不对，是睡了4个多小时，大概服用后8个小时，我现在s物理欣快感＞瘙痒感＞困意，啊啊啊卧槽，身体真的帅到能忘掉所有不快，要..要升天惹🥵 https://t.co/WojoSZChPe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/友跨/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100401067385303285",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 188,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

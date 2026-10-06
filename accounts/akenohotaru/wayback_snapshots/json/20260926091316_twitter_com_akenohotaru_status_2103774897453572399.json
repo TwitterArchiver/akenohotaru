@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103418754726236160",
+        "3_2103418775374848000",
+        "3_2103418794463084544",
+        "3_2103418814167965696"
+      ],
+      "media_source_tweet_id": [
+        "2103418865996993001",
+        "2103418865996993001",
+        "2103418865996993001",
+        "2103418865996993001"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103774897453572399",
+    "created_at": "2026-09-26T09:13:16.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103774897453572399"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793014845132206080",
+          "start": 3,
+          "username": "zhxy111059"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JR0IAjuFZK",
+          "end": 64,
+          "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+          "media_key": "3_2103418754726236160",
+          "start": 41,
+          "url": "https://t.co/JR0IAjuFZK"
+        },
+        {
+          "display_url": "pic.x.com/JR0IAjuFZK",
+          "end": 64,
+          "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+          "media_key": "3_2103418775374848000",
+          "start": 41,
+          "url": "https://t.co/JR0IAjuFZK"
+        },
+        {
+          "display_url": "pic.x.com/JR0IAjuFZK",
+          "end": 64,
+          "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+          "media_key": "3_2103418794463084544",
+          "start": 41,
+          "url": "https://t.co/JR0IAjuFZK"
+        },
+        {
+          "display_url": "pic.x.com/JR0IAjuFZK",
+          "end": 64,
+          "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+          "media_key": "3_2103418814167965696",
+          "start": 41,
+          "url": "https://t.co/JR0IAjuFZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103774897453572399",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103418754726236160"
+      },
+      {
+        "media_key": "3_2103418775374848000"
+      },
+      {
+        "media_key": "3_2103418794463084544"
+      },
+      {
+        "media_key": "3_2103418814167965696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2884
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103418865996993001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhxy111059: #超かぐや姫\n中秋快乐！希望大家都能和爱的人相见 https://t.co/JR0IAjuFZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103418754726236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDYNolaEAA3l59.jpg",
+        "width": 1820
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103418775374848000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDYO1ga4AAbpag.jpg",
+        "width": 1820
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103418794463084544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDYP8naQAA4x9F.jpg",
+        "width": 1820
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103418814167965696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDYRGBa4AA_M3N.jpg",
+        "width": 1820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103418754726236160",
+            "3_2103418775374848000",
+            "3_2103418794463084544",
+            "3_2103418814167965696"
+          ],
+          "media_source_tweet_id": [
+            "2103418865996993001",
+            "2103418865996993001",
+            "2103418865996993001",
+            "2103418865996993001"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103774897453572399",
+        "created_at": "2026-09-26T09:13:16.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103774897453572399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793014845132206080",
+              "start": 3,
+              "username": "zhxy111059"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 64,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418754726236160",
+              "start": 41,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 64,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418775374848000",
+              "start": 41,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 64,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418794463084544",
+              "start": 41,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 64,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418814167965696",
+              "start": 41,
+              "url": "https://t.co/JR0IAjuFZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103774897453572399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103418754726236160"
+          },
+          {
+            "media_key": "3_2103418775374848000"
+          },
+          {
+            "media_key": "3_2103418794463084544"
+          },
+          {
+            "media_key": "3_2103418814167965696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2884
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103418865996993001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhxy111059: #超かぐや姫\n中秋快乐！希望大家都能和爱的人相见 https://t.co/JR0IAjuFZK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103418754726236160",
+            "3_2103418775374848000",
+            "3_2103418794463084544",
+            "3_2103418814167965696"
+          ]
+        },
+        "author_id": "1793014845132206080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103418865996993001",
+        "created_at": "2026-09-25T09:38:31.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103418865996993001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 48,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418754726236160",
+              "start": 25,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 48,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418775374848000",
+              "start": 25,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 48,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418794463084544",
+              "start": 25,
+              "url": "https://t.co/JR0IAjuFZK"
+            },
+            {
+              "display_url": "pic.x.com/JR0IAjuFZK",
+              "end": 48,
+              "expanded_url": "https://x.com/zhxy111059/status/2103418865996993001/photo/1",
+              "media_key": "3_2103418814167965696",
+              "start": 25,
+              "url": "https://t.co/JR0IAjuFZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103418865996993001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103418754726236160"
+          },
+          {
+            "media_key": "3_2103418775374848000"
+          },
+          {
+            "media_key": "3_2103418794463084544"
+          },
+          {
+            "media_key": "3_2103418814167965696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2220,
+          "impression_count": 197754,
+          "like_count": 18672,
+          "quote_count": 19,
+          "reply_count": 29,
+          "retweet_count": 2884
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\n中秋快乐！希望大家都能和爱的人相见 https://t.co/JR0IAjuFZK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2103774897453572399",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 201,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1115
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-21T20:24:17.000Z",
+        "description": "中文/English 画一些画\npixiv：https://t.co/0vBVOkqUci\nbilibili：https://t.co/6xAY2nQwEk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87595559",
+                "end": 45,
+                "expanded_url": "https://www.pixiv.net/users/87595559",
+                "start": 22,
+                "url": "https://t.co/0vBVOkqUci"
+              },
+              {
+                "display_url": "space.bilibili.com/35371064586433…",
+                "end": 78,
+                "expanded_url": "https://space.bilibili.com/3537106458643397?spm_id_from=333.337.0.0",
+                "start": 55,
+                "url": "https://t.co/6xAY2nQwEk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6671370844",
+                "end": 23,
+                "expanded_url": "https://www.weibo.com/u/6671370844",
+                "start": 0,
+                "url": "https://t.co/27kUam2y1M"
+              }
+            ]
+          }
+        },
+        "id": "1793014845132206080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103758199585431815",
+        "name": "zutto_烧烤垃圾桶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793014845132206080/1741411491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858795292260528131/X5tOvbq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23798,
+          "following_count": 1117,
+          "like_count": 1006,
+          "listed_count": 139,
+          "media_count": 132,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/27kUam2y1M",
+        "username": "zhxy111059",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

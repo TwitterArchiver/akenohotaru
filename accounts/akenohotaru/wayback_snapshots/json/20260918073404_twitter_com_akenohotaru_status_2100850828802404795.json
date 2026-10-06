@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2100850828802404795",
+    "created_at": "2026-09-18T07:34:04.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100850828802404795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kop_sega/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/kop_sega/status/2100419499967316100",
+          "start": 13,
+          "url": "https://t.co/HPZhZr2znl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100850828802404795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100419499967316100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要一位绝对王者的回归 https://t.co/HPZhZr2znl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2100419414617460736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYwVD-bkAAaiXx.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2100850828802404795",
+        "created_at": "2026-09-18T07:34:04.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100850828802404795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kop_sega/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kop_sega/status/2100419499967316100",
+              "start": 13,
+              "url": "https://t.co/HPZhZr2znl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100850828802404795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100419499967316100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要一位绝对王者的回归 https://t.co/HPZhZr2znl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100419414617460736"
+          ]
+        },
+        "author_id": "1173945883391455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2100419499967316100",
+        "created_at": "2026-09-17T03:00:07.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100419499967316100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "セガ音ゲー公式全国大会「KING of Performai The 8th」2026年10月エントリー開始！",
+              "display_url": "maimai.sega.jp/kop8th/",
+              "end": 201,
+              "expanded_url": "https://maimai.sega.jp/kop8th/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2100418977600266240/-lPCgNs6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100418977600266240/-lPCgNs6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 178,
+              "status": 200,
+              "title": "KING of Performai The 8th【KOP8th】-オンゲキ・CHUNITHM・maimai でらっくす-",
+              "unwound_url": "https://maimai.sega.jp/kop8th/",
+              "url": "https://t.co/XD71M30cXK"
+            },
+            {
+              "display_url": "pic.x.com/IXuZEyb8Ck",
+              "end": 225,
+              "expanded_url": "https://x.com/kop_sega/status/2100419499967316100/photo/1",
+              "media_key": "3_2100419414617460736",
+              "start": 202,
+              "url": "https://t.co/IXuZEyb8Ck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100419499967316100",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100419414617460736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 266696,
+          "like_count": 4411,
+          "quote_count": 244,
+          "reply_count": 5,
+          "retweet_count": 1690
+        },
+        "reply_settings": "everyone",
+        "text": "🏆『KING of Performai The 8th（KOP8th）』開催決定！🏆\n今年も「オンゲキ」「CHUNITHM」「maimai でらっくす」3タイトルと\n「CHUNITHM」「maimai DX」International ver.（海外版）部門で開催！\n\n10月エントリー開始！続報をお待ちください！！\n\n⬇️『KOP8th』ティザーサイト\nhttps://t.co/XD71M30cXK https://t.co/IXuZEyb8Ck"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100850828802404795",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 192,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-17T13:05:04.000Z",
+        "description": "SEGA音ゲー公式全国大会「KING of Performai（KOP）」公式アカウントです。本アカウントから大会情報を発信していきます。ゲキ！チュウマイ@performai maimai公式 @maimai_official CHUNITHM公式@chunithm オンゲキ公式@ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "performai"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "maimai_official"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "chunithm"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/kop8th/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/kop8th/",
+                "start": 0,
+                "url": "https://t.co/iJFAQSpQZJ"
+              }
+            ]
+          }
+        },
+        "id": "1173945883391455233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100419499967316100",
+        "name": "KING of Performai 公式",
+        "pinned_tweet_id": "2100419499967316100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173945883391455233/1789613882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100418972323901440/tlN7jiHx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31973,
+          "following_count": 6,
+          "like_count": 116,
+          "listed_count": 123,
+          "media_count": 463,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/iJFAQSpQZJ",
+        "username": "kop_sega",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103792670196080640"
+      ],
+      "media_source_tweet_id": [
+        "2103792691670856031"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2104074218099056839",
+    "created_at": "2026-09-27T05:02:40.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T06:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104074218099056839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035674265329303552",
+          "start": 3,
+          "username": "BNDirop_168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcNtMqFVQB",
+          "end": 70,
+          "expanded_url": "https://x.com/BNDirop_168/status/2103792691670856031/photo/1",
+          "media_key": "3_2103792670196080640",
+          "start": 47,
+          "url": "https://t.co/BcNtMqFVQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104074218099056839",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103792670196080640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103792691670856031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BNDirop_168: 見覚えあるなぁって思ったら\nえ？ここ聖地だったん?!マジか https://t.co/BcNtMqFVQB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2103792670196080640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIsSYQboAAUO9A.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103792670196080640"
+          ],
+          "media_source_tweet_id": [
+            "2103792691670856031"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2104074218099056839",
+        "created_at": "2026-09-27T05:02:40.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104074218099056839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035674265329303552",
+              "start": 3,
+              "username": "BNDirop_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcNtMqFVQB",
+              "end": 70,
+              "expanded_url": "https://x.com/BNDirop_168/status/2103792691670856031/photo/1",
+              "media_key": "3_2103792670196080640",
+              "start": 47,
+              "url": "https://t.co/BcNtMqFVQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104074218099056839",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103792670196080640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103792691670856031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BNDirop_168: 見覚えあるなぁって思ったら\nえ？ここ聖地だったん?!マジか https://t.co/BcNtMqFVQB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103792670196080640"
+          ]
+        },
+        "author_id": "2035674265329303552",
+        "conversation_id": "2103792691670856031",
+        "created_at": "2026-09-26T10:23:58.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103792691670856031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcNtMqFVQB",
+              "end": 53,
+              "expanded_url": "https://x.com/BNDirop_168/status/2103792691670856031/photo/1",
+              "media_key": "3_2103792670196080640",
+              "start": 30,
+              "url": "https://t.co/BcNtMqFVQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103792691670856031",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103792670196080640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 703,
+          "impression_count": 451416,
+          "like_count": 7146,
+          "quote_count": 22,
+          "reply_count": 38,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "見覚えあるなぁって思ったら\nえ？ここ聖地だったん?!マジか https://t.co/BcNtMqFVQB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2104074218099056839",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 201,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T11:05:50.000Z",
+        "description": "スタレと百合好きの蜘蛛男好きな不良いろp\n無言フォロ失礼します！\n界隈には入ってないです(圧)\n彼氏　@ilovecr7siuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "ilovecr7siuuu"
+              }
+            ]
+          }
+        },
+        "id": "2035674265329303552",
+        "is_identity_verified": false,
+        "location": "酒寄研究所、所長室のゴミ箱の中",
+        "most_recent_tweet_id": "2103996948017754566",
+        "name": "不良いろは",
+        "pinned_tweet_id": "2101297978531357070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035674265329303552/1789545354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102034940447928320/HZFKdpNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1031,
+          "like_count": 23710,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 16370
+        },
+        "url": "",
+        "username": "BNDirop_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

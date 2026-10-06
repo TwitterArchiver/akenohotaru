@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2099920494174855636",
+    "created_at": "2026-09-16T02:05:23.000Z",
+    "display_text_range": [
+      27,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100043338200297687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 26,
+          "id": "2018986573090717696",
+          "start": 15,
+          "username": "xhFK114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100043338200297687",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099920494174855636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoMing @xhFK114514 啊这算什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2099920488021843968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRqjtkbYAAWrv5.jpg",
+        "width": 1605
+      },
+      {
+        "height": 1058,
+        "media_key": "3_2099920488034336768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRqjtnaAAADjLn.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2099920494174855636",
+        "created_at": "2026-09-16T02:05:23.000Z",
+        "display_text_range": [
+          27,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100043338200297687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 26,
+              "id": "2018986573090717696",
+              "start": 15,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100043338200297687",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099920494174855636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoMing @xhFK114514 啊这算什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099920488021843968",
+            "3_2099920488034336768"
+          ]
+        },
+        "author_id": "1938537315586244608",
+        "conversation_id": "2099920494174855636",
+        "created_at": "2026-09-15T17:57:15.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099920494174855636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2018986573090717696",
+              "start": 19,
+              "username": "xhFK114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9e64wOW0gI",
+              "end": 150,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2099920494174855636/photo/1",
+              "media_key": "3_2099920488021843968",
+              "start": 127,
+              "url": "https://t.co/9e64wOW0gI"
+            },
+            {
+              "display_url": "pic.x.com/9e64wOW0gI",
+              "end": 150,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2099920494174855636/photo/1",
+              "media_key": "3_2099920488034336768",
+              "start": 127,
+              "url": "https://t.co/9e64wOW0gI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099920494174855636",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099920488021843968"
+          },
+          {
+            "media_key": "3_2099920488034336768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想挂人但是我实在不知道您是想干什么@xhFK114514 \n我想我们之间目前应该没有任何联系\n很遗憾这个群我开了免打扰没能看到您撤回了什么消息\n不过我猜应该不是什么好东西不然您也不会如此大费周章地撤回还把群解散了\n那剩下这几条是故意留给我看的吗（？ https://t.co/9e64wOW0gI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2100043338200297687",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 185,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2099927342944809404",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2099731959014682712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1126,
+          "like_count": 7262,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车!)/大一/社恐/无糖(?)/不od(?)/不割手/互关/喵\n重要的日子：2026年3月15日/2026年5月2日",
+        "id": "2018986573090717696",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2097447174925881405",
+        "name": "阿这",
+        "pinned_tweet_id": "2056384618971173300",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 835,
+          "like_count": 9841,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "xhFK114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101558574162087936"
+      ],
+      "media_source_tweet_id": [
+        "2101558617304641824"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101616985717231924",
+    "created_at": "2026-09-20T10:18:30.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101616985717231924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016108236567674880",
+          "start": 3,
+          "username": "o001101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StNaV6PeEM",
+          "end": 52,
+          "expanded_url": "https://x.com/o001101/status/2101558617304641824/video/1",
+          "media_key": "13_2101558574162087936",
+          "start": 29,
+          "url": "https://t.co/StNaV6PeEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101616985717231924",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2101558574162087936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101558617304641824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o001101: 이런걸볼수있어서감사하게생각함 https://t.co/StNaV6PeEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90177,
+        "height": 720,
+        "media_key": "13_2101558574162087936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101558574162087936/img/R-Ahn_3WWwPrKKSz.jpg",
+        "public_metrics": {
+          "view_count": 60289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101558574162087936/vid/avc1/360x270/Jra-AjNVgdDGe2YN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101558574162087936/vid/avc1/480x360/TDRiJnUQyiEAc-qs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101558574162087936/vid/avc1/960x720/t0KXvbERTAOdPbnX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101558574162087936/pl/KN8DEoAh3DTYEa1d.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101558574162087936"
+          ],
+          "media_source_tweet_id": [
+            "2101558617304641824"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101616985717231924",
+        "created_at": "2026-09-20T10:18:30.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101616985717231924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016108236567674880",
+              "start": 3,
+              "username": "o001101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StNaV6PeEM",
+              "end": 52,
+              "expanded_url": "https://x.com/o001101/status/2101558617304641824/video/1",
+              "media_key": "13_2101558574162087936",
+              "start": 29,
+              "url": "https://t.co/StNaV6PeEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101616985717231924",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2101558574162087936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101558617304641824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o001101: 이런걸볼수있어서감사하게생각함 https://t.co/StNaV6PeEM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101558574162087936"
+          ]
+        },
+        "author_id": "2016108236567674880",
+        "conversation_id": "2101558617304641824",
+        "created_at": "2026-09-20T06:26:34.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101558617304641824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StNaV6PeEM",
+              "end": 39,
+              "expanded_url": "https://x.com/o001101/status/2101558617304641824/video/1",
+              "media_key": "13_2101558574162087936",
+              "start": 16,
+              "url": "https://t.co/StNaV6PeEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101558617304641824",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2101558574162087936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 102742,
+          "like_count": 5991,
+          "quote_count": 30,
+          "reply_count": 2,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "이런걸볼수있어서감사하게생각함 https://t.co/StNaV6PeEM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101616985717231924",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 193,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1060
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T11:17:26.000Z",
+        "description": "귀농",
+        "id": "2016108236567674880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101594311821267169",
+        "name": "2",
+        "pinned_tweet_id": "2056402306929987902",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048397220643520512/swskmIiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6110,
+          "following_count": 2689,
+          "like_count": 68766,
+          "listed_count": 10,
+          "media_count": 341,
+          "tweet_count": 2067
+        },
+        "url": "",
+        "username": "o001101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

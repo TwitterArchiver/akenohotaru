@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103163652899844096"
+      ],
+      "media_source_tweet_id": [
+        "2103164795386286100"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2103210540118204725",
+    "created_at": "2026-09-24T19:50:43.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T20:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103210540118204725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2567097175",
+          "start": 3,
+          "username": "mokkei_VE"
+        }
+      ],
+      "urls": [
+        {
+          "description": "映画『超かぐや姫！』劇中に登場する仮想空間「ツクヨミ」を再現した公式ワールド。ヤチヨがVRChatの操作方法を教えてくれるチュートリアルエリアを先行公開中！ヤチヨの鳥居建設をサポートできるミニゲームも遊べます。「ツクヨミ」メインエリアは後日公開予定！ 無料オンラインライブ「ツクヨミ感謝祭」は12月26日21˸00（JST）開催！",
+          "display_url": "vrchat.com/home/world/wrl…",
+          "end": 113,
+          "expanded_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 90,
+          "status": 200,
+          "title": "【公式】仮想空間＜ツクヨミ＞【超かぐや姫！】 by ツクヨミ感謝祭実行委員会",
+          "unwound_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+          "url": "https://t.co/I2VCwK8dw1"
+        },
+        {
+          "display_url": "pic.x.com/pWc5nRneaK",
+          "end": 137,
+          "expanded_url": "https://x.com/mokkei_VE/status/2103164795386286100/video/1",
+          "media_key": "13_2103163652899844096",
+          "start": 114,
+          "url": "https://t.co/pWc5nRneaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103210540118204725",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2103163652899844096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103164795386286100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokkei_VE: 『超かぐや姫!』公式ワールドやばい、本当にヤチヨがいる……\n二次創作とかじゃない公式の本物のヤチヨと同じ空間にいる……\n声優もちゃんとはやみんだ……\nhttps://t.co/I2VCwK8dw1 https://t.co/pWc5nRneaK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149332,
+        "height": 1080,
+        "media_key": "13_2103163652899844096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103163652899844096/img/FgeCL2XmJrutSy9z.jpg",
+        "public_metrics": {
+          "view_count": 12294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103163652899844096/vid/avc1/480x270/oKczx0vHAYUKiyW9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103163652899844096/pl/NjEvAnMxc_8_D8yP.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103163652899844096/vid/avc1/1920x1080/_pexcaxwFrOCT4QL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103163652899844096/vid/avc1/1280x720/PchzgPMwBhrr4IxQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103163652899844096/vid/avc1/640x360/vSC8GaVx-CAGeoVY.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103163652899844096"
+          ],
+          "media_source_tweet_id": [
+            "2103164795386286100"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2103210540118204725",
+        "created_at": "2026-09-24T19:50:43.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103210540118204725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2567097175",
+              "start": 3,
+              "username": "mokkei_VE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "映画『超かぐや姫！』劇中に登場する仮想空間「ツクヨミ」を再現した公式ワールド。ヤチヨがVRChatの操作方法を教えてくれるチュートリアルエリアを先行公開中！ヤチヨの鳥居建設をサポートできるミニゲームも遊べます。「ツクヨミ」メインエリアは後日公開予定！ 無料オンラインライブ「ツクヨミ感謝祭」は12月26日21˸00（JST）開催！",
+              "display_url": "vrchat.com/home/world/wrl…",
+              "end": 113,
+              "expanded_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "【公式】仮想空間＜ツクヨミ＞【超かぐや姫！】 by ツクヨミ感謝祭実行委員会",
+              "unwound_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+              "url": "https://t.co/I2VCwK8dw1"
+            },
+            {
+              "display_url": "pic.x.com/pWc5nRneaK",
+              "end": 137,
+              "expanded_url": "https://x.com/mokkei_VE/status/2103164795386286100/video/1",
+              "media_key": "13_2103163652899844096",
+              "start": 114,
+              "url": "https://t.co/pWc5nRneaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103210540118204725",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103163652899844096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103164795386286100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokkei_VE: 『超かぐや姫!』公式ワールドやばい、本当にヤチヨがいる……\n二次創作とかじゃない公式の本物のヤチヨと同じ空間にいる……\n声優もちゃんとはやみんだ……\nhttps://t.co/I2VCwK8dw1 https://t.co/pWc5nRneaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103163652899844096"
+          ]
+        },
+        "author_id": "2567097175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2103164795386286100",
+        "created_at": "2026-09-24T16:48:56.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103164795386286100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "映画『超かぐや姫！』劇中に登場する仮想空間「ツクヨミ」を再現した公式ワールド。ヤチヨがVRChatの操作方法を教えてくれるチュートリアルエリアを先行公開中！ヤチヨの鳥居建設をサポートできるミニゲームも遊べます。「ツクヨミ」メインエリアは後日公開予定！ 無料オンラインライブ「ツクヨミ感謝祭」は12月26日21˸00（JST）開催！",
+              "display_url": "vrchat.com/home/world/wrl…",
+              "end": 98,
+              "expanded_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103137781971300352/CPrWybFd?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "【公式】仮想空間＜ツクヨミ＞【超かぐや姫！】 by ツクヨミ感謝祭実行委員会",
+              "unwound_url": "https://vrchat.com/home/world/wrld_2dfd7562-8127-4091-856b-f34a2947b22b/info",
+              "url": "https://t.co/I2VCwK8dw1"
+            },
+            {
+              "display_url": "pic.x.com/pWc5nRneaK",
+              "end": 122,
+              "expanded_url": "https://x.com/mokkei_VE/status/2103164795386286100/video/1",
+              "media_key": "13_2103163652899844096",
+              "start": 99,
+              "url": "https://t.co/pWc5nRneaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103164795386286100",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103163652899844096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 26211,
+          "like_count": 1004,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "『超かぐや姫!』公式ワールドやばい、本当にヤチヨがいる……\n二次創作とかじゃない公式の本物のヤチヨと同じ空間にいる……\n声優もちゃんとはやみんだ……\nhttps://t.co/I2VCwK8dw1 https://t.co/pWc5nRneaK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2103210540118204725",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 200,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1112
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-06-14T13:03:49.000Z",
+        "description": "バーチャルの力でそっちの世界と関わるようになって9年目 /\n遺跡を彷徨う探跡家 /\n映画とかVRが好き /\nご要件がある際はDMでご連絡ください /\nVRChat開始2018年3月 / VTuberデビュー2018年5月 / VRChat ID : 探跡家もっけい【mokkei】 / 使用機器：Pimax&Index",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCsiTW…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCsiTWI8i_-weoHyg2LKnHGg?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/RHMiWeeidm"
+              }
+            ]
+          }
+        },
+        "id": "2567097175",
+        "is_identity_verified": false,
+        "location": "遺跡近郊の基地",
+        "most_recent_tweet_id": "2103188383485088002",
+        "name": "探跡家もっけい",
+        "pinned_tweet_id": "1657129575812571137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2567097175/1586040537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638982832445067264/4FYyzPS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18874,
+          "following_count": 14,
+          "like_count": 15306,
+          "listed_count": 229,
+          "media_count": 13619,
+          "tweet_count": 96198
+        },
+        "url": "https://t.co/RHMiWeeidm",
+        "username": "mokkei_VE",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

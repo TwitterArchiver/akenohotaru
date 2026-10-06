@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592697440343162880",
+    "conversation_id": "2099723923638403145",
+    "created_at": "2026-09-15T14:59:48.000Z",
+    "display_text_range": [
+      24,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099875837592076498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1498687249768194057",
+          "start": 0,
+          "username": "Optron_x"
+        },
+        {
+          "end": 23,
+          "id": "1978297494464585728",
+          "start": 10,
+          "username": "misaki102113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099875837592076498",
+    "in_reply_to_user_id": "1498687249768194057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099781347963503047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Optron_x @misaki102113 如果你硬要比那确实有，但跟pr的身体戒断至少排到后面几个小数点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2099723923638403145",
+        "created_at": "2026-09-15T14:59:48.000Z",
+        "display_text_range": [
+          24,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099875837592076498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1498687249768194057",
+              "start": 0,
+              "username": "Optron_x"
+            },
+            {
+              "end": 23,
+              "id": "1978297494464585728",
+              "start": 10,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099875837592076498",
+        "in_reply_to_user_id": "1498687249768194057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099781347963503047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Optron_x @misaki102113 如果你硬要比那确实有，但跟pr的身体戒断至少排到后面几个小数点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498687249768194057",
+        "conversation_id": "2099723923638403145",
+        "created_at": "2026-09-15T08:44:20.000Z",
+        "display_text_range": [
+          27,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099781347963503047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 26,
+              "id": "1978297494464585728",
+              "start": 13,
+              "username": "misaki102113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099781347963503047",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099732262573232360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @misaki102113 Bzd同样生理戒断啊，抑制剂类"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/ENTJ/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，生理and物理欣快，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2099875837592076498",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 184,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-01T15:51:38.000Z",
+        "description": "QUARTZ",
+        "id": "1498687249768194057",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099874208293831135",
+        "name": "Optron",
+        "pinned_tweet_id": "1820205825358762180",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789459005531987968/JdA_AKS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 4253,
+          "like_count": 33791,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 3628
+        },
+        "url": "",
+        "username": "Optron_x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099853308466966978",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 3370,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

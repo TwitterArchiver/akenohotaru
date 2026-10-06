@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101440452860030976"
+      ],
+      "media_source_tweet_id": [
+        "2101612333353103459"
+      ]
+    },
+    "author_id": "1592697440343162880",
+    "conversation_id": "2101637016454853032",
+    "created_at": "2026-09-20T11:38:05.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101637016454853032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "67805340",
+          "start": 3,
+          "username": "nanashiwan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ieBJy5yrdQ",
+          "end": 58,
+          "expanded_url": "https://x.com/nanashiwan/status/2101612333353103459/photo/1",
+          "media_key": "3_2101440452860030976",
+          "start": 35,
+          "url": "https://t.co/ieBJy5yrdQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101637016454853032",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101440452860030976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 946
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101612333353103459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanashiwan: 超リアル4DXシアター【超かぐや姫】 https://t.co/ieBJy5yrdQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2101440452860030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnQ9T1bsAASVEv.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101440452860030976"
+          ],
+          "media_source_tweet_id": [
+            "2101612333353103459"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "conversation_id": "2101637016454853032",
+        "created_at": "2026-09-20T11:38:05.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101637016454853032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "67805340",
+              "start": 3,
+              "username": "nanashiwan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieBJy5yrdQ",
+              "end": 58,
+              "expanded_url": "https://x.com/nanashiwan/status/2101612333353103459/photo/1",
+              "media_key": "3_2101440452860030976",
+              "start": 35,
+              "url": "https://t.co/ieBJy5yrdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101637016454853032",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101440452860030976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 946
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101612333353103459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanashiwan: 超リアル4DXシアター【超かぐや姫】 https://t.co/ieBJy5yrdQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101440452860030976"
+          ]
+        },
+        "author_id": "67805340",
+        "conversation_id": "2101612333353103459",
+        "created_at": "2026-09-20T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101612333353103459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieBJy5yrdQ",
+              "end": 42,
+              "expanded_url": "https://x.com/nanashiwan/status/2101612333353103459/photo/1",
+              "media_key": "3_2101440452860030976",
+              "start": 19,
+              "url": "https://t.co/ieBJy5yrdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101612333353103459",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101440452860030976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 107946,
+          "like_count": 8201,
+          "quote_count": 14,
+          "reply_count": 19,
+          "retweet_count": 944
+        },
+        "reply_settings": "everyone",
+        "text": "超リアル4DXシアター【超かぐや姫】 https://t.co/ieBJy5yrdQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101637016454853032",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 193,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-22T03:42:47.000Z",
+        "description": "ちゃなつ！(な！)といいます。よくお絵かきして遊んでます。■『があるふれんど(かり)(電撃)』『ココロコネクト-ON Air-(角川)』他■誕生日8月9日 ■サブ垢→@nanashiwan2nd ■返信は気まぐれ🙃■サークル『なむあーる』■次回イベ→9/23ツクヨミスクエア2【F10】9/26ヤオヨロー！2【ロ16】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "nanashiwan2nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/chanatsu",
+                "end": 23,
+                "expanded_url": "https://potofu.me/chanatsu",
+                "start": 0,
+                "url": "https://t.co/MIY94qcmAl"
+              }
+            ]
+          }
+        },
+        "id": "67805340",
+        "is_identity_verified": false,
+        "location": "カピバラ温泉♨️",
+        "most_recent_tweet_id": "2101635892876304728",
+        "name": "ちゃなつ！☕️9/23ﾂｸﾖﾐｽｸｴｱ2【F10】9/26ﾔｵﾖﾛｰ!2【ロ16】",
+        "pinned_tweet_id": "2100162781853122870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67805340/1777032166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047647429068267520/ta8pNaIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63216,
+          "following_count": 302,
+          "like_count": 17652,
+          "listed_count": 701,
+          "media_count": 980,
+          "tweet_count": 32921
+        },
+        "url": "https://t.co/MIY94qcmAl",
+        "username": "nanashiwan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
